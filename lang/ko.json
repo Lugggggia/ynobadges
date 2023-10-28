@@ -3425,7 +3425,7 @@
       "condition": "Silent Laughter 이벤트를 보기"
     },
     "computer_maze_void": {
-      "name": "딥웹 공간",
+      "name": "딥웹 공허",
       "condition": "Computer Maze의 마지막 맵에 도달하기"
     }
   },
