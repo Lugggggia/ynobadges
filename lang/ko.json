@@ -126,14 +126,14 @@
       "condition": "NovAflow(챗봇)가 되기"
     },
     "unconscious_dev": {
-      "name": "Collective Unconscious Developer",
-      "description": "Reserved for Collective Unconscious developers",
-      "condition": "Contribute maps or to the core system of Collective Unconscious"
+      "name": "Collective Unconscious 개발자",
+      "description": "Collective Unconscious 개발자들에게 수여하는 배지입니다",
+      "condition": "Collective Unconscious의 맵이나 핵심 시스템을 만드는 데 참여하기"
     },
     "zaakarias": {
-      "name": "The Beaver",
-      "description": "Goal: make an entire movie in 37x37",
-      "condition": "Zaakarias가 되기"
+      "name": "비버",
+      "description": "목표: 37x37 면적 내에서 영화 한편 만들어내기",
+      "condition": "Zaakarias(배지 개발자 이름)가 되기"
     }
   },
   "yume": {
@@ -246,7 +246,7 @@
     },
     "eye": {
       "name": "사로잡힌 눈",
-      "condition": "Step on the eye tile in Lamp World"
+      "condition": "숫자의 세계 : 전등의 세계에 있는 눈알 타일을 밟기"
     },
     "bottles": {
       "name": "이온음료",
@@ -375,10 +375,10 @@
     },
     "docks_yume": {
       "name": "삼도천",
-      "condition": "Visit the Docks A and the Docks B",
+      "condition": "삼도천 A와 삼도천 B를 모두 방문하기",
       "checkbox": {
-        "docks_a": "Docks A",
-        "docks_b": "Docks B"
+        "docks_a": "삼도천 A",
+        "docks_b": "삼도천 B"
       }
     },
     "ghostly_assembly": {
@@ -429,155 +429,155 @@
       "condition": "호수에서 외눈박이 장경룡(Kasei's kid) NPC와 마주치기"
     },
     "sewers_painting": {
-      "name": "Strange Markings",
-      "description": "Those are some weird pictures...",
-      "condition": "Interact with any of the drawings in the Sewers"
+      "name": "괴상한 표식들",
+      "description": "좀 이상한 그림들이네...",
+      "condition": "하수구에서 검은 액자 속 그림들과 상호작용하기"
     },
     "mafurako_block_world": {
-      "name": "Block Traveler",
-      "description": "You've been here before.",
-      "condition": "Visit every place where Mafurako can teleport you in Block World"
+      "name": "블록 여행가",
+      "description": "아 여기 왔던 곳이었지",
+      "condition": "블록의 세계에서 머플러코 NPC가 플레이어를 텔레포트 시킬 수 있는 모든 위치에 도달하기"
     },
     "desert_block_world": {
-      "name": "From Block to Mono",
-      "condition": "Visit White Desert A from Block World"
+      "name": "블록에서 흑백까지",
+      "condition": "블록의 세계에서 흑백 세계 A에 도달하기"
     },
     "mall_underground_link": {
-      "name": "Going Up?",
-      "description": "First floor",
-      "condition": "Take the one-way trip from Underground World to the Mall"
+      "name": "올라갑니다",
+      "description": "1층 입니다",
+      "condition": "지하실에서 백화점으로 운행하는 일방통행 엘레베이터에 탑승하기"
     },
     "crick_in_the_neck": {
-      "name": "Slept Wrong",
-      "condition": "Trigger the Crick in the Neck event"
+      "name": "잘못 잠들다",
+      "condition": "현실의 방에서 담 결림(the Crick in the Neck) 이벤트를 보기"
     },
     "stoplight_effect": {
-      "name": "A Normal Corpse",
-      "description": "How long has this been here...?",
-      "condition": "Obtain the Stoplight effect. If you have already unlocked it, return to the end of the Road."
+      "name": "평범한 시체",
+      "description": "얼마동안 여기에 방치되어 있었던거야...?",
+      "condition": "수해 B에서 신호등 이펙트를 획득하기 (이미 얻은 상태라면 시체가 있었던 도로에 도달하기)"
     },
     "fc_completionist": {
-      "name": "So So Retro",
-      "description": "Maybe you should get a Super FC.",
-      "condition": "Visit FC House, FC World A, FC World B, and FC Dungeon",
+      "name": "레트로 갬성",
+      "description": "집에 슈퍼 패미컴 하나 사놓지 그래?",
+      "condition": "FC 맵, FC 유적 A, FC 유적 B, FC 유적 : 던전에 방문하기",
       "checkbox": {
-        "fc_house_outside|fc_house_oni_room": "FC House",
-        "fc_world_a_wilderness|fc_world_a_house_section|fc_world_a_main": "FC World A",
-        "fc_world_b_barracks|fc_world_b_main": "FC World B",
-        "fc_dungeon": "FC Dungeon"
+        "fc_house_outside|fc_house_oni_room": "FC 맵",
+        "fc_world_a_wilderness|fc_world_a_house_section|fc_world_a_main": "FC 유적 A",
+        "fc_world_b_barracks|fc_world_b_main": "FC 유적 B",
+        "fc_dungeon": "FC 유적 : 던전"
       }
     },
     "towel_effect": {
-      "name": "Comfy...?",
-      "description": "As long as this towel wrapping around me isn't some sort of yokai, I'll be just fine... right?",
-      "condition": "Obtain the Towel effect. If you have already unlocked it, return to the main area of Wilderness."
+      "name": "포근한 건가...?",
+      "description": "타올에 귀신만 안 씌었다면 덮어써도 괜찮겠...지?",
+      "condition": "고비 사막에서 타올 이펙트를 획득하기 (이미 얻은 상태라면 타올이 있었던 고비 사막의 메인 구역에 도달하기)"
     },
     "thunder_oni": {
-      "name": "Stormbringer",
-      "description": "I am the sky, and the sky is me!",
+      "name": "뇌신무장",
+      "description": "내가 바로 하늘의 시작이자 끝이니라!",
       "condition": "수해 A에서 도깨비 이펙트를 사용하여 천둥번개를 치게 하기"
     },
     "snow_woman_effect": {
-      "name": "The Snowy Spirit",
-      "description": "This ancient spirit returns incarnated in your own body",
-      "condition": "Obtain the Snow Woman effect. If you have already unlocked it, return to Snow World."
+      "name": "설백의 영가",
+      "description": "당신의 몸에 깃들었던 고대의 영혼이 부활하였다",
+      "condition": "눈의 세계에서 설녀 이펙트를 획득하기 (이미 얻은 상태라면 눈의 세계에 입장하기)"
     },
     "flute_effect": {
-      "name": "Floating Notes",
-      "condition": "Obtain the Flute effect. If you have already unlocked it, return to the Flute room in the Mall."
+      "name": "떠다니는 음표들",
+      "condition": "백화점에서 피리 이펙트를 획득하기 (이미 얻은 상태라면 피리가 있었던 방에 도달하기)"
     },
     "midget_effect": {
-      "name": "March of the Minis",
-      "description": "We are one! We are many!",
-      "condition": "Obtain the Midget effect. If you have already unlocked it, return to Candle World."
+      "name": "소인들의 행진",
+      "description": "우리는 하나! 우리는 많아!",
+      "condition": "양초의 세계에서 소인 이펙트를 획득하기 (이미 얻은 상태라면 양초의 세계에 입장하기)"
     },
     "witch_effect": {
-      "name": "Yume Witchi",
-      "description": "A magical girl with an amazing, floating broom! (Note: Results may be disappointing. If dissatisfied, consider riding a bicycle.)",
-      "condition": "Obtain the Witch effect. If you have already unlocked it, return at the end of the Witch's Island."
+      "name": "유메윗치",
+      "description": "날아다니는 엄청난 빗자루를 가진 마법소녀! (추신: 결과가 불만족스러운 경우가 생길 수 있습니다. 그럴땐 자전거 탑승을 고려해보시길 바랍니다.)",
+      "condition": "호수에서 마녀 이펙트를 획득하기 (이미 얻은 상태라면 마녀를 획득했던 섬에 도달하기)"
     },
     "hat_and_scarf_effect": {
-      "name": "Warmth",
-      "description": "Don't catch a cold!",
-      "condition": "Obtain the Hat & Scarf effect. If you have already unlocked it, return to Block World."
+      "name": "온기",
+      "description": "감기 걸리지 말렴!",
+      "condition": "블록의 세계에서 모자와 머플러 이펙트를 획득하기 (이미 얻은 상태라면 블록의 세계에 입장하기)"
     },
     "kitchen_knife_effect": {
-      "name": "Shiny Knife",
-      "description": "You can see your reflection in the blade",
-      "condition": "Obtain the Kitchen Knife effect. If you have already unlocked it, return to Dark World."
+      "name": "번뜩이는 식칼",
+      "description": "칼날에 당신이 비쳐보인다",
+      "condition": "어둠의 세계에서 식칼 이펙트를 획득하기 (이미 얻은 상태라면 어둠의 세계에 입장하기)"
     },
     "staircase_nikki": {
-      "name": "Nightmarish Descent",
-      "description": "Did you really lie on all those beds to get this? Weird",
-      "condition": "Reach Staircase of Hands from Madotsuki's Dream Room, Block World, Snow World, Candle World, and Number World",
+      "name": "악몽같은 추락",
+      "description": "이거 하나 얻을려고 모든 침대에 가서 누워본거야? 이상해",
+      "condition": "꿈의 방, 블록의 세계, 눈의 세계, 양초의 세계, 숫자의 세계에서 꿈속의 꿈으로 이동하기",
       "checkbox": {
-        "staircase_hands_1": "Madotsuki's Dream Room",
-        "staircase_hands_2": "Block World",
-        "staircase_hands_3": "Snow World",
-        "staircase_hands_4": "Candle World",
-        "staircase_hands_5": "Number World"
+        "staircase_hands_1": "꿈의 방",
+        "staircase_hands_2": "블록의 세계",
+        "staircase_hands_3": "눈의 세계",
+        "staircase_hands_4": "양초의 세계",
+        "staircase_hands_5": "숫자의 세계"
       }
     },
     "hair_effects": {
-      "name": "Bad Hair Day",
-      "description": "Why have one hairstyle when you can have four?",
-      "condition": "Obtain the Long Hair, Blonde, and Poo Hair effect. If you have already unlocked them, return where they can be found.",
+      "name": "머리 망한 날",
+      "description": "머리 모양을 네종류 씩이나 바꿀 수 있는데 왜 하나 뿐이세요?",
+      "condition": "벽화의 세계에서 긴 머리와 금발, 꿈속의 꿈에서 똥머리 이펙트를 획득하기 (이미 얻은 상태라면 이펙트를 얻었던 장소에 도달하기)",
       "checkbox": {
-        "long_hair_effect": "Long Hair",
-        "blonde_hair_effect": "Blonde",
-        "poo_hair_effect": "Poo Hair"
+        "long_hair_effect": "긴 머리",
+        "blonde_hair_effect": "금발",
+        "poo_hair_effect": "똥머리"
       }
     },
     "big_red_sewers": {
-      "name": "Devilish Glutton",
-      "description": "Waiter, more children please!",
-      "condition": "Get eaten by Big Red in the Sewers"
+      "name": "사탄같은 먹성",
+      "description": "주모, 여기 어린애 하나 추가요!",
+      "condition": "하수구에서 빅 레드(Big Red)에게 잡아먹히기"
     },
     "barracks_settlement": {
-      "name": "Dirt and Pylons",
-      "description": "Dirt and pylons, holes and houses...",
-      "condition": "Visit Barracks Settlement"
+      "name": "흙먼지와 전신주",
+      "description": "흙먼지와 전신주, 구멍과 주택...",
+      "condition": "고비 사막 : 판자촌에 도달하기"
     },
     "nasu_ruby": {
-      "name": "Cardboard NASU",
-      "description": "A handmade prize for achieving this goal!",
-      "condition": "Score exactly 290 points in NASU EX"
+      "name": "골판지 NASU",
+      "description": "이 목표을 달성한 것에 대한 수제작 상품입니다!",
+      "condition": "NASU EX에서 정확히 290점을 얻기"
     },
     "neon_effect": {
-      "name": "Man, It's So Bright In Here",
-      "description": "Though man-made light at night is very bright...",
-      "condition": "Obtain the Neon effect. If you have already unlocked it, return to Neon World."
+      "name": "으악 내눈",
+      "description": "야밤에 인공조명은 너무 밝잖아...",
+      "condition": "네온의 세계에서 네온 이펙트를 획득하기 (이미 얻은 상태라면 네온의 세계에 입장하기)"
     },
     "umbrella_effect": {
-      "name": "A Whisper of Rain",
-      "description": "The rain doesn't call for my umbrella - my umbrella calls for the rain.",
-      "condition": "Obtain the Umbrella effect. If you have already unlocked it, return to Puddle World."
+      "name": "빗속의 속삭임",
+      "description": "비가 내 우산을 부르지 않고 ㅡ 내 우산이 비를 불렀다",
+      "condition": "비의 세계에서 우산 이펙트를 획득하기 (이미 얻은 상태라면 비의 세계에 입장하기)"
     }
   },
   "2kki": {
     "compass": {
       "name": "탐험가",
-      "condition": "Complete expeditions to 25 unique locations"
+      "condition": "25 곳의 각기다른 장소에서 탐험을 완료하기"
     },
     "compass_bronze": {
       "name": "브론즈 탐험가",
-      "condition": "Complete expeditions to 50 unique locations"
+      "condition": "50 곳의 각기다른 장소에서 탐험을 완료하기"
     },
     "compass_silver": {
       "name": "실버 탐험가",
-      "condition": "Complete expeditions to 100 unique locations"
+      "condition": "100 곳의 각기다른 장소에서 탐험을 완료하기"
     },
     "compass_gold": {
       "name": "골드 탐험가",
-      "condition": "Complete expeditions to 200 unique locations"
+      "condition": "200 곳의 각기다른 장소에서 탐험을 완료하기"
     },
     "compass_platinum": {
       "name": "플래티넘 탐험가",
-      "condition": "Complete expeditions to 400 unique locations"
+      "condition": "400 곳의 각기다른 장소에서 탐험을 완료하기"
     },
     "compass_diamond": {
       "name": "다이아몬드 탐험가",
-      "condition": "Complete expeditions to 800 unique locations"
+      "condition": "800 곳의 각기다른 장소에서 탐험을 완료하기"
     },
     "uro_trophy_bronze": {
       "name": "브론즈 우로츠키 트로피",
@@ -625,8 +625,8 @@
       "condition": "Chess World의 체스판에 도달하기"
     },
     "silver_whale": {
-      "name": "Silver Whale",
-      "description": "Eternally swimming in an intergalactic infinite pool.",
+      "name": "은빛 고래",
+      "description": "무한한 우주라는 수영장 속에서 헤엄치고 있다",
       "condition": "Silver Mansion에서 고래를 포착하기"
     },
     "obentou": {
@@ -635,8 +635,8 @@
       "condition": "Obentou World에 도달하기"
     },
     "rainbow_paint": {
-      "name": "Rainbow-Colored Dreams",
-      "description": "Turn the world into your canvas",
+      "name": "무지개빛 꿈",
+      "description": "세상을 캔버스로 바꾸자",
       "condition": "Pencil World의 그림 퍼즐을 해결하기"
     },
     "rainbow_picture": {
@@ -646,7 +646,7 @@
     "compass_28": {
       "name": "28",
       "description": "２８",
-      "condition": "Step into the blood puddle in the Unknown Child's Room"
+      "condition": "Unknown Child's Room에서 특정 이벤트에 나타나는 피웅덩이 위에 올라서기"
     },
     "blue_orb": {
       "name": "파란 구슬",
@@ -814,7 +814,7 @@
     "clover": {
       "name": "심홍색 클로버",
       "description": "운수대통!",
-      "condition": "Reach Gallery of Me"
+      "condition": "Gallery of Me에 도달하기"
     },
     "pacifist": {
       "name": "평화주의자",
@@ -858,8 +858,8 @@
       "condition": "Ruined Garden의 숨겨진 방에 입장하기"
     },
     "moai_bro": {
-      "name": "Moai, Bro!",
-      "description": "Free my boy Moai Bro he didn't do anything wrong",
+      "name": "모아이야!",
+      "description": "제 친구 모아이를 풀어주세요... 걘 아무 잘못도 없어요",
       "condition": "Sea of Clouds에서 모아이 석상 NPC가 위치한 백색 감옥에 도달하기"
     },
     "hebiko": {
@@ -876,8 +876,8 @@
       }
     },
     "cosmic_cube": {
-      "name": "Cubes Of Cosmos",
-      "description": "Prisms of infinity in a glittering galactic garden",
+      "name": "우주가 담긴 큐브",
+      "description": "반짝거리는 은하계 정원에 무한히 펼쳐진 프리즘들",
       "condition": "Cosmic Cube World에 도달하기"
     },
     "firehead": {
@@ -900,13 +900,13 @@
       "condition": "Time Trial Mode를 켜고 Rusted Factory의 가장 깊은 곳에 위치한 방에 {TIME} 이내로 도달하기"
     },
     "sea_lily": {
-      "name": "Sparkling Sea Lily",
-      "description": "Funky and vibrant crinoids!",
+      "name": "번쩍거리는 수련",
+      "description": "파격적이게 다채로운 바다나리!",
       "condition": "Sea Lily World에 도달하기"
     },
     "noranyan": {
-      "name": "Meow?",
-      "description": "This is one cool cat...",
+      "name": "냥?",
+      "description": "멋쟁이 고양이가 있네...",
       "condition": "Sofa Room에 있는 Noranyan NPC와 상호작용하기"
     },
     "cheese": {
@@ -944,8 +944,8 @@
       "condition": "Dark Nexus에 도달하기"
     },
     "white_creature": {
-      "name": "Integer Overflow",
-      "description": "Division proof?",
+      "name": "정수 오버플로",
+      "description": "나눗셈 정리 증명법?",
       "condition": "Apartments에 있는 하얀색 침흘리개(White Drooling Creature) NPC와 상호작용하기"
     },
     "data_stream": {
@@ -959,8 +959,8 @@
       "condition": "Mushroom World에 위치한 자판기와 상호작용하여 돈을 뺏기기"
     },
     "crown_of_spirits": {
-      "name": "Spirit-Bearer \"Deserving\"",
-      "description": "Taking the right steps",
+      "name": "\"가치 있는\" 영혼 전달자",
+      "description": "올바른 수순을 밟았다",
       "condition": "Spirit Capital의 Underwater section 서브 에리어에서 가장 끝에 위치한 방에 입장하기"
     },
     "drunk": {
@@ -982,8 +982,8 @@
       "condition": "케이크 이펙트를 끼고 디저트 공주(Sweets Musume) NPC와 상호작용하기"
     },
     "smile": {
-      "name": "Smiling Urotsuki",
-      "description": "Normal girl, normal smile...",
+      "name": "웃는 우로츠키",
+      "description": "평범한 소녀, 평범한 웃음...",
       "condition": "Smiling Trees World에 있는 집에 입장하기"
     },
     "glitch_road": {
@@ -999,7 +999,7 @@
       "condition": "Ancient Hydrangea City에 거주하는 영체 근처에서 안경이나 무덤 이펙트를 사용하기"
     },
     "originator_garden": {
-      "name": "Secrets Unraveled",
+      "name": "밝혀진 비밀들",
       "condition": "Originator Garden의 메인 에리어에 도달하기"
     },
     "bsides": {
@@ -1021,8 +1021,8 @@
       "condition": "Shop Ruins의 의사 NPC 앞에서 깁스 이펙트를 장착하여 치료받기"
     },
     "popula_toru": {
-      "name": "Uninterested Cyclops Fellow",
-      "description": "Am I too boring for you?",
+      "name": "무관심한 눈알군",
+      "description": "내가 너한테 너무 따분해 보이니?",
       "condition": "여러 상태의 눈알군과 상호작용하기 (깨어있을 때/자고있을 때/내려다볼 때/누워있을 때)"
     },
     "glitch_sushi": {
@@ -1035,8 +1035,8 @@
       "condition": "Despair Road에 있는 빨간 점액 괴물과 상호작용하기"
     },
     "puni": {
-      "name": "Friendly Companion",
-      "description": "Oh my, what a cute creature!",
+      "name": "친절한 동료",
+      "description": "세상에, 정말 귀여운 생물이네!",
       "condition": "Dream Park에서 푸니(Puni) NPC로 변신하기"
     },
     "mechanical_heart": {
@@ -1049,13 +1049,13 @@
       "condition": "Foliage Estate에 있는 환상적인 풍경을 방문하기"
     },
     "sunken_city": {
-      "name": "Inundated Dreams",
-      "description": "\"The sound of the lost dreams still reverberates in the stagnant air. It feels... asphyxiating, to say the least.\"",
+      "name": "물에 잠긴 꿈",
+      "description": "\"잊혀진 꿈의 소리가 가라앉은 대기 속에서 울려퍼진다. 질식할 것 같은... 느낌이 든다해도 과언이 아니었다.\"",
       "condition": "Sunken City에 도달하기"
     },
     "crocodile_dog": {
-      "name": "It's a Monster Party!",
-      "description": "Aren't these crocodile dogs just the cutest?",
+      "name": "몬스터 파티닷!",
+      "description": "악어개들 진짜로 귀엽지 않아?",
       "condition": "Garden World에서 열린 Monster Party에 참가하기"
     },
     "celestial": {
@@ -1084,7 +1084,7 @@
       "condition": "Undersea Temple에 입장하기"
     },
     "acrophobia": {
-      "name": "Data-bent Sunset",
+      "name": "깨져버린 일몰",
       "condition": "토끼귀 이펙트를 끼고 글리치맨(Glitchman) NPC와 상호작용해서 Industrial Towers의 시간대를 밤으로 바꾸기"
     },
     "dream_fishing": {
@@ -1106,7 +1106,7 @@
     },
     "decrepit_smile": {
       "name": "망가진 미소",
-      "condition": "Decrepit Village에 있는 '그림자 마녀' 추격자 NPC와 무덤 이펙트를 낀 채 상호작용하기"
+      "condition": "무덤 이펙트를 장착하고 Decrepit Village에 있는 그림자 마녀 (Shadow Lady) 추격자 NPC와 상호작용하기"
     },
     "tv_room": {
       "name": "TV 화면",
@@ -1155,8 +1155,8 @@
       "condition": "Dream Beach에 있는 후유레짱(Huyure-chan) NPC를 찾기"
     },
     "lobster": {
-      "name": "Get Lobstered",
-      "description": "Lobster? I hardly know her...",
+      "name": "가재치기 당하다",
+      "description": "가재? 난 잘 모르겠는데...",
       "condition": "Flooded Baths에 있는 수영장에 들어가기"
     },
     "chandelier": {
@@ -1206,8 +1206,8 @@
       "condition": "Bowling Zone에서 모든 볼링공맨들을 피하고 Bowling World에 도달하기"
     },
     "jade": {
-      "name": "Great City of Jade",
-      "description": "\"I've heard that beyond the great blue sky, there lies a city of jade with riches beyond our imagination.\"",
+      "name": "옥빛의 대도시",
+      "description": "\"저 광대한 푸른 하늘 너머엔, 상상을 뛰어넘을 정도로 번영했던 옥빛의 도시가 있다고 해\"",
       "condition": "Jade Sky Hamlet을 방문하기"
     },
     "sea_star": {
@@ -1216,18 +1216,18 @@
       "condition": "Calcarina Sea에 물을 채우기"
     },
     "alien_cellar": {
-      "name": "Alien Intelligence",
-      "description": "We're afraid that we can't let you go further.",
+      "name": "외계 기술",
+      "description": "죄송하지만, 당신이 더 이상 접근하도록 둘 수는 없겠습니다",
       "condition": "Alien Cellar에 입장하기"
     },
     "sea_monster": {
-      "name": "Lord of the Fluorescent Deep",
-      "description": "The lights are moving...?",
+      "name": "심해 속 형광빛 군주",
+      "description": "조명이 움직이고 있네...?",
       "condition": "Neon Sea에서 바다 괴물을 만나기"
     },
     "mosenite": {
-      "name": "Yamato-e",
-      "description": "Passing through a bygone time",
+      "name": "야마토에",
+      "description": "호랑이 담배피던 시절 속에 들어오다",
       "condition": "Heian Era Village를 방문하기"
     },
     "heart": {
@@ -1243,13 +1243,13 @@
       "condition": "자판기로 999 체력 포인트에 도달하기 (꿈에서 깰 때 수여됨)"
     },
     "square_ruins": {
-      "name": "Submerged Memory - Luminescent Ruin",
-      "description": "These cubic structures exist as a hazy memory from a dream dreamt long ago...",
+      "name": "가라앉은 기억 ㅡ 발광하는 유적지",
+      "description": "정육면체의 구조물은 예전에 꿨던 꿈 속의 흐릿한 기억 속에 있었다...",
       "condition": "Viridian Wetlands로 향하는 오래된 유적을 발견하기"
     },
     "egg": {
       "name": "다채로운 둥지에서의 추억",
-      "condition": "메뉴 테마 8-15 및 25를 획득하기 (이미 획득했다면 획득 장소를 다시 방문하기)",
+      "condition": "메뉴 타입 8-15 및 25를 획득하기 (이미 획득했다면 획득 장소를 다시 방문하기)",
       "checkbox": {
         "menu_theme_8": "Hidden Shoal",
         "menu_theme_9": "Forest Pier",
@@ -1262,7 +1262,7 @@
       }
     },
     "scared_octopus": {
-      "name": "An Octopus in Distress",
+      "name": "깜짝 놀란 문어씨",
       "condition": "요정 이펙트를 사용하여 Atlantis에 있는 문어총각(Tako Otoko) NPC를 겁 주기"
     },
     "mini_town": {
@@ -1270,8 +1270,8 @@
       "condition": "Mini-Town에 입장하기"
     },
     "block_person": {
-      "name": "Goofy Block",
-      "description": "I'm a goofy block! (yeah!)",
+      "name": "땅콩만한 블록",
+      "description": "나는 땅콩땅콩! (락!)",
       "condition": "Red Brick Maze에서 블록 인간으로 변신하기"
     },
     "madotsukis_room": {
@@ -1336,8 +1336,8 @@
       }
     },
     "poker": {
-      "name": "Gambler's Curse",
-      "description": "Why the mean poker face?",
+      "name": "도박꾼의 저주",
+      "description": "동작그만, 밑장 빼기냐?",
       "condition": "Despair Road의 Poker Zone에 들어가기"
     },
     "rainbow_ruins": {
@@ -1354,8 +1354,8 @@
       "condition": "Blood World에서 피의 희생(Blood Sacrific) 이벤트를 보기"
     },
     "scourge_of_guilt": {
-      "name": "Flower of Death",
-      "description": "... and for you, Urotsuki, think about what you have done.",
+      "name": "죽음의 꽃",
+      "description": "...그리고 우로츠키, 당신께, 당신이 한 행동을 되새겨보시길",
       "condition": "Shop Ruins에 있는 향수병 귀신 NPC에게 전기톱 이펙트를 사용하기"
     },
     "pink_bow": {
@@ -1379,7 +1379,7 @@
     "tea_party": {
       "name": "사적인 티파티",
       "description": "그런 식으로 노려보시면 실례라구요?",
-      "condition": "Twilight Park에서 티파티를 즐기는 그림자 마녀 추격자 NPC들을 찾아내기"
+      "condition": "Twilight Park에서 티파티를 즐기는 그림자 마녀 (Shadow Lady) NPC들을 찾아내기"
     },
     "flying_fish_world": {
       "name": "너, 나 그리고 우리",
@@ -1392,13 +1392,13 @@
       "condition": "Sacred Crypt 가장 깊은 곳에 어린 그림자 우로츠키 NPC를 보기"
     },
     "red_sun": {
-      "name": "Dawn of the Red Sun",
-      "description": "Here it comes.",
+      "name": "새벽녘의 붉은 태양",
+      "description": "또 시작이군",
       "condition": "붉은 태양 아래에 있는 여인에게 전기톱 이펙트를 사용하기"
     },
     "smile_san": {
-      "name": "Cacophony of Cackles",
-      "description": "Hehehahaha!",
+      "name": "낄낄거리는 불쾌한 소리",
+      "description": "이~히힣~히히흐흐흐헤헤하!",
       "condition": "스마일 씨(Smile-san) NPC 옆에서 검은 전화기 이펙트를 사용하기"
     },
     "classified": {
@@ -1407,8 +1407,8 @@
       "condition": "Clandestine Research Laboratory에 도달하기"
     },
     "mysterious_maid": {
-      "name": "Omnipresent Maid",
-      "description": "A mysterious lady wandering through your dreams.",
+      "name": "신출귀몰한 메이드",
+      "description": "신비로운 여인이 당신의 꿈 속을 거닐고 있다",
       "condition": "Hospital, Sky Kingdom, Train Tracks, Construction Frame Building 에 있는 모든 신비로운 메이드(Mysterious Maid) NPC를 찾아 상호작용하기",
       "checkbox": {
         "m_m_hospital": "Hospital",
@@ -1449,8 +1449,8 @@
       "condition": "The Docks에서 잠수함 밖에 나와 앉아 있는 특공대원(Commando)과 선장님(Provost san) NPC를 만나기"
     },
     "plaza": {
-      "name": "Marine War Tank",
-      "description": "Does this place sell sushi?",
+      "name": "해병 탱크",
+      "description": "여기 초밥 팝니까?",
       "condition": "Poseidon Plaza의 모든 곳을 방문하기"
     },
     "robot": {
@@ -1459,14 +1459,14 @@
       "condition": "Tesla Garden에서 로봇 NPC를 만나기"
     },
     "green_prince": {
-      "name": "Royal Reach",
-      "description": "huh whuh",
+      "name": "너에게 닿기를",
+      "description": "어... 으엥?",
       "condition": "City Limits에서 녹색 왕자(Green Prince) NPC와 상호작용하기"
     },
     "phone": {
       "name": "MVP",
       "description": "가장 가치있는 전화기(Most Valued Phone)",
-      "condition": "Use the phone shortcut to Urotsuki's Dream Apartments in 10 of the following locations: Aquatic Cube City, Fossil Lake, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage",
+      "condition": "후술한 10곳의 장소(Aquatic Cube City, Fossil Lake, Underground Garage, Water Reclamation Facility, Dark Museum, Dark Warehouse, Parking Zone, Eyeberry Orchard, Legacy Nexus, Lemonade Edifice, Originator Garden, RGB Spectral Passage)에서 공중 전화를 사용하여 Urotsuki's Dream Apartments로 이동하는 지름길을 생성하기",
       "checkbox": {
         "phone_aquatic_cube_city": "Aquatic Cube City",
         "phone_fossil_lake": "Fossil Lake",
@@ -1516,14 +1516,14 @@
       "condition": "Techno Condominium에서 Gray Road으로 이동하기"
     },
     "blurry": {
-      "name": "Eye Exam",
-      "description": "Seems like you need glasses...",
+      "name": "시력 검사",
+      "description": "안경 하나 맞추셔야겠네요...",
       "condition": "Landolt Ring World에서 특정 이펙트를 사용하여 작은 구멍을 살펴보기"
     },
     "guillotine": {
-      "name": "Servant of Evil",
-      "description": "Oh my- it's teatime!",
-      "condition": "우로츠키의 처형 이벤트를 감상하기"
+      "name": "악의 하인",
+      "description": "\"오늘의 간식은 브리오슈야\"",
+      "condition": "Urotsuki's Execution(우로츠키의 처형) 이벤트를 감상하기"
     },
     "wifi": {
       "name": "와이파이",
@@ -1587,8 +1587,8 @@
       "condition": "Dream Mexico에서 죽음을 기리기"
     },
     "crown_of_sorrow": {
-      "name": "Deception-Bearer \"Oneirophobia\"",
-      "description": "Taking the wrong steps",
+      "name": "\"꿈을 무서워하는\" 속임수 전달자",
+      "description": "잘못된 수순을 밟다",
       "condition": "Time Trial Mode를 켜고 Spirit Capital의 복도의 끝에 위치한 방에 {TIME} 이내로 도달하기"
     },
     "the_liar": {
@@ -1598,7 +1598,7 @@
     },
     "surimuki": {
       "name": "스리무키",
-      "description": "\"넘어졌더니 '뇌'가 쓸려버렸어.\"",
+      "description": "\"넘어졌더니 '뇌' 쓸려버려써.\"",
       "condition": "꿈속에 존재하는 스리무키(Surimuki) NPC를 모두 찾아내기 (Broken Faces Area, Library에 있는 책, Monochrome School에서의 옥상)",
       "checkbox": {
         "surimuki_library": "Library",
@@ -1609,16 +1609,16 @@
     "helmet_girl": {
       "name": "찬란한",
       "description": "달의 어두운 쪽에서 만나자.",
-      "condition": "Square-Square World, 그녀의 아파트 내부, Moonlit Purple Balcony 에서 헬멧 소녀(Helmet Girl) NPC를 만나기",
+      "condition": "Square-Square World, Flying Fish World (Helmet Girl's apartment 서브에리어), Flying Fish World (Moonlit Purple Balcony 서브에리어) 에서 헬멧 소녀(Helmet Girl) NPC를 만나기",
       "checkbox": {
-        "helmet_girl_moonlit_balcony": "Moonlit Purple Balcony",
-        "helmet_girl_apartment": "그녀의 아파트 내부",
+        "helmet_girl_moonlit_balcony": "Flying Fish World (Moonlit Purple Balcony 서브에리어)",
+        "helmet_girl_apartment": "Flying Fish World (Helmet Girl's apartment 서브에리어)",
         "helmet_girl_square2_world": "Square-Square World"
       }
     },
     "garden_of_dreams": {
-      "name": "Dreaming Trees",
-      "description": "When a sapling is planted within a dream, it will eventually grow to be as spectacular as the dreamer themselves.",
+      "name": "꿈꾸는 나무",
+      "description": "꿈 속에 묘목을 심으면, 그 나무는 꿈을 꾸는 나 자신처럼 장대하게 자라나게 된다",
       "condition": "Mountaintop Ruins, Blood Cell Sea (반전 상태의 나무 포함), Graffiti Maze, Shinto Shrine, Azure Garden, Scenic Outlook, Evergreen Woods 에 있는 나무 조형물(혹은 나무 모양의 월드 워프 물체)와 상호작용 하기",
       "checkbox": {
         "mountainview_ruins_tree": "Mountaintop Ruins",
@@ -1718,12 +1718,12 @@
       "condition": "Red Brick Maze의 복제실(Cloning Room) 이벤트를 감상하기"
     },
     "rainbow_towers_ufo": {
-      "name": "Undefined Fantastic Object",
-      "description": "Is that where the alien went?",
+      "name": "미확인 개쩌는 물체",
+      "description": "저 외계인은 어디로 가고 있는걸까?",
       "condition": "Rainbow Towers에서 UFO가 지나가는 이벤트를 보기"
     },
     "vending_machine_factory_balcony": {
-      "name": "일출, 패러벨럼",
+      "name": "일출과 파라벨룸 총탄",
       "description": "진정한 *카우보이*.",
       "condition": "Vending Machine Factory의 높은 곳에서 경치를 감상하기"
     },
@@ -1775,8 +1775,8 @@
       "condition": "Shadow Lady Estate의 침실에서 고양이 두 마리를 보기"
     },
     "mar_marina": {
-      "name": "Marina Bioluminescence",
-      "description": "Could you stop turning the lights off?",
+      "name": "스스로 빛나는 마리아나",
+      "description": "전등 스위치 좀 그만 딸깍거리지?",
       "condition": "Marina's House의 전원을 켜고 끈 상태의 방에 들어가기"
     },
     "libra_palace": {
@@ -1794,8 +1794,8 @@
       "condition": "Binary World에서 폴리곤과 무지개 이펙트를 사용한 후 물고기 군집을 발견하기"
     },
     "maple_symphony": {
-      "name": "Maple Tune",
-      "description": "Hear the maple symphony among the autumn leaves",
+      "name": "단풍의 음색",
+      "description": "가을 낙엽사이로 울려퍼지는 단풍의 교향곡을 듣다",
       "condition": "Maple Shrine에서 오렌지색 공 NPC가 불러주는 노래를 듣기"
     },
     "jiangshi": {
@@ -1854,7 +1854,7 @@
     },
     "puni_snacks": {
       "name": "푸니 간식",
-      "description": "진짜 푸니를 이용해서 만든게 아닐까 의심되는데요...",
+      "description": "진짜 푸니를 사용한 건 아니겠지...?",
       "condition": "Dream Park의 모든 푸니 간식을 구매하고, Birthday Tower에 방문하기"
     },
     "rainy_day_residence": {
@@ -1863,8 +1863,8 @@
       "condition": "Rainy Apartments에 도달하기"
     },
     "techno_karaoke": {
-      "name": "Virtual Rave Night",
-      "description": "Like to join in?",
+      "name": "버추얼 레이브 클럽",
+      "description": "같이 출래?",
       "condition": "Virtual City 내부의 노래방에서 핑크 소녀(Pink Girl) NPC와 상호작용하기"
     },
     "tomato_world": {
@@ -1874,7 +1874,7 @@
     "white_garden": {
       "name": "백색 정원의 하늘",
       "description": "꽃 한 송이가 세상을 바꾼다",
-      "condition": "Pure White Lands에서 White Garden 서브 에리어�� 모든 버전을 보기"
+      "condition": "Pure White Lands에서 White Garden 서브 에리어의 모든 버전을 보기"
     },
     "starry_night": {
       "name": "별이 빛나는 밤",
@@ -1886,8 +1886,8 @@
       "condition": "Victorian Drains의 Carnival Town 서브 에리어에 도달하기"
     },
     "from_behind": {
-      "name": "Saying Good-bye From Behind",
-      "description": "Very quietly I take my leave, as quietly as I came here;\nQuietly I wave good-bye, to the rosy clouds in the western sky.",
+      "name": "은밀한 작별인사",
+      "description": "조용히 다가왔던 것처럼, 나는 조용히 물러났다. 서쪽 하늘에 떠있는 장밋빛 구름을 향해 손을 흔들며, 나는 작별을 고했다.",
       "condition": "Neon City에서 \"그것은 은밀하게 다가온다\"(It Came From Behind) 이벤트를 감상하기"
     },
     "star_planetarium": {
@@ -2093,8 +2093,8 @@
       "condition": "Reflecting Electron Zone을 방문하기"
     },
     "aquarius_prison": {
-      "name": "Submarine Specimen",
-      "description": "This one doesn't seem like it originated underwater...",
+      "name": "수조 속의 표본",
+      "description": "이 생물은 물속에서 살았던 것 같지는 않아 보인다...",
       "condition": "Power Plant에서 발전소의 생명체들(Creatures of the Power Plant) 이벤트를 감상하기"
     },
     "misty_bridges_transmission": {
@@ -2297,8 +2297,8 @@
       "condition": "Rose Church의 메인 구역에 도달하기"
     },
     "shadow_forest": {
-      "name": "The Ladies' Secret Forest",
-      "description": "They say that the forest has secrets behind its thin layer of forest wall.",
+      "name": "숙녀의 비밀의 숲",
+      "description": "아가씨들은 숲의 얇은 벽 뒷편에 숲이 품은 비밀이 숨겨져있다고 한다.",
       "condition": "Shadow Woman Forest 이벤트를 보기"
     },
     "spring_breeze": {
@@ -2328,7 +2328,7 @@
     "cube_tsuki": {
       "name": "폴리곤 우로츠키",
       "description": "각진 것도 힙하지!",
-      "condition": "Obtain the Polygon effect. If you have already unlocked it, return to the exterior area of the Warehouse, or in the main area of The Desktop."
+      "condition": "Warehouse의 건물 내부 옥상 층이나 The Desktop 에서 폴리곤 이펙트를 획득하기 (이미 얻은 상태라면 폴리곤을 얻었던 장소로 되돌아가기)"
     },
     "twintail_maid": {
       "name": "트윈테일이 됩니다",
@@ -2365,9 +2365,9 @@
       "condition": "Wooden Polycube Ruins 하단의 정원에 입장하기"
     },
     "ninja_town": {
-      "name": "가짜 닌자",
-      "description": "날 놀라게 하는군! 이제 인술을 써 봐!",
-      "condition": "흰 색 정지등과 상호작용한 뒤 ninja circle 서브 지역으로 돌아가 그들의 죽음을 마주하기"
+      "name": "바꿔치기술",
+      "description": "와라! 인술을 쓰는거다!",
+      "condition": "Ninja Town에 위치한 흰 색 정지등과 상호작용한 뒤 the Ninja Circle 서브 에리어로 입장하여 닌자들의 죽음을 마주하기"
     },
     "claus_tsuki": {
       "name": "우로츠키클로스",
@@ -2395,21 +2395,21 @@
     },
     "cure_curse": {
       "name": "저주 치료자",
-      "condition": "Equip the Plaster Cast or Marginal effect and let Kankoshi heal you"
+      "condition": "Underground TV Complex 속 특정 방에 자리잡은 간호사(Kankoshi) NPC 앞에서 깁스 이펙트나 마지널 이펙트를 장착한 후 NPC가 우로츠키를 치료해주도록 만들기"
     },
     "delete_urotsuki": {
       "name": "자가삭제",
-      "description": "내 뇌에 온 걸 환영해!",
+      "description": "내 뇌 속에 들어온 걸 환영해!",
       "condition": "Head World에서 당신의 행동이 초래한 결과를 마주하기"
     },
     "hiboushi": {
-      "name": "Smiling Hiboushi",
-      "condition": "Apartments의 Hiboushi와 상호작용하기"
+      "name": "미소짓는 흰모자씨",
+      "condition": "Apartments의 흰모자(Hiboushi) NPC와 상호작용하기"
     },
     "ripple_passage": {
       "name": "잔물결 부적",
       "description": "네가 그렇게 물 올랐을 줄은 몰랐는데...",
-      "condition": "Static Noise Hell의 Ripple Passage에 입장하기"
+      "condition": "Static Noise Hell의 Ripple Passage 서브 에리어에 입장하기"
     },
     "ghostly_exhibit": {
       "name": "광합성",
@@ -2418,11 +2418,11 @@
     "witch_duo": {
       "name": "쌍둥이 색의 두 사람",
       "description": "하나보다 둘이 낫지!",
-      "condition": "Love Lodge의 마녀의 집에서 얼어붙은 자선의 마녀를 만나고 Hatred Palace에서 그림을 발견하기",
+      "condition": "Love Lodge의 Witch's House 서브에리어에서 증오의 마녀(The Witch of Hatred) NPC, Snowy Suburbs의 House 서브에리어에서 얼어붙은 자선의 마녀(The Witch of Charity) NPC, Hatred Palace에서 두 마녀가 그려진 그림을 발견하기",
       "checkbox": {
-        "love_witch_house": "Love Lodge의 마녀의 집",
-        "frozen_charity_witch": "얼어붙은 자선의 마녀",
-        "painting_hatred_palace": "Hatred Palace"
+        "love_witch_house": "Love Lodge의 Witch's House 서브에리어에서 증오의 마녀(The Witch of Hatred) NPC",
+        "frozen_charity_witch": "Snowy Suburbs의 House 서브에리어에서 얼어붙은 자선의 마녀(The Witch of Charity) NPC",
+        "painting_hatred_palace": "Hatred Palace에서 두 마녀가 그려진 그림"
       }
     },
     "sanctuary_2kki": {
@@ -2460,12 +2460,12 @@
     "ug_lake_singer": {
       "name": "친근한 대화",
       "description": "그는 동료를 만들고 싶어 한다...",
-      "condition": "Underground Lake의 1인칭 시점 서브 구역에서 양쪽의 초록 생물체와 대화하기"
+      "condition": "Underground Lake의 1인칭 시점 서브 에리어에서 양쪽의 초록 생물체와 대화하기"
     },
     "appururi_bat": {
       "name": "나랑 똑같네!",
       "description": "우리는 최고의 시간을 보낼 거야!",
-      "condition": "Fairy Tale Woods의 Appururi(NPC) 주변에서 박쥐 이펙트를 장착하기"
+      "condition": "Fairy Tale Woods의 과일박쥐(Appururi) NPC 주변에서 박쥐 이펙트를 장착하기"
     },
     "lamplit_stones": {
       "name": "평화와 고요",
@@ -2485,23 +2485,23 @@
       "condition": "The Ceiling과 Heian Era Village 사이의 테라리움 복도에 입장하기"
     },
     "shallows_of_deceit": {
-      "name": "진홍색의 왕국",
-      "description": "선홍빛 물결과 커다란 미소!",
+      "name": "핏빛 왕국",
+      "description": "핏빛 물바다와 능청맞은 웃음",
       "condition": "Shallows of Deceit에 도달하기"
     },
     "cryptic_cubes": {
       "name": "신비로운 큐브들",
-      "condition": "Enigmatic World의 주민들을 끌어당기기"
+      "condition": "Enigmatic World에서 폴리곤 이펙트를 장착하여 근처 NPC들을 끌어당기기"
     },
     "bane_jack": {
       "name": "통통 튀는 잭",
       "description": "폴짝폴짝거리는 친구, 어디서든 행복하게 튀어다니지!",
-      "condition": "Urotsuki's Dream Apartments에서 Bane Jack을 만나기"
+      "condition": "Apartments에서 Urotsuki's Dream Apartments로 이어지는 일방통행 방에서 용수철 잭(Bane Jack) NPC을 만나기"
     },
     "hooked_fisherman": {
       "name": "낚여버리다",
       "description": "그 양동이 안이 편할 리가 없지...",
-      "condition": "Dream Beach의 fisherman에게 잡히기"
+      "condition": "School에서 Dream Beach로 이어지는 물속에서 펭귄 이펙트를 장착하고 낚시바늘과 상호작용하여 낚시꾼(fisherman) NPC에게 붙잡히기"
     },
     "home_within_nowhere": {
       "name": "어디에도 없는 집",
@@ -2517,8 +2517,8 @@
       "condition": "Blooming Blue Lagoon을 방문하기"
     },
     "abandoned_chinatown": {
-      "name": "버려진 전통",
-      "description": "한때는 번화했던 마을이었지만 지금은 버려진 기억에 불과하다.",
+      "name": "버려진 전통가옥들",
+      "description": "한때는 번화했던 마을이었지만 지금은 버려진 기억 속에 존재할 뿐이다",
       "condition": "Abandoned Chinatown을 방문하기"
     },
     "gb_forest": {
@@ -2526,7 +2526,7 @@
       "condition": "Sketch Plains에서 GB Forest로 입장하기"
     },
     "carousel_oriental": {
-      "name": "Mood Swings",
+      "name": "감정기복",
       "description": "돌고 돌고 돌고...",
       "condition": "Oriental Pub의 워프를 사용하지 않고 6개의 세계를 방문하기",
       "checkbox": {
@@ -2551,7 +2551,7 @@
     "witch_embrace": {
       "name": "마녀의 포옹",
       "description": "오랫동안 걷느라 피곤했을 테지... 이리 와서 내 품에서 쉬렴",
-      "condition": "줄어든 채로 Toy World의 거대한 그림자 마녀 추격자 NPC에게 붙잡히기"
+      "condition": "전기톱 이펙트를 장착하여 Day and Night Towers에서 두 탑을 잇는 다리 위의 NPC(the bridge NPC)를 죽인 후, Toy World의 거대 버전(Giant Version)에 위치한 크기가 통상적인 그림자 마녀 (Shadow Lady) 추격자 NPC와 상호작용하여 붙잡히기"
     },
     "eschaton": {
       "name": "종말",
@@ -2574,11 +2574,11 @@
     "coral_seahorses": {
       "name": "뱃멀미",
       "description": "어쩌면 진정한 보물은 우리가 그 동안 만났던 해마였을 지도 모릅니다...",
-      "condition": "Coral Shoal에 처음으로 입장하기"
+      "condition": "Coral Shoal에 입장하기"
     },
     "twin_mountains": {
       "name": "쌍둥이 산의 꿈",
-      "description": "처음 시작된 장소로부터 이렇게나 멀리까지 왔구나.",
+      "description": "처음 시작한 장소에서 이렇게나 멀리까지 왔구나.",
       "condition": "다음의 구역에서 쌍둥이 산이 보이는 장소들을 방문하기: Foliage Estate (Overlook 서브 에리어), Flying Fish World (Dream Scene 서브 에리어), Mirror Room (Beach 서브 에리어), Bleak Future, Saturated Eyeball Zone, Rainy Apartments, Red Sky Cliff (Splash Streetway 서브 에리어), Wind Turbine Plateau, Bathhouse",
       "checkbox": {
         "foliage_estate_scenery": "Foliage Estate (Overlook 서브 에리어)",
@@ -2609,20 +2609,20 @@
     "king_fuun": {
       "name": "행운의 주사위",
       "description": "불운하지 않아?",
-      "condition": "Board Game Islands의 King Fuun과 대화하기"
+      "condition": "Board Game Islands의 불운왕(King Fuun) NPC와 상호작용하기"
     },
     "nice_list_christmas": {
       "name": "착한 아이 목록",
       "description": "모두 용서받았단다! 또 그러지만 말렴...",
-      "condition": "Snowman World의 그림자 마녀 추격자 NPC를 공격한 뒤 용서받기"
+      "condition": "Snowman World에서 전기톱 이펙트를 장착하고 그림자 마녀 (Shadow Lady) 추격자 NPC와 상호작용한 후 붙잡혀 용서받기"
     },
     "bishop_checkmate": {
       "name": "체크메이트!",
       "description": "군주를 몰아내다",
-      "condition": "Bishop Cathedral의 왕을 살해하기"
+      "condition": "Bishop Cathedral에서 전기톱 이펙트를 장착하고 플로랑 교주(Bishop Florent) NPC를 살해하기"
     },
     "grave_chesspiece": {
-      "name": "고이 조각나소서",
+      "name": "체스말의 명복을 빌다",
       "condition": "Bishop Cathedral에서 무덤 이펙트를 장착하기"
     },
     "jimbo_love": {
@@ -2655,18 +2655,18 @@
     },
     "vertigo_parasomnia": {
       "name": "사건수면",
-      "description": "\"맞아 우로츠키, 나는 너, 너는 나, 그리고 이건 전기톱이야.\"",
+      "description": "\"그래 우로츠키... 나는 너고 너는 나야. 그리고 이건 전기톱이지.\"",
       "condition": "Urotsuki's Dream Room에서 Vertigo 이벤트를 발생시키기"
     },
     "atlantis_city": {
       "name": "수중도시",
       "description": "익사하지 않게...",
-      "condition": "Atlantis의 도시 구역에 도달하기"
+      "condition": "Atlantis의 City 서브 에리어에 도달하기"
     },
     "angry_dice": {
-      "name": "도박꾼",
-      "description": "80%의 드리머가 대박을 터뜨리기 직전 그만둡니다.",
-      "condition": "주사위 이펙트를 장착하고 Board Game Islands의 Angry Dice와 상호작용하기"
+      "name": "주사위 도박",
+      "description": "80 퍼센트의 꿈꾸는 자가 대박이 터지지 직전에 지레 포기해버리지",
+      "condition": "Board Game Islands의 특정 구역에서 대기하면 나타나는 빨간 문을 열고 등장하는 성난 주사위(Angry Dice) NPC와 주사위 이펙트를 장착한 채 상호작용하기"
     },
     "nexus_collector": {
       "name": "넥서스 수집가",
@@ -2688,8 +2688,8 @@
       "condition": "Deep Red Wilds의 모래폭풍을 경험하기"
     },
     "zalgo_appearance": {
-      "name": "Z̴̜̬̈́͐̒̄͑̃͛̄̊̕͝Ạ̶̭̮̰̯̱̠̠͖̜̲̯̈́̃͌͑̚͘ͅL̵̡̡̡͓͚̖̗̙̹̲̻̝͚̒͒͌G̷̝̜̦̱̠̝̮̲̺̝̽̓͜Ŏ̷͈́̔̚̕̕͝",
-      "condition": "Magnet Room, Train Tracks, Atelier, Restored Character World에서 자르고를 발견하기",
+      "name": "자҉̪͚̩̜͙͕̜̲̫͙̜͔͐̏̃̒̇͊̅̾̆̌̋̈̎̃̆르҉̗̰͇͕͚̱͍͍͈̞̗̱̞̫͌̓̎̏̇́͐̒̆́͌͋̍̅̋̓고҈̓̽̿͆͂̈́͗̓͂͋̕",
+      "condition": "Magnet Room, Train Tracks, Atelier, Restored Character World에서 자르고(Zalgo) NPC를 발견하기",
       "checkbox": {
         "zalgo_magnet_room": "Magnet Room",
         "zalgo_train_tracks": "Train Tracks",
@@ -2698,21 +2698,21 @@
       }
     },
     "cyclop_holiday_hell": {
-      "name": "Forsaken Watcher",
-      "description": "It's you who he observes.",
+      "name": "버림받은 감시자",
+      "description": "그가 주시하고 있는 것은 바로 당신이다",
       "condition": "Holiday Hell의 파란 외눈박이 생명체를 바라보기"
     },
     "phonograph_galaxy": {
       "name": "마법의 선율",
-      "condition": "GALAXY town의 축음기 마녀와 상호작용하기"
+      "condition": "GALAXY town의 축음기 마녀(Phonograph Witch) NPC와 상호작용하기"
     },
     "port_city_maiko": {
       "name": "정중한 수집품",
-      "condition": "Port City의 Kokeshi Room에서 마이코 이펙트를 사용하기"
+      "condition": "Port City의 Kokeshi Room 서브 에리어에서 마이코 이펙트를 사용하기"
     },
     "staring_contest": {
       "name": "노려보기 시합",
-      "condition": "Petal Hotel, Dream Pool, Silent Sewers, Teddy Bear Land, Red Streetlight World, Acerola World, Mini-Maze에서 외눈박이 NPC와 상호작용하기",
+      "condition": "Petal Hotel, Dream Pool, Silent Sewers, Teddy Bear Land, Red Streetlight World, Acerola World, Mini-Maze에 위치한 모든 외눈박이 NPC들과 상호작용하기",
       "checkbox": {
         "cyclop_petal_hotel": "Petal Hotel",
         "cyclop_dream_pool": "Dream Pool",
@@ -2724,16 +2724,16 @@
       }
     },
     "party_colored": {
-      "name": "축제의 빛깔",
-      "condition": "Neon Suburbs의 Party Room에서 음악을 틀고 있는 NPC와 상호작용하기"
+      "name": "파티의 빛깔",
+      "condition": "Neon Suburbs의 Party Room 서브 에리어에서 음악을 틀고 있는 NPC와 상호작용하기"
     },
     "pale_luminescence": {
       "name": "희미하게 빛나는 것",
       "description": "알록달록한 스테인드 글라스 창문들과 빛나는 샹들리에가 걸린, 고요한 대리석의 구역",
-      "condition": "Marble Ruins의 Marble Room에 방문하기"
+      "condition": "Marble Ruins의 Marble Room 서브에리어에 도달하기"
     },
     "twilit_savanna": {
-      "name": "Gift of Twilight",
+      "name": "황혼의 선물",
       "description": "사바나의 해가 저물자, 나무의 가지 사이로 별들이 고개를 내밀기 시작하였다",
       "condition": "Gemstone Cave의 Sunset Savanna 서브 에리어에 도달하기"
     },
@@ -2748,28 +2748,28 @@
     "azure_flowers": {
       "name": "하늘빛의 꽃들",
       "description": "바람에 푸른 꽃이 피어오르자, 주황색 꽃들은 가만히 있었다. 당신의 마음 속에 간직한 꿈들 중 가장 깊은 곳은 언덕의 석양 너머에 떠다니고 있다.",
-      "condition": "Snowy Forest, Cotton Candy Haven (Kigaru(태엽소녀)의 집), Nocturnal Grove, Cloaked Pillar World, Lavender Waters 에 위치한 꽃들 근처에서 벌레 이펙트를 장착하고 사용하기",
+      "condition": "Snowy Forest, Cotton Candy Haven의 Kigaru's house 서브 에리어, Nocturnal Grove, Cloaked Pillar World, Lavender Waters 에 위치한 꽃들 근처에서 벌레 이펙트를 장착하고 사용하기",
       "checkbox": {
         "flowers_snow_forest": "Snowy Forest",
-        "flowers_cotton": "Cotton Candy Haven",
+        "flowers_cotton": "Cotton Candy Haven의 Kigaru's house 서브 에리어",
         "flowers_grove": "Nocturnal Grove",
         "flowers_cloaked": "Cloaked Pillar World",
         "flowers_lavender": "Lavender Waters"
       }
     },
     "flower_vision": {
-      "name": "플라워 비전",
-      "condition": "Flooded Dungeon (Floral Vortex), Travel Hotel, Lost Creek, Snowy Forest (Fairy Hole 서브 에리어), Wooden Polycube Ruins 에 위치한 꽃들 근처에서 벌레 이펙트를 장착하고 사용하기",
+      "name": "꽃구경",
+      "condition": "Flooded Dungeon의 Floral Vortex 서브 에리어, Travel Hotel, Lost Creek, Snowy Forest의 Fairy Hole 서브 에리어, Wooden Polycube Ruins 에 위치한 꽃들 근처에서 벌레 이펙트를 장착하고 사용하기",
       "checkbox": {
-        "flowers_vortex": "Flooded Dungeon (Floral Vortex)",
+        "flowers_vortex": "Flooded Dungeon의 Floral Vortex 서브 에리어",
         "flowers_hotel": "Travel Hotel",
         "flowers_creek": "Lost Creek",
-        "flowers_fairy": "Snowy Forest (Fairy Hole 서브 에리어)",
+        "flowers_fairy": "Snowy Forest의 Fairy Hole 서브 에리어",
         "flowers_polycube": "Wooden Polycube Ruins"
       }
     },
     "pudding_world_secrets": {
-      "name": "푸딩 직감",
+      "name": "세련된 푸딩",
       "description": "잠깐, 이거 불 붙었으니까 일종의 크림 브륄레 같은 거 아냐?",
       "condition": "거의 방문되어지지 않는 Pudding World 속의 모든 영광과 비밀을 파헤치기"
     },
@@ -2825,12 +2825,12 @@
     "mono_schoolgirl_trap": {
       "name": "비명의 들판",
       "description": "あああ(아아아)",
-      "condition": "Monochrome Fields 에 위치한 Monochrome Schoolgirl (흑백의 여학생) NPC를 전기톱 이펙트로 상호작용하여 고립 구역으로 이동하기"
+      "condition": "Monochrome Mansion의 Monochrome Fields 서브 에리어에 위치한 Monochrome Schoolgirl(무채색의 여학생) NPC를 전기톱 이펙트로 상호작용하여 고립 구역으로 이동하기"
     },
     "blizzard_fish_trap": {
       "name": "빙판 위에 올라가지 마시오",
       "description": "아시다시피, 펭귄에게도 규칙이 적용됩니다",
-      "condition": "Blizzard Plains에서 Fish(물고기) 이벤트를 보기"
+      "condition": "Blizzard Plains에서 Fish 이벤트를 보기"
     },
     "appururi_mask": {
       "name": "대형 사과와 소형 과일박쥐",
@@ -2854,7 +2854,7 @@
     "azure_steam_creature": {
       "name": "푸른 빛의 가습 생명체",
       "description": "증기가 가득찬 작은 방에 몸을 맡긴 생명체...",
-      "condition": "Azure Garden 에서 Steaming Bathtub Creature (증기 욕조 생명체) NPC를 찾아내기"
+      "condition": "Azure Garden 에서 Steaming Bathtub Creature(증기 욕조 생명체) NPC를 찾아내기"
     },
     "vaporwave_mall": {
       "name": "이 뫗뜨",
@@ -2869,7 +2869,7 @@
     "tapir_san_tapir": {
       "name": "꿈을 먹는 자",
       "description": "타피르 씨를 찾아가 보라",
-      "condition": "Tapir-San's Place에서 Tapir(맥)-san NPC를 찾아내기"
+      "condition": "Tapir-San's Place에서 Tapir-san(맥씨) NPC를 찾아내기"
     },
     "fossil_lake_creature": {
       "name": "미동이 없는 물 속의 반영",
@@ -2878,7 +2878,7 @@
     "mask_collection": {
       "name": "변장의 달인",
       "description": "오늘은 어떤 것이 되어볼래?",
-      "condition": "Complete the first two pages of the mask menu, then open it in one of the Mask Shops (outside of Twintail Girl, Ahogeko, Shadow Mold, Angel Priest, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature and Traffic Cone)"
+      "condition": "Mask Shop 혹은 Deluxe Mask Shop에서 이펙트를 장착하지 않은 채 구매할 수 있는 마스크 품목에서 1,2페이지의 마스크들을 전부 해금한 후, 마스크를 하나 구매하기 (후술한 항목 제외 : Twintail Girl, Ahogeko, Shadow Mold, Angel Priest, Kīgāru, White Mouse, Black Mouse, Takoyaki Creature, Traffic Cone)"
     },
     "retro_cartridge_game": {
       "name": "응답하라 1977!",
@@ -2912,7 +2912,7 @@
     "tinted_zoo": {
       "name": "마지막으로 볼 기회",
       "description": "그의 최신 걸작을 본따서 만들었다",
-      "condition": "Rainbow Silhouette World의 Zoo(동물원) 서브에리어에 방문하기"
+      "condition": "Rainbow Silhouette World의 Zoo 서브에리어에 방문하기"
     },
     "streetlight_docks": {
       "name": "암흑 속의 낚시",
@@ -2936,11 +2936,11 @@
     },
     "cyclops_dreamers": {
       "name": "잠꾸러기들",
-      "description": "...잠깐, 꿈이 꿈을 꿀 수 있나?",
+      "description": "...잠깐, 꿈에서 꿈을 꿀 수 있나?",
       "condition": "Ghostly Inn에서 잠자는 두 마리의 생물체를 발견해내기"
     },
     "deserted_center": {
-      "name": "만료된 병",
+      "name": "유통기한 지난 병",
       "description": "썩어가는 건축물 속에서 썩게 내버려두자",
       "condition": "Deserted Center를 방문하기"
     },
@@ -2952,27 +2952,27 @@
     "suspicious_sign": {
       "name": "의심스러운 표지판",
       "description": "\"이딴 표지판들로 내 앞길을 막을 순 없드아!\"",
-      "condition": "Overgrown Condominium에 있는 이상한 모습의 공사중 표지판을 발로 차기"
+      "condition": "Overgrown Condominium에 있는 이상한 모습을 한 공사중 표지판을 발로 차기"
     },
     "depths_gorge": {
-      "name": "Drowning Dream - Hadal Ruin",
-      "description": "Now, take a deep breath before falling into the deepest of dreams...",
-      "condition": "Square Ruins에서 Depths 로 이동하는 이벤트를 보기"
+      "name": "익사하는 꿈 ㅡ 해구 유적",
+      "description": "자, 꿈속 가장 깊은 곳으로 떨어지기 전에 심호흡을 한번 크게 해보자...",
+      "condition": "Square Ruins에서 Depths로 통하는 입구가 있는 방에 도달하기"
     },
     "evil_quatuor": {
       "name": "순진한 소녀들로부터의 사악한 웃음",
       "description": "몇몇 소녀들은 그저 즐기고 싶은 듯 하다",
-      "condition": "Holiday Hell의 각 파트에 있는 소녀들을 죽이기"
+      "condition": "Holiday Hell의 각 파트에 있는 4명의 소녀들을 모두 죽이기"
     },
     "never_ending_roadway": {
       "name": "끝없는 도로",
       "description": "도로가 꽤 기네...",
-      "condition": "Worksite에 위치한 Infinity Roadway(무한의 도로) 서브 에리어에 도달하기"
+      "condition": "Worksite에 위치한 Infinity Roadway 서브 에리어에 도달하기"
     },
     "hudson_ceiling": {
       "name": "천정의 허드슨",
       "description": "...술래잡기라도 하실래요?",
-      "condition": "Crazed Faces Maze 속에 갇힌 상태에서 Hudson이 있는 용암강 근처에서 깨어나기"
+      "condition": "Crazed Faces Maze 속에 갇힌 상태에서 허드슨(Hudson) NPC가 떠있는 용암강 근처에서 깨어나기"
     },
     "spacecraft_visine": {
       "name": "시각의 별무리",
@@ -2987,7 +2987,7 @@
     "olhuda_dream_pool": {
       "name": "눈",
       "description": "자리 비켜줄래 아니면 그대로 노려볼래??",
-      "condition": "Dream Pool에서 Aiko (외눈 소녀) NPC를 죽이기"
+      "condition": "전기톱 이펙트를 장착하고 Dream Pool에서 외눈 소녀(Aiko) NPC를 죽이기"
     },
     "oriental_lake": {
       "name": "호숫가 유적",
@@ -3004,7 +3004,7 @@
     },
     "purple_jelly": {
       "name": "보라빛 젤리",
-      "condition": "Sculpture Park의 Purple Forest Path에서 젤라틴같은 보라빛 생명체와 맞닥뜨리기"
+      "condition": "Sculpture Park의 Purple Forest Path 서브 에리어에서 젤라틴같은 보라빛 생명체와 맞닥뜨리기"
     },
     "building_love": {
       "name": "관계 쌓기",
@@ -3041,7 +3041,7 @@
     },
     "fish_world": {
       "name": "느긋한 바닷속 여행",
-      "description": "도시락 세계에서 어떤 남자가 방어라고 하던데, 난 잘 모르겠네~",
+      "description": "도시락 세계에서 어떤 사람이 이걸 방어라고 그러던데, 확실치는 않지만...",
       "condition": "Fish World를 방문하기"
     },
     "garbage_myst_library": {
@@ -3056,7 +3056,7 @@
     "shimako_adabana": {
       "name": "어느날의 기억들",
       "description": "낯익어 보이는 소녀...?",
-      "condition": "Adabana Gardens 에서 Shimako NPC를 보기"
+      "condition": "Adabana Gardens 에서 줄무늬 옷을 입은 소녀(Shimako) NPC를 보기"
     },
     "shimako_deluge": {
       "name": "불가사의한 미녀",
@@ -3141,9 +3141,9 @@
       "condition": "Overgrown City에서 피아노 소리가 들리는 광장 중앙부에 설치된 커다란 조형물을 보기"
     },
     "shinto_curse_chaser": {
-      "name": "Deep Hatred",
-      "description": "I'll go to hell, but only if I can drag you along with me.",
-      "condition": "Shinto Shrine에서 추격자 NPC에게 붙잡히기"
+      "name": "깊은 원한",
+      "description": "내가 반드시 네놈을 붙잡고 끌고가 같이 지옥으로 떨어질 것이야!",
+      "condition": "Shinto Shrine에서 원한이 맺힌 영가(Vengeful Spirit) 추격자 NPC에게 붙잡히기"
     },
     "teru_teru_bozu_pond": {
       "name": "테루테루 연못",
@@ -3170,8 +3170,8 @@
     },
     "spider_attack_cavern": {
       "name": "즉각적인 후회",
-      "description": "넌 도망칠 수 없을거다... 동굴을 둘러싼 거미들이...",
-      "condition": "Forest Cavern에서 나방 여왕(Moth Queen) NPC를 전기톱으로 상호작용하고 거미 추격전(Spider Rampage) 이벤트를 활성화하기"
+      "description": "넌 도망칠 수 없을게야... 동굴을 둘러싼 나의 거미들이...",
+      "condition": "Forest Cavern에서 나방 여왕(Moth Queen) NPC를 전기톱을 장착한 채 상호작용하고 거미 추격전(Spider Rampage) 이벤트를 활성화하기"
     },
     "sunset_sky_slums": {
       "name": "해질녘 하늘 속 추락한 UFO들",
@@ -3224,7 +3224,7 @@
     },
     "violet_room_light": {
       "name": "벨벳 소녀",
-      "condition": "Glacier Maze의 Violet's Room 서브 에리어에서 스위치 끄기 관련 이벤트를 보기"
+      "condition": "Glacier Maze의 Violet's Room 서브 에리어에서 전등 스위치를 꺼 특정 이벤트를 보기"
     },
     "butcher_gluttony": {
       "name": "도살자와 꽃",
@@ -3275,12 +3275,12 @@
     },
     "crystal_waters_beach": {
       "name": "머나먼 해변",
-      "condition": "Crystal Waters의 해변 구역을 방문하기"
+      "condition": "Crystal Waters의 Beach 서브 에리어에 도달하기"
     },
     "gentle_meadows_rocks": {
       "name": "태평한 침체",
       "description": "평온을 즐기세요",
-      "condition": "Gentle Meadows의 돌 사이를 지나가기"
+      "condition": "Gentle Meadows에서 Second Area 서브 에리어로 이동시켜주는 특정 돌 사이를 지나가기"
     },
     "halloween_urotsuki": {
       "name": "할로윈 의상",
@@ -3354,8 +3354,8 @@
       "condition": "Astronomical Gallery에서 늑대 이펙트를 사용해 부엉이를 겁 주기"
     },
     "hourglass_desert": {
-      "name": "Through Time and Sand",
-      "description": "Anubis walks along a time consuming path",
+      "name": "시간과 모래를 지나서",
+      "description": "아누비스는 시간이 흐르는 길을 걷고 있다",
       "condition": "Hourglass Desert에 입장하기"
     },
     "holiday_hell_fish": {
@@ -3364,13 +3364,13 @@
       "condition": "Holiday Hell에서 낚시 보트와 함께하는 밤 풍경을 보기"
     },
     "doppelganger_room": {
-      "name": "My Reflection",
-      "description": "A haven of silence in the sea of noise",
-      "condition": "Static Labyrinth에서 도플갱어 방 서브 에리어에 입장하기"
+      "name": "나의 반영",
+      "description": "소음의 바다 속 고요한 안식처",
+      "condition": "Static Labyrinth에서 Doppelgänger Room 서브 에리어에 입장하기"
     },
     "hallucination_laboratory": {
       "name": "조금씩 비틀거리는 몽상가",
-      "condition": "환각(Hallucination) 이벤트를 감상하기"
+      "condition": "Laboratory에서 전기톱 이펙트를 장착한 후 연구소장(head scientist) NPC를 죽이고 연구원(scientist) NPC에게 붙잡힌 후 환각(Hallucination) 이벤트를 감상하기"
     },
     "hall_of_memories_hug": {
       "name": "행복한 결말",
@@ -3409,8 +3409,8 @@
       "condition": "Shallows of Deceit의 옥상 서브 에리어를 방문하기"
     },
     "tranquil_crescent": {
-      "name": "A Dip Under the Moonlight",
-      "description": "The Moon glows and the Mermaid swims away again and again, always the same.",
+      "name": "달빛 아래로 뛰어들다",
+      "description": "다시, 또 다시, 언제나 변함없이 달은 빛나고 인어는 헤엄쳐 가버린다",
       "condition": "Jigsaw Puzzle World의 Moonlit Lake 서브 에리어를 방문하기"
     },
     "puppet_show": {
@@ -3434,8 +3434,8 @@
       "condition": "Green Neon World를 방문하기"
     },
     "mountain_range_scenery": {
-      "name": "별의 산꼭대기",
-      "condition": "산맥 꼭대기의 경치를 감상하기"
+      "name": "별이 빛나는 산 정상",
+      "condition": "Mountain Range의 the stellar mountaintop 서브 에리어에 도달하여 산맥 꼭대기의 경치를 감상하기"
     },
     "victorian_drains_scenery": {
       "name": "금빛의 밤",
@@ -3443,14 +3443,14 @@
       "condition": "Victorian Drains에서 먼 곳의 도시와 UFO를 보기"
     },
     "fox_temple": {
-      "name": "여우 신사로의 길",
+      "name": "여우 신사로 가는 길",
       "description": "기도하러 오셨나요?",
       "condition": "Fox Temple에 도달하기"
     },
     "gentle_meadows_picnic": {
       "name": "평온한 모임",
       "description": "가장 예상치 못한 장소에서 새 친구를 사귀다",
-      "condition": "Gentle Meadows의 두 번째 구역에서 소풍 나온 무리를 보기"
+      "condition": "Gentle Meadows의 Second Area 서브 에리어에서 소풍 나온 무리를 보기"
     },
     "grand_beach_shark": {
       "name": "통조림 거주민",
@@ -3467,18 +3467,18 @@
       "condition": "Pastel Grassland를 방문하기"
     },
     "cat_school": {
-      "name": "이봐, 작은 친구...",
-      "description": "그 말인즉슨...",
+      "name": "어이, 꼬맹이...",
+      "description": "정말이지 못됐어...",
       "condition": "School에서 늑대 이펙트를 사용하여 고양이를 겁 주기"
     },
     "big_cat_school": {
       "name": "사랑받는 몽상가",
       "description": "이전처럼 외롭지는 않을 것이다",
-      "condition": "School에서 커다란 고양이를 보기"
+      "condition": "School에서 검은 고양이와 상호작용하여 커다란 고양이가 있는 장소에 들어가기"
     },
     "doll_house": {
-      "name": "섬세한 인형",
-      "description": "깨지기 쉬운 섬세하고 귀중한 감정",
+      "name": "연약한 인형",
+      "description": "연약하면서도 소중한 도자기의 마음",
       "condition": "Doll House를 방문하기"
     },
     "the_ceiling": {
@@ -3506,7 +3506,7 @@
     },
     "blue_steak": {
       "name": "푸른 스테이크",
-      "description": "아시다시피 \"웰던\" 이면 충분했을 거예요.",
+      "description": "\"웰던\" 이었다면 좋았을텐데",
       "condition": "Blue Restaurant에서 음식을 구매하기"
     },
     "sunset_school": {
@@ -3517,7 +3517,7 @@
     "streetlight_thief_pool": {
       "name": "현장에서 붙잡히다",
       "description": "그거 다 어디에 쓰실 거죠?",
-      "condition": "Dream Pool에서 가로등 도둑의 은신처 서브 에리어를 방문하기"
+      "condition": "Dream Pool에서  Streetlight Thief's lair 서브 에리어에 도달하기"
     },
     "bat_jigsaw_puzzle": {
       "name": "공중 만남",
@@ -3542,22 +3542,22 @@
     "japan_town_secrets": {
       "name": "옛 시대의",
       "description": "와인처럼 숙성된",
-      "condition": "Japan Town에서 유령 마이코 NPC를 찾고, 안경 이펙트를 사용해 고립된 방에 있는 숨겨진 생명체들을 찾고, 화살표 간판 NPC, 신문을 읽는 NPC와 상호작용하기",
+      "condition": "Japan Town에서 화살표 간판남(Kanban Otoko) NPC, 신문지 남자(News Man) NPC와 상호작용하고 Japan Town의 Hotel 서브 에리어에서 유령 마이코(Maiko Ghost) NPC, 진동이 심한 방에서 안경 이펙트를 사용하면 나타나는 검은 생명체들을 보기",
       "checkbox": {
-        "japan_town_hotel": "유령 마이코 NPC를 찾고",
-        "japan_town_glasses": "안경 이펙트를 사용해 고립된 방에 있는 숨겨진 생명체들을 찾고",
-        "japan_town_otoko": "화살표 간판 NPC",
-        "japan_town_news_man": "신문을 읽는 NPC"
+        "japan_town_hotel": "유령 마이코(Maiko Ghost) NPC",
+        "japan_town_glasses": "진동이 심한 방에서 안경 이펙트를 사용하면 나타나는 검은 생명체들",
+        "japan_town_otoko": "화살표 간판남(Kanban Otoko) NPC",
+        "japan_town_news_man": "신문지 남자(News Man) NPC"
       }
     },
     "himalayan_lighthouse": {
       "name": "소금 등대",
       "description": "여기 오는 게 건강에 뭐가 좋은 건지 전혀 모르겠어...",
-      "condition": "Himalayan Salt Shoal에서 등대에 입장하기"
+      "condition": "Himalayan Salt Shoal의 Lighthouse 서브 에리어에 입장하기"
     },
     "disco_digital_alley": {
       "name": "디지털 춤",
-      "condition": "Digital Alley에서 디스코 무대 위에 발을 들이기"
+      "condition": "Digital Alley의 Disco Floor 서브 에리어에 입장하기"
     },
     "scenic_blank_path_end": {
       "name": "그림자의 불타는 눈",
@@ -3579,9 +3579,9 @@
       "condition": "Subtractive Color City에서 도시 구역에 도달하기"
     },
     "shogi_board_bingo": {
-      "name": "보드게임 은행업",
-      "description": "이 이펙트들로 갚을게요!",
-      "condition": "모든 이펙트를 가진 상태에서 보(歩) 말과 상호작용하여 최대한 많은 유메(夢)를 가져오기"
+      "name": "장기말 투자매매업",
+      "description": "이펙트 전부 들고 청산 드가자!",
+      "condition": "모든 이펙트를 가진 상태에서 보(歩) 말을 계속 뒤집어가며 몽을 최대치까지 벌기"
     },
     "carousel_chalkboard": {
       "name": "분필 회전목마",
@@ -3619,9 +3619,9 @@
     },
     "urotsuki_bedrooms": {
       "name": "우로츠키 증후군",
-      "condition": "Urotsuki's Dream Apartments의 우로츠키의 방, Drowsy Forest, Mirror Room, Static Labyrinth를 방문하고, Bleak Future와 Vertigo 이벤트를 보기",
+      "condition": "Urotsuki's Dream Apartments의 Urotsuki's room 서브 에리어, Drowsy Forest, Mirror Room, Static Labyrinth를 방문하고, Bleak Future와 Vertigo 이벤트를 보기",
       "checkbox": {
-        "urotsukis_dream_apartments": "Urotsuki's Dream Apartments",
+        "urotsukis_dream_apartments": "Urotsuki's Dream Apartments의 Urotsuki's room 서브 에리어",
         "drowsy_forest_room": "Drowsy Forest",
         "mirror_room": "Mirror Room",
         "static_doppelganger_room": "Static Labyrinth",
@@ -3644,18 +3644,18 @@
       "condition": "The Gutter의 입구 근처에 있는 하트 모양 생명체를 보기"
     },
     "silent_forest_red_silhouette": {
-      "name": "클리포드 더 빅 레드... 캣?",
+      "name": "사랑해 클리포드...가 아니라 고양이네?",
       "condition": "Silent Forest에서 커다란 붉은 고양이를 찾기"
     },
     "victorian_drains_horse": {
-      "name": "말과 놀기",
-      "description": "아직 움직여. 긴 여행 동안 즐거운 시간 보내!",
-      "condition": "Victorian Drains에서 말 위에 올라타기"
+      "name": "목마타기",
+      "description": "아직 쓸만하네. 긴 여정을 마무리하며 조금이나마 즐겨보자구!",
+      "condition": "Victorian Drains의 Abandoned Park 서브 에리어에 있는 목마에 타기"
     },
     "gutter_bright_room": {
-      "name": "우수배수",
-      "description": "물은 도시와 유적, 여울에서 관을 타고 흘러간다. 하지만 그 물은 어디에서 온 것일까? 어떤 폭풍이 그 배수로(Gutter) 안을 피로 가득 채웠을까? 이 날카로운 생명체들은 무얼 마시며 살아가는 걸까?",
-      "condition": "Lavender Park 직전 The Gutter에 위치한 밝은 방을 방문하기"
+      "name": "우수관",
+      "description": "물은 배수관을 타고 도시와 폐허를 지나 여울로 쏟아져 나온다. 그런데, 저 물은 어디에서부터 왔을까? 어떠한 폭풍우가 이 시궁창 속을 핏물로 가득 채웠을까? 이 뾰족한 생명체들은 대체 무얼 마셔왔던 걸까?",
+      "condition": "The Gutter에서 Lavender Park로 가는 길목에 위치한 밝은 방을 지나가기"
     },
     "bleeding_mush_grd": {
       "name": "피 흘리는 버섯",
@@ -3663,9 +3663,9 @@
       "condition": "Bleeding Mushroom Garden을 방문하기"
     },
     "overgrown_cdm_storm": {
-      "name": "무성하게 우거진 테라포밍",
-      "description": "이 장소는 살아있어.",
-      "condition": "Overgrown Condominium의 밖에서 천둥번개를 일으키기"
+      "name": "식물로 뒤덮다",
+      "description": "이 땅속에 무언가가 살고 있었다",
+      "condition": "Overgrown Condominium의 Butterfly Passage로 통하는 입구가 있는 비내리는 구역에서 테루테루보즈 이펙트를 사용하여 특정 확률로 발생하는 천둥번개 이벤트를 보기"
     },
     "wacky_worms": {
       "name": "벌레 먹은 벌레!",
@@ -8738,8 +8738,8 @@
   },
   "flow": {
     "rust": {
-      "name": "러스트",
-      "condition": "러스트가 되기"
+      "name": "사비",
+      "condition": "사비(錄)가 되기"
     },
     "cake": {
       "name": "초코 케이크",
@@ -8772,8 +8772,8 @@
       }
     },
     "dark_city": {
-      "name": "Psychedelic Visage",
-      "description": "A gift from a visitor from another plane of reality",
+      "name": "환각적인 형상",
+      "description": "현실이라는 또다른 면에서 건너온 방문객을 위한 선물",
       "condition": "환각의 시가지에서 외계인 NPC와 상호작용하기"
     },
     "red_eye": {
@@ -8797,7 +8797,7 @@
     "kill_smile": {
       "name": "오염된 문신",
       "description": "자업자득",
-      "condition": "러스트가 된 상태에서 오염된 학교 맵 끝자락에 위치한 문신 NPC를 죽이기"
+      "condition": "사비(錄)가 된 상태에서 오염된 학교 맵 끝자락에 위치한 문신 NPC를 죽이기"
     },
     "smile_channel": {
       "name": "스마일 채널",
@@ -8810,8 +8810,8 @@
       "condition": "메뉴 타입 오렌지를 잠금해제 하기. 만약 이미 얻었을 경우, 메뉴 타입을 발견했던 장소에 도달하기"
     },
     "moonlight_flower": {
-      "name": "Psychedelic Flower",
-      "description": "A hidden beauty",
+      "name": "환각적인 꽃",
+      "description": "숨겨진 아름다움",
       "condition": "환각의 시가지에 위치한 무지개 꽃을 상호작용하여 이벤트를 보기"
     },
     "oreko": {
@@ -8887,7 +8887,7 @@
     },
     "flow_sabi_all_effects": {
       "name": "무결점",
-      "condition": "Disguised Bug 이벤트를 감상하기"
+      "condition": "위장한 벌레(Disguised Bug) 이벤트를 감상하기"
     },
     "razor_head": {
       "name": "면도날 머리",
@@ -8909,163 +8909,163 @@
     },
     "sugar_mirror_rust": {
       "name": "거울공포증",
-      "description": "네가 네가 아닌 것 같아.",
-      "condition": "러스트가 된 상태에서 스윗 슈가 호텔의 거울을 응시하기"
+      "description": "내가 내가 아닌 것 같아.",
+      "condition": "사비(錄)가 된 상태에서 스윗 슈가 호텔의 거울을 응시하기"
     },
     "flow_machine_effect": {
-      "name": "Automaton",
-      "description": "A shocking turn of events...",
-      "condition": "Obtain the Machine effect. If you have already unlocked it, return to the Star World."
+      "name": "오토마톤",
+      "description": "충격적인 사건의 전환점...",
+      "condition": "별의 세계에서 기계 이펙트를 획득하기 (이미 얻은 상태라면, 기계를 얻었던 곳으로 돌아가기)"
     },
     "smile_empty_box": {
-      "name": "Corrupt Education",
-      "condition": "Obtain the smile empty box. If you have already unlocked it, return to the room prior to the one hosting it at the Corrupted School."
+      "name": "오염된 교실",
+      "condition": "부패한 학교에서 빈 상자를 획득하기 (이미 얻은 상태라면, 빈상자를 얻었던 곳으로 돌아가기)"
     },
     "rust_ending": {
-      "name": "Oxidation",
-      "condition": "See the Rust Ending"
+      "name": "산화",
+      "condition": "진 엔딩을 보기"
     },
     "cleaner_sugar_hole": {
-      "name": "Gentle Cleaner",
-      "description": "A sugary welcome",
-      "condition": "Compliment the Cleaner with the Dress effect in Sugar Hole"
+      "name": "상냥한 청소부",
+      "description": "달콤한 환영 인사",
+      "condition": "드레스 이펙트를 사용하여 방독면 메이드(Cleaner) NPC에게 인사하기"
     },
     "shinsoku": {
-      "name": "Shinsoku Neko: Standard Edition",
-      "description": "The start of the journey!",
-      "condition": "Score 1000 points in Shinsoku Neko"
+      "name": "신속 네코 : 스탠다드 에디션",
+      "description": "여정이 시작된다!",
+      "condition": "Shinsoku Neko 에서 1000점을 획득하기"
     },
     "shinsoku_gold": {
-      "name": "Shinsoku Neko: True Shinsoku Neko Edition",
-      "description": "\"They were all caught. The final tap was an exclamation mark on everything that had led to this point. I released my hands from the keyboard, and both me and my cat were finally free.\"",
-      "condition": "Score 999999 points in Shinsoku Neko"
+      "name": "신속 네코 : 진 신속 네코 에디션",
+      "description": "\"물고기를 모두 잡아내었다. 마지막으로 키를 눌렀을 때, 지금까지 쌓아온 모든 것에 대하여 느낌표를 찍게 만들었다. 키보드에서 손을 때고, 마침내 나와 고양이는 해방되었다.\"",
+      "condition": "Shinsoku Neko 에서 999999점을 달성하기"
     },
     "shinsoku_alt": {
-      "name": "Shinsoku Neko: Master Quest Edition",
-      "description": "You're getting good at this!",
-      "condition": "Score 1000 points in Shinsoku Neko by hitting a seahorse without getting hit"
+      "name": "신속 네코 : 마스터 퀘스트 에디션",
+      "description": "게임에 점점 익숙해져가고 있구나!",
+      "condition": "Shinsoku Neko 에서 해마에게 부딛히지 않고 1000점을 획득하기"
     },
     "cat_rainbow_maze": {
-      "name": "Rusty Cat",
-      "description": "Oh, adorable kitty with color from the snow",
-      "condition": "Obtain the Cat effect. If you have already unlocked it, return where the effect can be found in the Rainbow Maze."
+      "name": "녹슨 고양이",
+      "description": "눈과 같은 색을 띈 귀여운 고양이",
+      "condition": "무지개 미로에서 고양이 이펙트를 획득하기 (이미 얻은 상태라면, 고양이를 얻었던 장소로 돌아가기)"
     },
     "oreko_hole_deadhole": {
-      "name": "Abyssal Echo",
-      "condition": "As Rust, see Oreko disappear in Hole's Deadhole"
+      "name": "심연의 메아리",
+      "condition": "사비(錄)가 된 상태에서 오레코(Oreko) NPC가 구덩이로 사라지는 장면의 목격하기"
     },
     "headphones_effect_flow": {
-      "name": "Jamming Out",
-      "description": "Grooving through horrors that are beyond my comprehension",
-      "condition": "Obtain the Headphones effect. If you have already unlocked it, return to Music World."
+      "name": "음악에 빠지다",
+      "description": "불가사의한 공포를 헤쳐나가기 위하여 음악에 몸을 맡겨라",
+      "condition": "음악 세계에서 헤드폰 이펙트를 획득하기 (이미 얻은 상태라면, 음악 세계로 입장하기)"
     },
     "kaibutsu_blood_maze": {
-      "name": "Godspeed You! Shinsoku Kaibutsu",
-      "description": "I think they've had one energy drink too many...",
-      "condition": "Get caught by the Shinsoku Kaibutsu in the Blood Maze"
+      "name": "신속 카이부츠여, '신'속의 가호가 함께하기를!",
+      "description": "에너지 음료를 너무 많이 마셨군...",
+      "condition": "피의 세계에서 신속 카이부츠(Shinsoku Kaibutsu) NPC에게 붙잡히기"
     },
     "plant_action_flow": {
-      "name": "Floral Lungs",
-      "description": "Blegh.",
-      "condition": "Trigger the Plant effect's action in a rainy place"
+      "name": "꽃이 자라난 폐부",
+      "description": "부왁",
+      "condition": "물뿌리개 이펙트를 사용하여 비를 내리게 만들거나 비가 내리는 지역에 도착한 후 식물 이펙트를 사용하기"
     },
     "orange_slime_apartments": {
-      "name": "Blob Buddy",
-      "description": "A joyful jelly appears!",
-      "condition": "Interact with the orange slime in the Apartments"
+      "name": "방울이",
+      "description": "야생의 해맑은 젤리가 나타났다!",
+      "condition": "아파트에서 확률적으로 등장하는 오렌지색 슬라임과 상호작용 하기"
     },
     "guillotine_prison": {
-      "name": "Guilt & Execution",
-      "description": "Abandon hope all ye who enter here.",
-      "condition": "Access Hell using the guillotine in Prison"
+      "name": "죄와 벌",
+      "description": "이 곳에 도착했다면 희망을 버려라",
+      "condition": "감옥에서 단두대를 사용하여 지옥으로 입장하기"
     },
     "whistle_effect_flow": {
-      "name": "Rusty Referee",
-      "condition": "Obtain the Whistle effect. If you have already unlocked it, return where it can be found in Visceral World."
+      "name": "녹슨 심판",
+      "condition": "내장 세계에서 호루라기 이펙트를 획득하기 (이미 얻은 상태라면, 호루라기를 얻었던 장소로 돌아가기)"
     },
     "viscera_effect": {
-      "name": "Spill Your Guts",
-      "description": "What a mess...",
-      "condition": "Obtain the Viscera effect. If you have already unlocked it, return where it can be found in Womb Maze."
+      "name": "내장을 쏟아내다",
+      "description": "어질러져 버렸네...",
+      "condition": "자궁 미로에서 내장 이펙트를 획득하기 (이미 얻은 상태라면, 내장을 얻었던 장소로 돌아가기)"
     },
     "broom_effect_flow": {
-      "name": "Sabi's Delivery Service",
-      "description": "You'll truly feel alive every day.",
-      "condition": "Obtain the Broom effect. If you have already unlocked it, return where it can be found in Famicom World."
+      "name": "마녀 배달부 사비",
+      "description": "매일매일이 생동감으로 가득차게 될거야",
+      "condition": "패미컴 월드에서 빗자루 이펙트를 획득하기 (이미 얻은 상태라면, 빗자루를 얻었던 집에 들어가기)"
     },
     "uniform_effect_flow": {
-      "name": "Back at School!",
-      "description": "At least the uniform is nice!",
-      "condition": "Obtain the Uniform effect. If you have already unlocked it, return where it can be found in School."
+      "name": "학교로 복귀!",
+      "description": "적어도 교복은 멋져보이는데!",
+      "condition": "학교에서 교복 이펙트를 획득하기 (이미 얻은 상태라면, 교복을 얻었던 교실에 들어가기)"
     },
     "dress_effect_flow": {
-      "name": "Fragrance Snowy Dress",
-      "description": "A nice pretty dress I would've liked.",
-      "condition": "Obtain the Dress effect. If you have already unlocked it, return where it can be found in Snow World."
+      "name": "눈밭의 기품있는 드레스",
+      "description": "내가 좋아할 만한 멋지고 예쁜 드레스",
+      "condition": "눈의 세계에서 드레스 이펙트를 획득하기 (이미 얻은 상태라면 드레스를 얻었던 곳으로 돌아가기)"
     },
     "dresses_submarine_village": {
-      "name": ".fashion",
-      "description": "I may be sick but at least I'm cute.",
-      "condition": "Put on the two dresses in Submarine Village"
+      "name": "닷패션",
+      "description": "몸이 아프지만 난 귀엽다니깐",
+      "condition": "해저 마을에서 두 가지 옷들을 입어보기"
     },
     "oreko_broken": {
-      "name": "Worst Friends Forever",
-      "description": "Is there no good in the world?",
-      "condition": "Kill Oreko by lowering her friendship to -30, then return see her in her room"
+      "name": "죽도록 친했던 사이",
+      "description": "이 세상에 착한 인간이란게 있긴 한걸까?",
+      "condition": "오레코(Oreko) NPC를 죽여 친밀도를 -30까지 낮춘 후에 해저 세계에 있는 그녀의 집에 들어가기"
     },
     "revolver_effect": {
-      "name": "Warning",
-      "description": "Five chimes skyward, then shadows come",
-      "condition": "Obtain the Revolver effect. If you have already unlocked it, return where it can be found in Hole."
+      "name": "경고",
+      "description": "5번의 총성이 하늘에 울려퍼지고, 그림자가 드리워진다",
+      "condition": "구덩이에서 권총 이펙트를 획득하기 (이미 얻은 상태라면, 권총을 얻었던 곳으로 돌아가기)"
     },
     "tv_effect_flow": {
-      "name": "Channel Surfing",
-      "description": "Can this thing run Silent Hill?",
-      "condition": "Obtain the Television effect. If you have already unlocked it, return where it can be found in Machine Nation."
+      "name": "채널 돌려보기",
+      "description": "이걸로 사일런트 힐 돌릴 수 있어?",
+      "condition": "기계 왕국에서 텔레비전 이펙트를 획득하기 (이미 얻은 상태라면, 텔레비전을 얻었던 곳으로 돌아가기)"
     },
     "drawings_submarine_corridors": {
-      "name": "Crazed Scribblings",
-      "description": "The markings, what do they mean?",
-      "condition": "See all the drawings in Submarine Corridors"
+      "name": "광적인 낙서들",
+      "description": "대체 뭘 그려놓은거야?",
+      "condition": "해저 복도 속 모든 낙서들을 발견하기"
     },
     "gas_mask_effect_flow": {
-      "name": "Tactical Mask",
-      "description": "Keeps bad air out.",
-      "condition": "Obtain the Gas Mask effect. If you have already unlocked it, return where it can be found in Plant Corridors."
+      "name": "군용 마스크",
+      "description": "질나쁜 공기를 마시지 않도록 막아준다",
+      "condition": "식물 복도에서 가스마스크 이펙트를 획득하기 (이미 얻은 상태라면, 가스마스크를 얻었던 장소로 돌아가기)"
     },
     "arms_effect_flow": {
-      "name": "At Risk Mental State",
-      "description": "After a psychological collapse, there is no regression to innocence.",
-      "condition": "Obtain the Arms effect. If you have already unlocked it, return where it can be found in Microorganism World."
+      "name": "심각한 정신상태",
+      "description": "정신적 붕괴를 경험하고 나면, 순수했던 때로 되돌아가긴 글러버린다",
+      "condition": "미시 세계에서 팔 이펙트를 획득하기 (이미 얻은 상태라면, 팔을 얻었던 장소로 돌아가기)"
     },
     "alleyway_chase_town": {
-      "name": "Hooded Ambush",
-      "description": "So that's what that door is for...",
-      "condition": "Escape the Alleyway Chase event in Town"
+      "name": "누더기의 급습",
+      "description": "저 문이 있었던 이유가 이거였구나...",
+      "condition": "시가지에서 골목길 추격전(Alleyway Chase) 이벤트를 발생시킨 후 성공적으로 탈출하기"
     },
     "submarine_village_requiem": {
-      "name": "What Would a World Be Without Music?",
-      "description": "It feels so empty, so quiet.",
-      "condition": "Kill the 3 guitarists in the Submarine Village, then allow yourself to be caught by the non-guitarists that chase you"
+      "name": "음악이 사라진 세상",
+      "description": "공허하고, 고요해",
+      "condition": "해저 마을에서 기타를 치고 있는 NPC 3명을 모두 죽이고 추격자에게 붙잡히기"
     },
     "corrupted_purity_womb_maze": {
-      "name": "Den of the Famished Ones",
-      "description": "Mind your step... it hungers.",
-      "condition": "Reach Corrupted Purity in the Womb Maze"
+      "name": "굶주린 자들의 소굴",
+      "description": "조심해서 돌아다니렴... 저것이 굶주려 있으니",
+      "condition": "자궁 미로의 더럽혀진 순결(Corrupted Purity) 서브 에리어에 입장하기"
     },
     "corpse_effect": {
-      "name": "Reanimated",
-      "description": "Die for me, living dead girl...",
-      "condition": "Obtain the Corpse effect. If you have already unlocked it, return where it can be found in Prison."
+      "name": "소생",
+      "description": "날 위해 죽어주렴, 살아있는 시체 소녀야...",
+      "condition": "감옥에서 시체 이펙트를 획득하기 (이미 얻은 상태라면, 감옥에 입장하기)"
     },
     "cleaner_ending": {
-      "name": "Unsentimental Benevolence",
-      "condition": "See the Cleaner Ending"
+      "name": "감정없는 자비심",
+      "condition": "엔딩 2를 보기"
     },
     "night_visit_deterioration": {
-      "name": "Violence That Festered in the Dark",
-      "description": "A hair’s breadth away from violence.",
-      "condition": "Fully see the Night Visit event in Deterioration"
+      "name": "어둠 속에서 곪아 터져버린 폭력성",
+      "description": "얇은 결계 너머에서 펼쳐지는 폭력현장",
+      "condition": "사비(錄)가 된 상태에서 노후화 지역의 건물 내부 4번째 방을 방문하여 요바이(Night Visit) 이벤트를 전부 보기"
     }
   },
   "prayers": {
@@ -9088,13 +9088,13 @@
       "condition": "눈덮인 도로에 있는 사고난 버스에 들어가기"
     },
     "confused_arrows": {
-      "name": "Speeding Pointers",
-      "description": "Whoa where are they going?",
+      "name": "재빠른 마우스 커서들",
+      "description": "우와 쟤네들 어디로 가는거야?",
       "condition": "초록의 세계에 있는 숨겨진 방에 방문하기"
     },
     "chroma_cat": {
-      "name": "Glitchy Fluffball",
-      "description": "I can’t hear you, you’re breaking up- M̴̍͆e̷͛̒o̵͗͝ẅ̸́̆!",
+      "name": "오류난 털뭉치",
+      "description": "뭐라하는지 들리지가 않아, 너 고장난 - 긨긓궭귗귪",
       "condition": "결함의 세계에 위치한 크로마키 고양이를 찾기"
     },
     "sunflower": {
@@ -9118,8 +9118,8 @@
       "condition": "음식 기도가 있는 방에 도달하기"
     },
     "submarine_cat_eyes": {
-      "name": "Cat Eyes",
-      "description": "Meow~",
+      "name": "고양이 눈",
+      "description": "야옹~",
       "condition": "잠수함에서 고양이 눈 이벤트를 보기"
     },
     "lookout_point": {
@@ -9157,34 +9157,34 @@
       "condition": "바다 밑바닥에서 수룡을 보기"
     },
     "repair_shop_town": {
-      "name": "Shoe Miko",
-      "description": "What a cool girl",
-      "condition": "Encounter the Shoe Chimiko in the Repair Shop of Spirit Town"
+      "name": "수선사 무녀",
+      "description": "엄청난 여자아이네",
+      "condition": "영혼의 마을 속 수선소에서 수선사 꼬마무녀(Shoe Chimiko) NPC와 상호작용하기"
     },
     "karakasa_prayer": {
-      "name": "Urameshiya!!",
-      "description": "A spooky friend resides in the shrine's corner...",
-      "condition": "Interact with the kasa-obake in the Miko Shrine"
+      "name": "원망스럽도다!",
+      "description": "신사 구석에는 으스스한 친구가 살고 있대...",
+      "condition": "미코 신사 구석에 있는 우산 요괴와 상호작용하기"
     },
     "chimiko_shrine_anger": {
-      "name": "Tainted Shrine",
-      "description": "You mess with one of us, you mess with all of us",
-      "condition": "Anger all of the Chimikos in Miko Shrine"
+      "name": "더럽혀진 신사",
+      "description": "한 명을 괴롭히기 시작하더니, 기어이 우리 모두를 괴롭혔구나!",
+      "condition": "미코 신사에서 모든 꼬마무녀(Chimiko) NPC를 화나게 만들기"
     },
     "shovel_prayer": {
-      "name": "Exclusion Prayer",
-      "description": "Don't stand in front of me",
-      "condition": "Reach the room of the Shovel prayer in Industrial Maze"
+      "name": "추방된 기도자",
+      "description": "내 앞에 서지마",
+      "condition": "공장 미로에서 삽 기도가 있는 방에 도달하기"
     },
     "outlands": {
-      "name": "Candle-lit Welcome",
-      "description": "Why are they staring at me?",
-      "condition": "Visit the Outlands"
+      "name": "양초불로 가득찬 환영인사",
+      "description": "저 사람들 왜 나를 노려보는걸까?",
+      "condition": "변두리에 입장하기"
     },
     "hidden_room_spirit_town": {
-      "name": "Watchers of the Ways",
-      "description": "They're watching... always watching... but who watches the watchers?",
-      "condition": "Find the hidden room in Spirit Town"
+      "name": "길을 감시하는 자들",
+      "description": "저 사람들이 감시하고... 언제나 감시하고... 그런데 감시자들은 누가 감시하지?",
+      "condition": "영혼의 마을 속 비밀 방을 찾아내기"
     }
   },
   "deepdreams": {
@@ -9194,8 +9194,8 @@
       "condition": "안개낀 숲에서 회전목마 이벤트를 감상하기"
     },
     "koi": {
-      "name": "Koi Fish in the Overgrowth",
-      "description": "Soaking in soft sunlight radiating from above...",
+      "name": "수풀이 우거진 곳의 비단잉어",
+      "description": "하늘에서 부드럽게 내리쬐는 햇살에 젖어보아요...",
       "condition": "물의 정원에 도달하기"
     },
     "planetarium": {
@@ -9272,7 +9272,7 @@
     "crystalline_system": {
       "name": "오필리아",
       "description": "부글거리는 수정은 그녀를 시원하게 만들어줄 수 없다",
-      "condition": "수정 동굴에서 수정체 시스템을 얻기 (이미 얻었을 경우 획득한 장소를 다시 방문하기)"
+      "condition": "수정 동굴에서 수정체 시스템을 얻기 (이미 얻은 상태라면 수정체 시스템을 획득한 장소로 돌아가기)"
     },
     "visiting_lady": {
       "name": "방문하는 여인",
@@ -9349,73 +9349,73 @@
       "condition": "네온 하수구에서 유독성 변환을 사용하여 눈이 달린 생명체를 놀라게 하기"
     },
     "raincoat_girl_docks": {
-      "name": "비가 올 때",
+      "name": "비가 올 땐",
       "description": "우비",
       "condition": "부두에서 우비를 입은 소녀를 보기"
     },
     "mod_street": {
-      "name": "Mod Theatre",
-      "description": "It's hard to look at, and harder to enter.",
-      "condition": "Take a trip down Mod Street"
+      "name": "찬란한 극장",
+      "description": "바라보기도 힘들고 들어가기도 벅차보여",
+      "condition": "찬란한 거리로 이동하기"
     },
     "toxic_alter": {
-      "name": "Toxic Buddy",
-      "description": "Plague nurses HATE her!",
-      "condition": "Obtain the Toxic alter. If you have already unlocked it, return to the Toxic Sewers."
+      "name": "유독한 아이",
+      "description": "역병 간호사는 그녀를 혐오할거야!",
+      "condition": "네온 하수구에서 유독성 변환을 획득하기 (이미 얻은 상태라면, 네온 하수구로 돌아가기)"
     },
     "bat_girl_verdant": {
-      "name": "Bat Acquired Snuggles",
-      "description": "The pink flowers are her favorite!",
+      "name": "포옹받은 박쥐",
+      "description": "저 소녀는 분홍빛 꽃들을 좋아한대",
       "condition": "백합의 들판에 있는 박쥐 소녀 NPC의 시선을 끌기"
     },
     "dd_ending_3": {
-      "name": "Above Horizon",
-      "condition": "See the Ending #3"
+      "name": "지평선 너머",
+      "condition": "엔딩 #3을 보기"
     },
     "metallic_abandoned_lab": {
-      "name": "Bee Boo-Boo Bop, Boo-Boo Beep!",
-      "description": "Bee-boo-boo, boo-boo-bop? Bee-boo-boo-bop? Boo-boo-bee-bop? Not \"bee-boo-boo-beep\"? Bop? Beep? Boo-boo-bop! ",
-      "condition": "Obtain the Metallic alter. If you have already unlocked it, return to the Abandoned Lab."
+      "name": "삐리리릭, 삐삐삑!",
+      "description": "삐삐빅, 뿌비삑? 삐뿌삐뿌, 뿌리리삐? 뿌리리삐? \"삐리삐삑\"이 아니라? 뿌? 삑? 뿌리삑! ",
+      "condition": "버려진 연구소에서 금속체 변환을 획득하기 (이미 얻은 상태라면 버려진 연구소로 돌아가기)"
     },
     "serene_flowers": {
-      "name": "Lotus Veranda",
-      "description": "Serene sound of water, soothing floral scent.",
-      "condition": "어두운 마을의 발코니에 도달하기"
+      "name": "연꽃 베란다",
+      "description": "고요한 물소리 마음이 진정되는 꽃내음",
+      "condition": "어두운 마을의 베란다에 도달하기"
     },
     "girl_water_mill": {
-      "name": "A Voice Unheard",
-      "description": "I wonder what she's thinking about...",
-      "condition": "Find the mysterious girl in Water Mill"
+      "name": "들리지 않는 목소리",
+      "description": "저 여자애는 무슨생각을 하고 있을까...",
+      "condition": "수력 제분소에서 신비로운 여자아이를 찾아내기"
     },
     "nostalgic_alter": {
-      "name": "Old Times, yet Past Dreams",
-      "description": "Are you recollecting your memories in the dream world? We miss old times, don't we?",
-      "condition": "Obtain the Nostalgic alter. If you have already unlocked it, return where it can be found at the Train Station."
+      "name": "옛 시절, 이미 지나가버린 꿈들",
+      "description": "꿈 속에서 옛 기억을 회상해보고 계신가요? 우리는 어쩌면, 옛날이 그리운게 아닐까요?",
+      "condition": "기차역에서 그리움 변환을 획득하기 (이미 얻은 상태라면 기차역에서 그리움 변환을 얻었던 장소로 이동하기)"
     },
     "dd_systems": {
-      "name": "Bookmark your Journey",
-      "description": "Once you've placed a bookmark in your journey, let's set out again.",
-      "condition": "Obtain all of the systems and return to your room"
+      "name": "여정에 책갈피를 꽃다",
+      "description": "당신의 여정에 책갈피를 꽃아두셨다면, 이제 다시 떠나볼까요",
+      "condition": "모든 시스템을 획득하고 마리아나의 방으로 돌아가기"
     },
     "dream_district": {
-      "name": "The Street of Lanterns",
-      "description": "A place to rest before you continue your adventure to a deeper dream.",
-      "condition": "Visit Dream District"
+      "name": "등불의 거리",
+      "description": "더 깊은 꿈속으로 빠져들기 전에 숨을 돌릴 수 있는 장소",
+      "condition": "꿈의 행정구에 도달하기"
     },
     "verdant_alter": {
-      "name": "Floral Utopia",
-      "description": "The call of every spirit of the nature embraces you and slowly makes you part of it.",
-      "condition": "Obtain the Verdant alter. If you have already unlocked it, return where it can be found in Old Factory."
+      "name": "꽃으로 가득찬 낙원",
+      "description": "자연 속 모든 영혼들의 외침이 당신을 받아들이고 당신 또한 서서히 자연의 일부로 녹아든다",
+      "condition": "오래된 공장에서 심록빛 변환을 획득하기 (이미 얻은 상태라면 심록빛 변환을 얻었던 장소에 도달하기)"
     },
     "dark_eden": {
-      "name": "Wilted Paradise",
-      "description": "The snake tricked me, so I ate the fruit.",
-      "condition": "Visit Dark Eden"
+      "name": "실낙원",
+      "description": "주여, 저 뱀이 저를 미혹하여 선악과를 따먹게 하였나이다",
+      "condition": "깜깜한 낙원에 도달하기"
     },
     "glassy_alter": {
-      "name": "Human Nightlight!",
-      "description": "She doesn't need a nightlight, she is one!",
-      "condition": "Obtain the Glassy alter. If you have already unlocked it, return where it can be found in Lamp Forest."
+      "name": "인간 종야등",
+      "description": "저 여자는 종야등이 필요없대, 저 여자가 종야등이거든!",
+      "condition": "램프의 숲에서 글라스 변환을 획득하기 (이미 얻은 상태라면 램프의 숲에 입장하기)"
     }
   },
   "someday": {
@@ -9565,49 +9565,49 @@
       "condition": "Dance Flood에서 파란 보석이 있는 방에 입장하기"
     },
     "meta_nexus_all": {
-      "name": "Dream Connection",
-      "description": "Who are they?",
-      "condition": "Visit all of the dreamers' rooms in the Meta-Nexus"
+      "name": "꿈속 연결점",
+      "description": "쟤네들 누구야?",
+      "condition": "Meta-Nexus에서 모든 꿈꾸는 자들의 방에 방문하기"
     },
     "bald_effect": {
-      "name": "Greened Baldy",
-      "description": "It'll grow back.",
-      "condition": "Obtain the Bald effect. If you have already unlocked it, return where it can be found in Ice World."
+      "name": "녹빛 대머리",
+      "description": "다시 자라나겠지",
+      "condition": "Ice World에서 대머리 이펙트를 획득하기 (이미 얻은 상태라면 대머리를 얻었던 장소로 돌아가기)"
     },
     "zapnef_glitch_world": {
-      "name": "ZApped into the Game",
-      "description": "plae ZApNeF is the beast, itsooki is good and bets in geaem play game p,.ls",
-      "condition": "Complete the fake ZApNeF level in Glitch World"
+      "name": "게임에 휙 빠지다",
+      "description": "ZApNeF눈 개쭤는 걔임이고, 잇숙희는 잘하교, 걔이임 더 해애 주.,.라",
+      "condition": "Glitch World에서 ZApNeF의 가짜 레벨을 클리어하기"
     },
     "sun_space_world": {
-      "name": "Burnt Into Your Eyes",
-      "description": "Well... what were you expecting",
-      "condition": "Attempt to interact with the Sun in Space World"
+      "name": "눈에 화상을 입다",
+      "description": "그러게... 뭘 바랬던거니",
+      "condition": "Space World에서 태양과 상호작용하기"
     },
     "1_up_8_bit_world": {
-      "name": "Get a Life!",
-      "description": "You get an extra Itsuki for every one of these you receive.",
-      "condition": "Get a 1-UP from the mushroom in 8-bit World"
+      "name": "목숨을 얻자!",
+      "description": "버섯을 한 번 때릴 때마다 잇츠키가 추가로 지급됩니다",
+      "condition": "8-bit World의 버섯에서 목숨을 하나 더 받기"
     },
     "fox_effect_someday": {
-      "name": "Kitsune Boy",
-      "description": "I might look silly but foxes are really wise creatures!",
-      "condition": "Obtain the Fox effect. If you have already unlocked it, return where it can be found in Forest."
+      "name": "여우 소년",
+      "description": "멍청해 보일지 모르겠지만 여우는 꽤 영리한 동물이라구!",
+      "condition": "Forest에서 여우 이펙트를 획득하기 (이미 얻은 상태라면 여우를 얻었던 장소로 돌아가기)"
     },
     "four_leaf_clover_forest": {
-      "name": "I'm So Lucky, Lucky!",
-      "description": "You can fool yourself, I promise it will help, now every single day I just wanna hear you saying!",
-      "condition": "Interact with the four-leaf clover in Forest"
+      "name": "난 운이 너무너무 좋아!",
+      "description": "당신이 스스로를 속일 수 있다는 것이 도움이 될거라 확신해요, 이제 당신의 이야기를 매일매일 들어보고 싶어요!",
+      "condition": "Forest에서 네잎 클로버와 상호작용하기"
     },
     "rainbow_beach": {
-      "name": "Colorful Shore",
-      "description": "After every rain comes a rainbow",
-      "condition": "Make a rainbow appear at the Beach"
+      "name": "색채가 가득한 해안가",
+      "description": "비온 뒤 무지개가 찾아온다",
+      "condition": "Beach에서 무지개를 만들어내기"
     },
     "relaxing_room_school": {
-      "name": "A Peace Long Gone",
-      "description": "Wish I could be there...",
-      "condition": "Visit the Relaxing Room in School World"
+      "name": "오래 전에 사라진 평화",
+      "description": "내가 거기에 있다면 좋을텐데...",
+      "condition": "School World의 Relaxing Room 서브 에리어에 입장하기"
     }
   },
   "unevendream": {
@@ -9671,7 +9671,7 @@
     },
     "braille_angel": {
       "name": "점자 천사",
-      "description": "凸아, 안녕",
+      "description": "토츠(凸)야, 안녕",
       "condition": "큐브 천사(Cube Angel) 이벤트를 보기"
     },
     "shiny_crystal": {
@@ -9710,8 +9710,8 @@
       "condition": "자판기에서 소라게를 구매하기"
     },
     "mimic": {
-      "name": "Upside-Down",
-      "description": "It's something isn't it?",
+      "name": "뒤집히다",
+      "description": "뭔가 있구나, 그렇지?",
       "condition": "Upside-Down 이벤트 장소에 가기"
     },
     "cube_racing": {
@@ -9794,7 +9794,7 @@
     },
     "roadside_diner": {
       "name": "갓길 식당",
-      "description": "What’s new, pussycat?",
+      "description": "뭐 새로운거라도 있니, 야옹아?",
       "condition": "Pink Desert에 위치한 Rainy Street에 방문하기"
     },
     "totsu_x_ray": {
@@ -9833,136 +9833,136 @@
       "condition": "Violet Caves의 메인 구역에서 UV Light 이펙트를 사용하여 숨겨진 상징들을 밝히기"
     },
     "appleworm_birth": {
-      "name": "Hatched from Light",
-      "description": "Until tomorrow, new best friend",
-      "condition": "Witness Appleworm's Birth in Lightbulb World"
+      "name": "빛 속에서 부화하다",
+      "description": "새로운 절친 (내일까지만)",
+      "condition": "Lightbulb World에서 Appleworm's Birth 이벤트를 보기"
     },
     "origami_flight": {
-      "name": "Aerial Voyage",
-      "description": "Take to the skies, and feel the breeze",
-      "condition": "Take flight in Sky Islands"
+      "name": "상공 항해",
+      "description": "하늘로 올라가 부드럽게 부는 바람을 느껴보자",
+      "condition": "Sky Islands에서 종이비행기에 탑승하기"
     },
     "glass_case_hotel": {
-      "name": "Caged Beauty",
-      "description": "She's caught up in the colors",
-      "condition": "See the large woman encased in glass at the back of the Hotel"
+      "name": "갇힌 미녀",
+      "description": "그녀는 색 속에 사로잡혔다",
+      "condition": "Hotel에서 거대 유리 케이스 속에 갇힌 여성을 찾아내기"
     },
     "creature_void_murals": {
-      "name": "A Cold Bloody Figure",
-      "description": "You could use a warm healing.",
-      "condition": "See the injured bloody creature in Void Murals"
+      "name": "차디찬 피투성이의 형체",
+      "description": "따뜻하게 치유해줄 수 있을거야",
+      "condition": "Void Murals에서 피범벅이 된 다친 생명체를 찾아내기"
     },
     "uboa_congregation_island": {
-      "name": "Worn-Out Faces",
-      "description": "Worn-out places... worn-out faces...",
-      "condition": "Interact with the Uboa creature in Congregation Island"
+      "name": "식상한 얼굴",
+      "description": "식상한 곳... 식상한 얼굴들...",
+      "condition": "Congregation Island에서 우봐처럼 생긴 생명체와 상호작용하기"
     },
     "secret_kaomoji_mall": {
-      "name": "Emesis Magenta",
-      "description": "\"I frew up...\"",
-      "condition": "Find the hidden Kaomoji in Kaomoji Mall"
+      "name": "자홍빛 구토",
+      "description": "\"나 토했어...\"",
+      "condition": "Kaomoji Mall에서 숨어있는 카오모지를 찾아내기"
     },
     "balloon_festival_ballons": {
-      "name": "Free Balloon Day",
-      "condition": "Collect all three balloons in Balloon Festival"
+      "name": "공짜 풍선의 날",
+      "condition": "Balloon Festival에서 세가지 풍선을 전부 획득하기"
     },
     "sky_the_foundry": {
-      "name": "Reach for the Stars",
-      "description": "Even in hell you can look up to the sky",
-      "condition": "Look up to the sky in The Foundry"
+      "name": "별들을 향해 나아가자",
+      "description": "지옥 속 일지라도 하늘은 올려다볼 수 있다",
+      "condition": "Foundry에서 하늘을 올려다보기"
     },
     "jumping_playground": {
-      "name": "Gods of the Playground",
-      "description": "Ask them about eternal truth of playing tags.",
-      "condition": "Visit Jumping Playground"
+      "name": "놀이터의 신들",
+      "description": "그들에게 술래잡기의 끝없는 진리에 대하여 물어보자",
+      "condition": "Jumping Playground에 도달하기"
     },
     "kutotsuki_basement_trainyard": {
-      "name": "Haunted Dreams",
-      "description": "Something isn't quite right...",
-      "condition": "Sleep in the beds in the isolated sections of Basement and Lavender Trainyard",
+      "name": "귀신들린 꿈",
+      "description": "뭔가 잘못된 것 같은데...",
+      "condition": "Basement와 Lavender Trainyard의 고립지역에 있는 침대에서 잠에 들기",
       "checkbox": {
         "totsutsuki_trainyard": "Basement",
         "kubotsuki_basement": "Lavender Trainyard"
       }
     },
     "mouth_corroded_dream": {
-      "name": "False Smile",
-      "description": "Smiling through the pain won't help.",
-      "condition": "See the TV with the woman with the bleeding mouth in Corroded Dream"
+      "name": "거짓된 미소",
+      "description": "고통 속에서 미소짓는 것은 별다른 도움이 되지 못한다",
+      "condition": "Corroded Dream의 TV 속에서 입에 피가 흐르는 여성을 보기"
     },
     "anglerfish_the_abyss": {
-      "name": "Abyssal Lurker",
-      "description": "Do not fear the dark ocean depths, fear what hides within them.",
-      "condition": "Reveal the anglerfish in The Abyss"
+      "name": "심연 속 은둔자",
+      "description": "어두운 심해를 두려워 말고, 그 속에 숨어있는 것들에 두려움을 느껴라",
+      "condition": "The Abyss에서 아귀를 발견하기"
     },
     "anti_seer_puppet_theater": {
-      "name": "Master of Puppets",
-      "description": "Blinded by me, you can't see a thing",
-      "condition": "Trigger the Anti-Seer event in the Puppet Theater"
+      "name": "꼭두각시들의 지배자",
+      "description": "내가 눈을 멀게 하면, 넌 아무것도 보지 못하겠지",
+      "condition": "Puppet Theater에서 Anti-Seer 이벤트를 보기"
     },
     "jelly_cube_lake": {
-      "name": "Jelly Cubes",
-      "description": "I wonder how long it will take me to devour all of this jelly.",
-      "condition": "Visit Jelly Cube Lake"
+      "name": "젤리 큐브",
+      "description": "이 많은 젤리를 다 먹어 치우는 데 얼마나 걸릴까?",
+      "condition": "Jelly Cube Lake에 도달하기"
     },
     "peeper_winter_village": {
-      "name": "Peeper's Party",
-      "description": "You are currently being consumed by a pile of fluffy birds, don't try to resist or you may become one of them.",
-      "condition": "Find the peeper's room in Winter Village"
+      "name": "짹짹이 파티",
+      "description": "당신은 지금 수많은 푹신푹신한 새들 속에 둘러싸여 기가 빠져나가고 있습니다. 저항하지 마십시오, 아니면 당신도 저 새들의 일원이 될지도 모릅니다.",
+      "condition": "Winter Village에서 새들의 방에 들어가기"
     },
     "snail_effect": {
-      "name": "Boing!",
-      "description": "I'm the bounciest snail of all the dream world!",
-      "condition": "Obtain the Snail effect. If you have already unlocked it, return where it can be found in Snail Palace."
+      "name": "뽀잉!",
+      "description": "나는야 꿈세계에서 가장 통통튀는 달팽이!",
+      "condition": "Snail Palace Snail 이펙트를 획득히가 (이미 얻은 경우라면 Snail을 얻었던 장소로 돌아가기)"
     },
     "star_cactus_desert": {
-      "name": "Prickly Stellar Lifeforms",
-      "description": "I better not mess with this cactus or it'll eventually get me seeing stars!",
-      "condition": "Visit Star Cactus Desert"
+      "name": "가시투성이 별 모양 생명체",
+      "description": "이 선인장은 건들지 않는게 좋겠어, 안그럼 저게 내 머리에 별을 핑 돌게 만들지도 몰라!",
+      "condition": "Star Cactus Desert에 도달하기"
     },
     "butterfly_effect_ud": {
-      "name": "I'm Your Little Butterfly",
-      "description": "The prettiest butterfly of them all",
-      "condition": "Obtain the Butterfly effect. If you have already unlocked it, return to Fast Food World."
+      "name": "당신만의 자그마한 나비",
+      "description": "세상에서 가장 예쁜 나비",
+      "condition": "Fast Food World에서 Butterfly 이펙트를 획득하기 (이미 얻은 상태라면 Butterfly를 얻었던 장소로 돌아가기)"
     },
     "angel_rosetta_cliff": {
-      "name": "Rosetta's Cliff",
-      "description": "What's she saying?",
-      "condition": "See the angel on the Rosetta Cliff of Violet Caves"
+      "name": "로제타의 절벽",
+      "description": "저 여자 뭐라고 말하고 있는걸까?",
+      "condition": "Violet Caves의 Rosetta Cliff 서브 에리어에서 천사를 보기"
     },
     "malice_house_star_field": {
-      "name": "Little Miss Malice",
-      "description": "Please turn that off!!",
-      "condition": "Equip the UV Light effect in Malice's House in Star Field"
+      "name": "작은 아가씨 말리스",
+      "description": "그거 좀 꺼!!",
+      "condition": "Star Field의 Malice's House 서브 에리어에서 UV Light 이펙트를 착용하기"
     },
     "plant_laboratory": {
-      "name": "Laboratory Blooming Fluorescent",
-      "description": "Where the prettiest of flowers grow",
-      "condition": "Visit Plant Laboratory"
+      "name": "형광빛이 만발하는 실험실",
+      "description": "가장 예쁜 꽃이 피어오르는 곳",
+      "condition": "Plant Laboratory에 도달하기"
     },
     "abandoned_pools": {
-      "name": "Sinking Pools",
-      "description": "I wish I could just be like the lantern",
-      "condition": "Visit Abandoned Pools"
+      "name": "가라앉는 수영장",
+      "description": "나도 랜턴처럼 떠있고 싶다",
+      "condition": "Abandoned Pools에 도달하기"
     },
     "urinal_smile_town": {
-      "name": "Dream Fountain",
-      "description": "Gaze your eyes upon the giant urinal in the sky",
-      "condition": "Find the urinal in Smile Town"
+      "name": "꿈의 분수대",
+      "description": "하늘에 우뚝 솟은 거대한 소변기를 주시하라",
+      "condition": "Smile Town에서 거대한 소변기를 발견하기"
     },
     "nightcap_effect": {
-      "name": "Plunging into Dreamland",
-      "description": "Ready to slip into the dreamland!",
-      "condition": "Obtain the Nightcap effect. If you have already unlocked it, return where it can be found in the Sky Path of the Star Field."
+      "name": "꿈나라로 뛰어내리다",
+      "description": "꿈나라로 스르륵 빠져들 준비 완료!",
+      "condition": "Star Field의 Sky Path 서브 에리어에서 Nightcap 이펙트를 획득하기 (이미 얻은 상태라면 Nightcap을 얻었던 장소로 돌아가기)"
     },
     "quare_grassy_pipes": {
-      "name": "Android Pitcher",
-      "description": "Why did you interrupt me? I was concentrating!",
-      "condition": "See Quare's face in Grassy Pipes"
+      "name": "안드로이드 투수",
+      "description": "왜 날 방해한거야? 집중하고 있었단말이야!",
+      "condition": "Grassy Pipes에서 Quare NPC의 얼굴을 바라보기"
     },
     "worm_clash_mutated_forms": {
-      "name": "Oozing Roar",
-      "condition": "Find the Bisected Worm in Clash of Mutated Forms"
+      "name": "새어나오는 울부짖음",
+      "condition": "Clash of Mutated Forms에서 Bisected Worm NPC를 발견하기"
     }
   },
   "braingirl": {
@@ -9981,8 +9981,8 @@
       "condition": "Grasslands Labyrinth에 위치한 라디오와 상호작용하기"
     },
     "shrine_garden": {
-      "name": "Cracked Orb",
-      "description": "Beware",
+      "name": "부서진 오브",
+      "description": "조심해",
       "condition": "Spirit Shrines에서 이벤트를 보기"
     },
     "vista": {
@@ -10009,7 +10009,7 @@
     },
     "museum_takeoff": {
       "name": "이륙",
-      "condition": "Visit the Museum Tunnel"
+      "condition": "Museum Tunnel 에 도달하기"
     },
     "midnight_band": {
       "name": "미드나잇 밴드",
@@ -10049,19 +10049,19 @@
       "condition": "Cubic Ruins를 방문하기"
     },
     "cat_spirit_shrines": {
-      "name": "Sleepy Kitty",
-      "description": "Don’t disturb its cat-nap!",
-      "condition": "Find the cat in the Spirit Shrines"
+      "name": "피곤한 고양이",
+      "description": "자고있는 야옹이는 건들면 안돼!",
+      "condition": "Spirit Shrines 에서 고양이를 발견하기"
     },
     "moss_menu": {
-      "name": "Forgotten Memory Reclaimed",
-      "description": "Gathering green grows within missing memories.",
-      "condition": "Obtain the Moss menu theme. If you have already unlocked it, return where it can be found in the Shrine Garden."
+      "name": "잊혀진 기억을 되찾다",
+      "description": "잊혀진 기억 속에서 자라난 이끼를 뽑아가자",
+      "condition": "Shrine Garden 에서 메뉴 타입 Moss 를 얻기 (이미 얻은 상태라면 메뉴 타입을 얻었던 장소로 돌아가기)"
     },
     "electric_light_effect": {
-      "name": "Handy Electricity",
-      "description": "Is Mikan's burden light?",
-      "condition": "Obtain the Electric Light effect. If you have already unlocked it, return where it can be found in the Garden Ascend sub-area of Shrine Garden."
+      "name": "간편한 전기제품",
+      "description": "이거 미캉이 썼던 전등이야?",
+      "condition": "Shrine Garden의 Garden Ascend 서브 에리어에서 Electric Light 이펙트를 획득하기 (이미 얻은 상태라면 Electric Light을 얻었던 장소로 돌아가기)"
     }
   },
   "amillusion": {
