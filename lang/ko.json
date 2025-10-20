@@ -10170,75 +10170,75 @@
       "condition": "Cartoon Boy에서 100점을 달성하기"
     },
     "mad_cow_flies_platform": {
-      "name": "Mad Cow Disease",
-      "condition": "Trigger the Mad Cow event in Flies Platform"
+      "name": "광우병",
+      "condition": "Flies Platform 에서 Mad Cow 이벤트를 보기"
     },
     "ladder_museum_geology": {
-      "name": "Wipeout",
-      "description": "We didn't start the fire...",
-      "condition": "Climb the ladder in the Science Museum's Geology exhibit"
+      "name": "전멸",
+      "description": "우리가 불 안냈어요...",
+      "condition": "Science Museum 의 지질학 전시실 (Geology exhibit) 에서 사다리를 타기"
     },
     "serene_apartment_aqua": {
-      "name": "Serene Fish",
-      "condition": "See the view of the aquarium in Serene Apartment"
+      "name": "조용한 물고기",
+      "condition": "Serene Apartment 에서 아쿠아리움을 찾아내기"
     },
     "versailles_abysses": {
-      "name": "Heart of the Seas",
-      "description": "May the ocean keep you.",
+      "name": "바다의 심장",
+      "description": "바다가 당신을 지켜줄 것이다",
       "condition": "분수 근처에서 Radiator 열쇠를 사용하여 냉기를 방출하기"
     },
     "calendar": {
       "name": "사계절",
-      "condition": "See the Nexus during summer, autumn, winter, and spring",
+      "condition": "Nexus 에서 봄, 여름, 가을, 겨울을 모두 보기",
       "checkbox": {
-        "nexus_season_1": "summer",
-        "nexus_season_2": "autumn",
-        "nexus_season_3": "winter",
-        "nexus_season_4": "spring"
+        "nexus_season_1": "여름",
+        "nexus_season_2": "가을",
+        "nexus_season_3": "겨울",
+        "nexus_season_4": "봄"
       }
     },
     "residential_prison": {
-      "name": "Faraway Exile",
-      "description": "Does it feel like a trial? Does it trouble your mind the way you trouble mine?",
+      "name": "머나먼 곳으로의 추방",
+      "description": "이것이 고난처럼 느껴지시나요? 많이 괴롭겠죠, 당신이 절 괴롭게 한 것처럼",
       "condition": "Residential Corridor World에서 보안 요원에게 붙잡히기"
     },
     "chicken_revenge": {
-      "name": "Killer Chicken",
-      "description": "This chicken is not normal",
+      "name": "닭 살인마",
+      "description": "이 닭은 정상이 아니다",
       "condition": "Mad 열쇠를 사용하여 Chicken Revenge 이벤트를 감상하기"
     },
     "ski_hill_event": {
-      "name": "Faster Than a Snow Monster",
-      "description": "Aren't you overdoing it a bit?",
+      "name": "눈귀신보다 빠르게",
+      "description": "너 좀 무리하는거 아니야?",
       "condition": "Ski Hill 이벤트를 보기"
     },
     "science_museum": {
-      "name": "Getting All Around the Science",
-      "description": "Hello, Danaë!",
+      "name": "과학의 모든 것을 탐구하다",
+      "description": "안녕, 다나에!",
       "condition": "Science Museum의 모든 홀을 방문하기"
     },
     "door_smugglers_hideout": {
-      "name": "I Gently Open the Door...",
-      "condition": "Reach the room of the hanged man in Smugglers' Hideout"
+      "name": "조심스레 문을 열어보니...",
+      "condition": "Smugglers' Hideout 에서 매달린 남자의 방에 들어가기"
     },
     "tv_roxane_japanese_area": {
-      "name": "Pipiru Piru Piru Pipiru Pi~",
-      "condition": "Turn on the TV in Roxane's House in the Japanese Area"
+      "name": "피피루 피루 피루 피피루 피~",
+      "condition": "Japanese Area 의 Roxane's House 서브 에리어에서 TV를 켜기"
     },
     "la_pigne_bouteille": {
-      "name": "Welcome to La Pigne!",
-      "description": "Enjoy the view and the tasty treats my friend!",
-      "condition": "Order something from the shop in La Pigne"
+      "name": "라 피뉴에 어서와!",
+      "description": "경치도 즐기면서 맛난 간식도 먹어 친구야!",
+      "condition": "La Pigne 의 음식점에서 무언가를 주문하기"
     },
     "alien_saturn_telecom_world": {
-      "name": "Listen Up",
-      "description": "Can you hear us? Are you there? What's it like on the other side?",
-      "condition": "See the alien on top of one of the structures in Saturn Telecom World"
+      "name": "들어봐",
+      "description": "이 소리 들려? 거기에 있는거야? 저 너머에는 뭐가 있는걸까?",
+      "condition": "Saturn Telecom World 속 건물들의 옥상 중 하나에서 외계인과 조우하기"
     },
     "tournee_aerobus": {
-      "name": "The Enchanted Bus Ride",
-      "description": "The flying bus sometimes drifts to strange places!",
-      "condition": "Get on the Aerobus from Danaë's Dream Balcony, Corrupted Notebook, La Pigne, Coco Desert, EPACSE, and Rainbow Screw Floor",
+      "name": "신기한 스쿨버스",
+      "description": "날아다니는 버스가 가끔 이상한 장소에 정차하기도 한대요!",
+      "condition": "Danaë's Dream Balcony, Corrupted Notebook, La Pigne, Coco Desert, EPACSE, Rainbow Screw Floor 에서 비행 버스에 탑승하기",
       "checkbox": {
         "aerobus_balcony": "Danaë's Dream Balcony",
         "aerobus_notebook": "Corrupted Notebook",
@@ -10249,9 +10249,9 @@
       }
     },
     "holy_sea": {
-      "name": "Ascension to Heaven",
-      "description": "So let's all fly up super high, high up in the sky",
-      "condition": "Reach the Holy Sea"
+      "name": "천국으로의 승천",
+      "description": "자, 모두들 하늘을 향해 높이, 더 높이 날아가보자",
+      "condition": "Holy Sea 에 도달하기"
     }
   },
   "muma": {
@@ -10397,107 +10397,107 @@
       "condition": "Block Galaxy B에서 붉은 사다리를 아래로 떨어뜨리기"
     },
     "soft_sunset": {
-      "name": "Midsummer Sinking Sun",
-      "description": "Watching the vast, summer skies with a bunny friend, different colors melting into each other as the sun sinks deeper...",
-      "condition": "Visit Sunset Cliff"
+      "name": "한여름의 지는 해",
+      "description": "토끼 친구와 함께 지는 태양이 빚어낸, 다채로운 색이 어우러진 광활한 여름 하늘을 바라보다...",
+      "condition": "Sunset Cliff 에 도달하기"
     },
     "fish_undersea_expense": {
-      "name": "Fish Ride",
-      "description": "So that's what a sea horse is!",
-      "condition": "Feed the fish in Undersea Expanse"
+      "name": "물고기에 타다",
+      "description": "그러니까 이게 해마라는 거구나!",
+      "condition": "Undersea Expanse에서 물고기에게 먹이를 주기"
     },
     "satiated_rabbit": {
-      "name": "Thanks for the Carrot!",
-      "description": "Next time bring more!",
+      "name": "당근 감사합니다!",
+      "description": "다음 번엔 더 많이 가져오세요!",
       "condition": "Isle of Seasons에서 토끼에게 먹이를 주기"
     },
     "complete_museum": {
-      "name": "The Last Steps",
-      "description": "No longer empty",
-      "condition": "Complete the collection of the Empty Museum and see its last masterpiece"
+      "name": "마지막 과정",
+      "description": "더 이상 비어있지 않아",
+      "condition": "Empty Museum 의 수집품을 전부 얻은 후 마지막 걸작을 관람하기"
     },
     "lapifiere_mono_building": {
-      "name": "Black Truth",
-      "description": "Shadows of rabbits",
-      "condition": "See the Nurse Rabbit's shadow in Monochrome Building"
+      "name": "검은 진실",
+      "description": "토끼들의 그림자",
+      "condition": "Monochrome Building 에서 간호사 토끼 (Nurse Rabbit) NPC의 그림자를 보기"
     },
     "realm_of_the_orb_snake": {
-      "name": "Provocation",
-      "description": "You only have yourself to blame",
-      "condition": "Get attacked by the serpents in Realm of the Orb and see what follows"
+      "name": "도발",
+      "description": "네가 비난할 수 있는 존재는 오직 너 자신 뿐이야",
+      "condition": "Realm of the Orb 에서 뱀에게 공격받고 이어지는 장면을 감상하기"
     },
     "muma_glitch": {
-      "name": "Fatal Error",
-      "description": "You shouldn't be here",
-      "condition": "Find a way to transport yourself to Glitch"
+      "name": "치명적인 오류",
+      "description": "여기에 있으면 안 돼",
+      "condition": "Glitch 로 텔레포트하는 방법을 찾아내기"
     },
     "r_space_station_earth": {
-      "name": "Perigee",
-      "description": "I can see my house from here.",
-      "condition": "See the Earth from Reverse Space Station"
+      "name": "근지점",
+      "description": "여기서 내 집이 보여",
+      "condition": "Reverse Space Station 에서 지구를 바라보기"
     },
     "pink_block_sea": {
-      "name": "Pink Sea Coast",
-      "description": "A pastel coastline.",
-      "condition": "Visit Pink Block Sea"
+      "name": "핑크빛 해안가",
+      "description": "파스텔 빛 해안선",
+      "condition": "Pink Block Sea 에 도달하기"
     },
     "pink_snowscape_globe": {
-      "name": "Soft Pink Blizzard",
-      "description": "This memory tastes like strawberry popsicle.",
-      "condition": "Obtain the Snowglobe memory. If you have already unlocked it, return to Pink Snowscape."
+      "name": "연분홍빛 눈보라",
+      "description": "이 메모리는 딸기 하드 아이스크림 맛이 난다",
+      "condition": "Pink Snowscape 에서 Snowglobe 메모리를 획득하기 (이미 얻은 상태라면 메모리를 얻었던 장소로 돌아가기)"
     },
     "jarred_rose": {
-      "name": "Unique Rose",
-      "description": "It's the time you spent on your rose that makes your rose so important.",
-      "condition": "Visit Jarred Rose"
+      "name": "특별한 장미",
+      "description": "너의 장미꽃이 그토록 소중한 것은 꽃을 위해 네가 공들인 그 시간 때문이야",
+      "condition": "Jarred Rose 에 도달하기"
     },
     "chambre_de_muma": {
-      "name": "Muma's Dream Room",
-      "condition": "Visit the Bedroom"
+      "name": "무마의 꿈의 방",
+      "condition": "Bedroom 에 입장하기"
     },
     "sands_of_time_sands": {
-      "name": "Whiling Away the Sandy Seconds",
-      "condition": "Obtain the Hourglass memory. If you have already unlocked it, return to Sands of Time."
+      "name": "모래같은 시간들을 흘려보내다",
+      "condition": "Sands of Time 에서 Hourglass 메모리를 획득하기 (이미 얻은 상태라면 메모리를 얻었던 장소로 돌아가기)"
     },
     "pink_snowscape": {
-      "name": "The Color of Winter",
-      "description": "It is snowing on a gentle morning...",
-      "condition": "Visit Pink Snowscape"
+      "name": "겨울의 색깔",
+      "description": "눈 내리는 고요한 아침...",
+      "condition": "Pink Snowscape 에 도달하기"
     },
     "bunny_first_steps": {
-      "name": "Muma and the Rabbits",
-      "description": "Would you like to be friends with me?",
-      "condition": "Lift one of the rabbits in First Steps"
+      "name": "무마와 토끼들",
+      "description": "나랑 친구할래?",
+      "condition": "First Steps 에서 토끼 하나를 들어올리기"
     },
     "maison_de_muma": {
-      "name": "Maison Blanche",
-      "description": "Who would live all the way out here?",
-      "condition": "Reach House"
+      "name": "하얀 집",
+      "description": "이런 변두리에 누가 살고 싶어 하겠어?",
+      "condition": "House 에 도달하기"
     },
     "muma_fric_in_rich": {
-      "name": "Memory? Not Needed!",
-      "description": "All the coins in the world!",
-      "condition": "Collect all of the coins without collecting any memory, then read the text in First Steps"
+      "name": "메모리? 그딴건 필요없어!",
+      "description": "내가 원하는건 세상에 있는 모든 동전들이닷!",
+      "condition": "메모리를 얻지 않은 상태에서 모든 동전을 획득하고, First Steps 에 있는 쪽지를 읽기"
     },
     "star_ride_muma": {
-      "name": "Starry Dream",
-      "description": "It feels so real...",
-      "condition": "Trigger the Star Ride event on the balcony of Bedroom"
+      "name": "별이 빛나는 꿈",
+      "description": "진짜 같아보여...",
+      "condition": "Bedroom 의 발코니에서 Star Ride 이벤트를 보기"
     },
     "rabbit_blue_flow": {
-      "name": "Bunwind",
-      "description": "So comfy...",
-      "condition": "See a rabbit on the lounge chair in Blue Flow"
+      "name": "토끼즈 의자",
+      "description": "너무 안락해...",
+      "condition": "Blue Flow 의 안락 의자에 앉아 있는 토끼를 보기"
     },
     "rabbits_sugar_maze": {
-      "name": "Bunny Tea Time",
-      "description": "They are late! They are late! For a very important date!",
-      "condition": "See the two rabbits enjoying sugar in the Sugar Maze"
+      "name": "토끼들의 티타임",
+      "description": "걔네들 너무 늦어, 늦는다구! 엄청 중요한 데이트인데!",
+      "condition": "Sugar Maze 에서 디저트를 즐기고 있는 토끼 2마리를 구경하기"
     },
     "music_room": {
-      "name": "Steps Along the Way",
-      "description": "Reflect on the steps you've taken, with music as your guide.",
-      "condition": "Visit the Music Room"
+      "name": "당신이 걸어온 발자취",
+      "description": "음악을 지도삼아 당신이 여태껏 걸어왔던 길을 되돌아보라",
+      "condition": "Music Room에 입장하기"
     }
   },
   "genie": {
@@ -10651,49 +10651,49 @@
       "condition": "Pixelated Fish에 방문하기"
     },
     "walker_delusion": {
-      "name": "Mechanical Duo",
-      "description": "A paranoid young girl who rides in an adequately sized walking robot, the mecha in one",
-      "condition": "Obtain the Walker delusion. If you have already unlocked it, return to the Gray Staircase."
+      "name": "기계 콤비",
+      "description": "딱맞는 크기의 보행 로봇, 메카를 타고 다니는 망상증 걸린 어린 소녀",
+      "condition": "Gray Staircase에서 Walker 망상을 획득하기 (이미 얻은 상태라면 Walker를 얻었던 장소로 돌아가기)"
     },
     "ancient_heavenly_sky": {
-      "name": "Overgrown Skies",
-      "description": "Delicate chains of pink flowers reclaim majestic ruins forgotten by time...",
+      "name": "덩굴로 뒤덮힌 하늘",
+      "description": "분홍꽃이 피어난 가느다란 덩굴이 시간이 지나며 잊혀진 장엄한 폐허 속을 가득 메운다...",
       "condition": "Ancient Heavenly Sky 에 입장하기"
     },
     "cosmic_prison": {
-      "name": "Space Prisoners",
-      "description": "Welcome to the Cosmic Prison...",
-      "condition": "Reach the Cosmic Prison"
+      "name": "우주 죄수들",
+      "description": "우주 감옥에 어서와...",
+      "condition": "Cosmic Prison에 도달하기"
     },
     "dream_baby_nexus": {
-      "name": "The Red Card",
-      "description": "꼬마야, 우리의 비지니스는 끝났어. 더 이상 줄게 없으니깐. 저리 꺼져!",
-      "condition": "Interact with the Dream Baby in the Unreal Nexus"
+      "name": "레드카드",
+      "description": "꼬마야, 우리끼리 할 일은 끝났단다. 더 이상 줄게 없으니깐, 저리 꺼져!",
+      "condition": "Unreal Nexus에서 Dream Baby NPC와 상호작용하기"
     },
     "creature_lab_b": {
-      "name": "The Laboratory's Secret",
-      "description": "Better hope it doesn't get out...",
-      "condition": "See the creature in a tube in Laboratory B"
+      "name": "연구소의 비밀",
+      "description": "밖으로 새나가지 않길 바래야지...",
+      "condition": "Laboratory B에서 큐브 속에 든 생명체를 보기"
     },
     "space_rocket_station": {
-      "name": "Astral Dream",
-      "description": "Above the sky, we forgot everything",
-      "condition": "Trigger the Into Space event at the Rocket Station"
+      "name": "별나라 꿈",
+      "description": "하늘 위에서, 우린 모든 것을 잊었다",
+      "condition": "Rocket Station에서 Into Space 이벤트를 보기"
     },
     "blood_girl_sea_of_blood": {
-      "name": "Shutter Bathed in Blood",
-      "description": "Miss, care for a photo to mark our little encounter? No need to be so tense... it's just a keepsake.",
-      "condition": "Interact with the Blood Girl in the Sea of Blood"
+      "name": "피가 흥건한 셔터",
+      "description": "아가씨, 실례지만 저희들의 소소한 만남을 기념해서 사진 한 장 찍어드릴까요? 아잇, 너무 굳어계시진 마시고... 그냥 기념품일 뿐이에요",
+      "condition": "Sea of Blood에서 Blood Girl NPC와 상호작용 하기"
     },
     "red_sight": {
-      "name": "Red Raging Corridor",
-      "description": "Congratulations! You are now safe! Or... are you?",
-      "condition": "Reach Red Sight"
+      "name": "붉은 빛 분노의 복도",
+      "description": "축하드립니다! 당신은 이제 안전하답니다! 아니... 안전할까요?",
+      "condition": "Red Sight에 도달하기"
     },
     "cat_3d_mecha_path": {
-      "name": "You Found Me!",
-      "description": "Hidden kittens hide in forbidden footfalls where pesky players may only look longingly",
-      "condition": "Reveal the invisible cat in 3D Mecha Path"
+      "name": "날 찾아줬구나!",
+      "description": "숨은 고양이들은 성가신 플레이어들이 애타게 바라보는 접근금지된 축구공 속에 숨어있다",
+      "condition": "3D Mecha Path에서 투명한 고양이를 드러나게 만들기"
     }
   },
   "mikan": {
@@ -10818,83 +10818,83 @@
       "condition": "Scarecrow Doll Void에 도달하기"
     },
     "old_arcade_chaser": {
-      "name": "Hey! This is my arcade!",
-      "description": "When someone is gaming too much.",
-      "condition": "Use the Knuckledusters and interact with the chaser of the Old Arcade"
+      "name": "어이, 여긴 내 오락실이다",
+      "description": "누군가 게임기 앞에 죽치고 앉아있는 경우",
+      "condition": "Knuckledusters을 사용하여 Old Arcade의 추격자 NPC와 상호작용하기"
     },
     "monochrome_pixel_room": {
-      "name": "Manifested Fatigue",
-      "description": "Clock hands never lie",
-      "condition": "Enter the Monochrome Pixel Room"
+      "name": "명백한 피로감",
+      "description": "시계바늘은 거짓말을 치지 않는다",
+      "condition": "Monochrome Pixel Room에 입장하기"
     },
     "feigning_ignorance_prison": {
-      "name": "Unease",
-      "description": "An uneased feeling.",
-      "condition": "Trigger the (Feigning) Ignorance event in Prison"
+      "name": "불안감",
+      "description": "불안한 느낌이 든다",
+      "condition": "Prison에서 (Feigning) Ignorance 이벤트를 보기"
     },
     "cat_black_stone_world": {
-      "name": "Nyan, Purr!",
-      "description": "Purr... Seems like a kind feline, isn't it?",
-      "condition": "Interact with the cat while using the Black Cat effect in Black Stone World"
+      "name": "냐앙, 그르릉!",
+      "description": "그르릉... 착한 고양이 같아보이는걸?",
+      "condition": "Black Cat 이펙트를 장착하고 Black Stone World에 있는 고양이와 상호작용하기"
     },
     "deity_sprout_world": {
-      "name": "Good Luck or Bad Luck?",
-      "description": "This design looks like a nine circles level",
-      "condition": "See the Good God and the Bad God events in Sandy Sprout World",
+      "name": "행운일까? 불운일까?",
+      "description": "이거 뭔가 지메대 나인서클 맵이랑 디자인이 비슷해 보이는데?",
+      "condition": "Sandy Sprout World에서 Good God와 Bad God 이벤트를 모두 보기",
       "checkbox": {
         "good_deity_sprout": "Good God",
         "bad_deity_sprout": "Bad God"
       }
     },
     "red_hand_labyrinth": {
-      "name": "Red Labyrinth",
-      "description": "I'm lost in this place...",
-      "condition": "Visit the Red Hand Labyrinth"
+      "name": "붉은 미로",
+      "description": "이런 곳에서 길을 잃어버렸어...",
+      "condition": "Red Hand Labyrinth에 입장하기"
     },
     "muzou_ending_4": {
-      "name": "Reap What You Sow",
-      "condition": "See the Ending #4"
+      "name": "뿌린대로 거두다",
+      "condition": "엔딩 #4를 보기"
     },
     "black_hair_soutarou": {
-      "name": "Black Hair",
-      "condition": "Obtain the Black Hair effect. If you have already unlocked it, return to the Factory."
+      "name": "검은 머리",
+      "condition": "Factory에서 Black Hair을 획득하기 (이미 얻은 상태라면 Black Hair가 있는 장소로 돌아가기)"
     },
     "tabe": {
-      "name": "Crunchy Fruit",
-      "condition": "Score 500 points in TA_BE_"
+      "name": "아삭한 과일",
+      "condition": "TA_BE_에서 500점을 획득하기"
     },
     "tabe_silver": {
-      "name": "Delicious Fruit",
-      "condition": "Score 1000 points in TA_BE_"
+      "name": "맛있는 과일",
+      "condition": "TA_BE_에서 1000점을 획득하기"
     },
     "tabe_gold": {
-      "name": "202-Karat Fruit",
-      "condition": "Score 2000 points in TA_BE_"
+      "name": "202 캐럿 과일",
+      "condition": "TA_BE_에서 2000점을 획득하기"
     },
     "tv_dark_sewers": {
-      "name": "It Watches",
-      "description": "Is it... judging me?",
-      "condition": "Turn ON the TV in the Dark Sewers"
+      "name": "지켜보고 있어",
+      "description": "날... 심판하는 걸까?",
+      "condition": "Dark Sewers에서 TV를 켜기"
     },
     "cursed_room_migraine_hallways": {
-      "name": "Cursed Room",
-      "description": "A lone \"stranded\" box",
-      "condition": "Trigger the Cursed Room event in Migraine Hallways. If you have already completed it, try to return in the room."
+      "name": "저주받은 방",
+      "description": "우두커니 있는 \"방치된\" 박스 하나",
+      "condition": "Migraine Hallways에서 Cursed Room 이벤트를 보기 (이미 완료한 상태라면 해당 방으로 돌아가기)"
     },
     "flight_dirt_field": {
-      "name": "Taking Flight",
-      "description": "Most cats can't fly, but this one certainly can!",
-      "condition": "Trigger the Black Cat Flight event in the Tower of Dirt Field"
+      "name": "이륙하다",
+      "description": "거의 모든 고양이는 날지 못하지만, 이 고양이는 확실히 날 수 있어!",
+      "condition": "Tower of Dirt Field에서 Black Cat Flight 이벤트를 보기"
     },
     "muzou_ending_3": {
-      "name": "Sorry, I Was Hungry.",
-      "description": "It tastes so disgusting, but I can't stop myself.",
-      "condition": "See the Ending #3"
+      "name": "미안, 너무 배고팠어",
+      "description": "맛은 엄청 역겹긴 한데, 참을 수가 없었어",
+      "condition": "엔딩 #3을 보기"
     },
     "projector_room_muzou": {
-      "name": "Regret Slideshow",
-      "description": "Viewing your mistake",
-      "condition": "Visit the Projector Room"
+      "name": "후회스런 슬라이드 쇼",
+      "description": "당신의 실수를 보여주다",
+      "condition": "Projector Room에 도달하기"
     }
   },
   "ultraviolet": {
@@ -11041,65 +11041,65 @@
       "condition": "FC Fields에서 학교를 방문하고 그곳에 있는 상자를 열기. 만약 이미 상자를 열었다면, 상자를 발견했던 방으로 돌아가기"
     },
     "uv_egg_effect": {
-      "name": "Green Eggs and...",
-      "condition": "Obtain the Egg effect. If you have already unlocked it, return to the Pinkish Continent."
+      "name": "초록 알들 그리고...",
+      "condition": "Pinkish Continent에서 Egg 이펙트를 획득하기 (이미 얻은 상태라면 Egg를 얻었던 장소로 돌아가기)"
     },
     "girl_old_storehouse": {
-      "name": "Doll Unboxing",
-      "description": "Aww, she's just shy!",
-      "condition": "See and attract the blonde girl outside of her box using the Rabbit or Cake effect in Old Storehouse World"
+      "name": "인형 언박싱",
+      "description": "아유, 우리 꼬마 아가씨가 수줍음이 많구나!",
+      "condition": "Old Storehouse World의 인형이 들어있는 박스 바깥에서 Rabbit이나 Cake 이펙트를 사용하여 금발 소녀를 발견하고 끌어들이기"
     },
     "emerald_square": {
-      "name": "Menacing",
-      "description": "No one can just visit the Emerald Square!",
-      "condition": "Visit Emerald Square"
+      "name": "위협",
+      "description": "그 누구도 Emerald Square에 맨입으로 다다르게 놔두진 않을테야!",
+      "condition": "Emerald Square에 도달하기"
     },
     "sibunnies_glass_pipe": {
-      "name": "Bunny Siblings",
-      "condition": "Meet the Bunny Siblings in Glass Pipe World"
+      "name": "토끼자매",
+      "condition": "Glass Pipe World에서 Bunny Siblings NPC를 보기"
     },
     "rabbit_bunny_market": {
-      "name": "The Shopkeeper who Likes You",
-      "description": "He likes you, but do you like him back?",
-      "condition": "Equip the Rabbit effect next to the Bunny Shopkeeper in the Bunny Market of Pastel World"
+      "name": "당신을 좋아하는 상점 주인",
+      "description": "그가 당신을 좋아하지만, 당신은 그의 사랑에 답해주실 수 있으신가요?",
+      "condition": "Pastel World의 Bunny Market 서브 에리어 안에 있는 Bunny Shopkeeper NPC 근처에서 Rabbit 이펙트를 장착하기"
     },
     "rabbit_bunnies_gathering": {
-      "name": "Sometsuki and the Rabbits",
-      "description": "You're a true celebrity in the dream world!",
-      "condition": "Use the Rabbit effect in the Bunny Market of Pastel World and in the Dark Forest",
+      "name": "소메츠키와 토끼들",
+      "description": "당신은 꿈세계 속 진정한 유명인사가 되었다!",
+      "condition": "Pastel World의 Bunny Market 서브 에리어와 Dark Forest 에서 Rabbit 이펙트를 사용하기",
       "checkbox": {
-        "rabbit_bunnies_bunny_market": "Bunny Market of Pastel World",
+        "rabbit_bunnies_bunny_market": "Pastel World의 Bunny Market 서브 에리어",
         "rabbit_bunnies_dark_forest": "Dark Forest"
       }
     },
     "countryside": {
-      "name": "Gentle Breeze",
-      "condition": "Visit Countryside"
+      "name": "부드러운 산들바람",
+      "condition": "Countryside에 도달하기"
     },
     "balcony_banquet_hall": {
-      "name": "Ghost Urbanization",
-      "description": "There was a big blackout tonight down there",
-      "condition": "See the view from the balcony in Banquet Hall"
+      "name": "유령도시화",
+      "description": "저 아래 쪽에 오늘 밤 대규모 정전이 있었나봐",
+      "condition": "Banquet Hall의 발코니에서 경치를 감상하기"
     },
     "android_effect": {
-      "name": "Violet Andromeda",
-      "description": "Now you're dreaming with power.",
-      "condition": "Obtain the Android effect. If you have already unlocked it, return where it can be found in Space Station."
+      "name": "보랏빛 안드로메다",
+      "description": "이제 전력을 다해 꿈꿀 시간이다",
+      "condition": "Space Station에서 Android 이펙트를 획득하기 (이미 얻은 상태라면 Android를 얻었던 장소로 돌아가기)"
     },
     "coat_and_muffler_effect": {
-      "name": "Warm & Cozy",
-      "description": "Now, if only I had some hot cocoa...",
-      "condition": "Obtain the Coat & Muffler effect. If you have already unlocked it, return to Pastel Block World."
+      "name": "따뜻하고 편안한",
+      "description": "자 이제 따뜻한 코코아 한 잔만 있으면 완벽해...",
+      "condition": "Pastel Block World에서 Coat & Muffler 이펙트를 획득하기 (이미 얻은 상태라면 Coat & Muffler를 얻었던 장소로 돌아가기)"
     },
     "magician_effect_uv": {
-      "name": "Dreaming Magician",
-      "description": "There lived a girl, who dreamed to be a magician someday",
-      "condition": "Obtain the Magician effect. If you have already unlocked it, return where it can be found in Floating Library."
+      "name": "꿈꾸는 마술사",
+      "description": "어느 날 마술사가 되길 꿈꿨던 한 소녀가 살고 있었어요",
+      "condition": "Floating Library에서 Magician 이펙트를 획득하기 (이미 얻은 상태라면 Magician을 얻었던 장소로 돌아가기)"
     },
     "miko_effect": {
-      "name": "Mysterious Exorcism Stick",
-      "description": "Have you put your offering in the shrine?",
-      "condition": "Obtain the Miko effect. If you have already unlocked it, return at the end of the Shrine Labyrinth."
+      "name": "신비한 제령봉",
+      "description": "신사에 공물은 바치셨나요?",
+      "condition": "Shrine Labyrinth에서 Miko 이펙트를 획득하기 (이미 얻은 상태라면 Miko를 얻었던 장소로 돌아가기)"
     }
   },
   "sheawaits": {
@@ -11168,38 +11168,38 @@
       }
     },
     "the_star_card": {
-      "name": "Noelia's Comet",
-      "description": "This one wasn't quite big enough to wipe out the dinosaurs...",
-      "condition": "Witness the Meteor Crash event and go to The Nexus"
+      "name": "노엘리아의 혜성",
+      "description": "공룡이 멸종될 정도로 크지는 않아보인다...",
+      "condition": "Meteor Crash 이벤트를 보고 The Nexus로 돌아가기"
     },
     "the_fool_card": {
-      "name": "The Fool",
-      "description": "Foolish fool who foolishly dreams of foolish dreams...",
-      "condition": "Obtain The Fool card. If you have already unlocked it, return where it can be found in Hedge Maze."
+      "name": "광대 카드",
+      "description": "광대같은 꿈을 광대같이 꾸는 광대같은 광대...",
+      "condition": "Hedge Maze에서 The Fool 카드를 획득하기 (이미 얻은 상태라면 The Fool을 얻었던 장소로 돌아가기)"
     },
     "jester_path": {
-      "name": "Court Mischief",
-      "description": "Uee hee hee, let's cause some chaos!",
-      "condition": "Visit Jester's Path"
+      "name": "왕실의 광대",
+      "description": "으에헤헤헤! 혼돈이다, 혼돈...!",
+      "condition": "Jester's Path에 도달하기"
     },
     "the_emperor_card": {
-      "name": "Familiar Attire",
-      "condition": "Obtain The Emperor card. If you have already unlocked it, return where it can be found in Alessandre's Manor."
+      "name": "익숙한 복장",
+      "condition": "Alessandre's Manor에서 The Emperor 카드를 획득하기 (이미 얻은 상태라면 The Emperor를 얻었던 장소로 돌아가기)"
     },
     "blackout_tavern_village": {
-      "name": "Put It On My Tab!",
-      "description": "Just one more...",
-      "condition": "Trigger the Blackout event in the Tavern of Village"
+      "name": "외상으로 부탁해요!",
+      "description": "이번 한 번만 더요...",
+      "condition": "Tavern of Village에서 Blackout 이벤트를 보기"
     },
     "rabbit_jester_path": {
-      "name": "Rabbit Takeover",
-      "description": "There's rabbits everywhere!",
-      "condition": "Trigger the Rabbit Takeover event in Jester's Path"
+      "name": "토끼들의 무단점거",
+      "description": "사방이 토끼네!",
+      "condition": "Jester's Path에서 Rabbit Takeover 이벤트를 보기"
     },
     "death_card": {
-      "name": "The Sweet Embrace of Death",
-      "description": "Every ending is just another form of beauty.",
-      "condition": "Obtain the Death card. If you have already unlocked it, return to Mourning Field."
+      "name": "황홀한 죽음을 받아들이다",
+      "description": "모든 죽음은 또 다른 형태의 아름다움에 지나지 않는다",
+      "condition": "Mourning Field에서 The Death 카드를 획득하기 (이미 얻은 경우라면 The Death를 얻었던 장소로 돌아가기)"
     }
   },
   "oversomnia": {
@@ -11234,9 +11234,9 @@
       "condition": "Vampire's House에 입장하기"
     },
     "neptune": {
-      "name": "Vagus",
-      "description": "Could spring ever bloom in a planet of endless winter...?",
-      "condition": "Neptune을 방문하기"
+      "name": "미주신경",
+      "description": "겨울이 끝없이 지속되는 이 행성에는 과연 봉이 찾아올까...?",
+      "condition": "Neptune에 도달하기"
     },
     "clock_cat": {
       "name": "크로노의 반려동물",
@@ -11254,8 +11254,8 @@
       "condition": "Hoarder's Room에서 이펙트를 사용하여 Hoarder의 모든 색을 보기"
     },
     "eclipse": {
-      "name": "Paleblood Eclipse",
-      "description": "The Sun shall be turned into darkness, and The Moon into blood, before the great and terrible day of The Lord comes.",
+      "name": "태양을 삼킨 창백한 피",
+      "description": "위대한 자가 나타나는 종말의 날이 찾아오기 전, 태양에는 어둠이 드리워지고 붉은 달에 가까워질 지어니",
       "condition": "Moth Temple에서 Eclipse 이벤트를 보기"
     },
     "spinning_cat": {
@@ -11269,8 +11269,8 @@
       "condition": "Cold Storage에서 커다란 토끼를 발견하기"
     },
     "green_river": {
-      "name": "Green Water",
-      "description": "Good night, Irving.",
+      "name": "녹조라떼",
+      "description": "잘자렴, 어빙",
       "condition": "Green River로 뛰어들어 그 끝을 보기"
     },
     "boiling_water_orchard": {
@@ -11329,8 +11329,8 @@
       "condition": "바람개비 소녀(Wind Vane Girl) NPC를 죽인 결과를 직면하기"
     },
     "overlook_oil_world": {
-      "name": "Looming",
-      "description": "Something in the distance.",
+      "name": "다가오다",
+      "description": "근처에 뭔가가 있어",
       "condition": "Oil World의 Overlook 서브 에리어를 방문하기"
     },
     "noise_room": {
@@ -11379,102 +11379,102 @@
       "condition": "Aquarium World에 있는 성게 인간의 근처에서 Tuning Fork 이펙트를 사용하여 눈을 뜨게 만들기"
     },
     "curtain_den_raccoon": {
-      "name": "ImPAWster!",
-      "description": "Eh?!?!",
-      "condition": "Interact with the raccoon dog while using the Wendigo effect in Curtain Den"
+      "name": "속았구리!",
+      "description": "엥?!?!",
+      "condition": "Curtain Den에서 Wendigo 이펙트를 장착하고 너구리(Raccoon Dog) NPC와 상호작용하기"
     },
     "vent_ventilation_passage": {
-      "name": "Weird Vision",
-      "condition": "Find a certain vent in the Ventilation Passage"
+      "name": "괴이한 시선",
+      "condition": "Ventilation Passage에서 특정 환풍구를 발견하기"
     },
     "cat_oil_world": {
-      "name": "Meowwo There!",
-      "description": "I like your fork, little man!",
-      "condition": "Use the Tuning Fork effect to make the large cat wink in Oil World"
+      "name": "니야아앙 고러췌!",
+      "description": "그 굽쇠 마음에 든다, 얘!",
+      "condition": "Oil World에서 Tuning Fork 이펙트를 사용하여 거대한 고양이가 윙크하도록 만들기"
     },
     "snail_pool_world": {
-      "name": "Friends of the Pool",
-      "description": "Do you think these guys roll into each other for fun?",
-      "condition": "Interact with any pool snail creature in Pool World"
+      "name": "수영장 속 친구들",
+      "description": "얘네들이 그냥 재미삼아서 서로 부딪히면서 논다고 생각하니?",
+      "condition": "Pool World에서 수영장 달팽이(Pool Snail Creature) NPC와 상호작용하기"
     },
     "event_gloomy_wetlands": {
-      "name": "Curse Cycle",
-      "description": "Always repeat yourself.",
-      "condition": "Trigger the Incomprehensible event in Gloomy Wetlands"
+      "name": "저주받은 루프",
+      "description": "항상 스스로 되풀이해버린다",
+      "condition": "Gloomy Wetlands에서 Incomprehensible 이벤트를 감상하기"
     },
     "meteorite_cave_winter_hills": {
-      "name": "Just Relaxing",
-      "description": "\"Care for any marshmallows? I can toss one for you if you want.\"",
-      "condition": "Find the camper in the Meteorite Cave of Winter Hills"
+      "name": "느긋하게",
+      "description": "\"마시멜로 좀 먹을래? 원한다면 네쪽으로 던져줄 순 있어\"",
+      "condition": "Winter Hills의 Meteorite Cave 서브 에리어에서 캠핑을 하고 있는 사람을 만나기"
     },
     "dust_bunny_effect": {
-      "name": "Irving and the Bunny",
-      "description": "Big fluffy rabbit!",
-      "condition": "Obtain the Dust Bunny effect. If you have already unlocked it, return where it can be found in Attic World."
+      "name": "어빙과 토끼",
+      "description": "엄청 폭신폭신하고 커다란 토끼!",
+      "condition": "Attic World에서 Dust Bunny 이펙트를 획득하기 (이미 얻은 상태라면 Dust Bunny를 얻었던 장소로 돌아가기)"
     },
     "vampirism_effect_oversomnia": {
-      "name": "Malicious Memory",
-      "description": "I hope they're alright.",
-      "condition": "Obtain the Vampirism effect. If you have already unlocked it, return where it can be found in the isolated section of Gloomy Wetlands."
+      "name": "사악한 기억",
+      "description": "모두 괜찮길 바래야지",
+      "condition": "Gloomy Wetlands의 고립 구역에서 Vampirism 이펙트를 획득하기 (이미 얻은 상태라면 Vampirism를 얻었던 장소로 돌아가기)"
     },
     "cardboard_basement_world": {
-      "name": "Secret Hideout",
-      "description": "They love their bunnies!",
-      "condition": "Reach the cartoon head guy in Basement World"
+      "name": "비밀의 은신처",
+      "description": "쟤네들은 토끼들을 좋아해!",
+      "condition": "Basement World에서 cartoon head guy가 있는 장소에 도달하기"
     },
     "sleepy_electro_metro": {
-      "name": "You're Electric!",
-      "description": "Can they stop glowing like that it's kind of creeping me out",
-      "condition": "Find the person sleeping in the workshop of Metro Zone and the head honcho of Electro Tower",
+      "name": "넌 정말 짜릿하구나!",
+      "description": "쟤네들 그만 저렇게 빛났으면 좋겠는데... 좀 무서워질 지경이야",
+      "condition": "Metro Zone의 The Workshop 서브 에리어에서 자고 있는 사람, Electro Tower에서 머리 대장(The head honcho) NPC를 발견하기",
       "checkbox": {
-        "sleepy_metro": "Find the person sleeping in the workshop of Metro Zone",
-        "sleepy_electro": "the head honcho of Electro Tower"
+        "sleepy_metro": "Metro Zone의 The Workshop 서브 에리어에서 자고 있는 사람",
+        "sleepy_electro": "Electro Tower에서 머리 대장(The head honcho) NPC"
       }
     },
     "radon_noble_gas_district": {
-      "name": "Jar o' Radon",
-      "description": "100% safe to ingest! Who doesn't love a free sample?",
-      "condition": "Buy a radon from the vending machine in the Noble Gas District"
+      "name": "잭 오 라돈",
+      "description": "100% 섭취해도 안전하답니다! 무료 샘플인데 안 받아가실 분이 있겠어요?",
+      "condition": "Noble Gas District의 자판기에서 라돈을 구입하기"
     },
     "gargoyle_effect": {
-      "name": "Brave Memory",
-      "description": "Within a maze of castle ramparts was a lonesome gargoyle statue. Even if their job is to sit there warding off evil, it must get lonely sometimes.",
-      "condition": "Obtain the Gargoyle effect. If you have already unlocked it, return where it can be found in Ramparts."
+      "name": "용감한 기억",
+      "description": "성곽의 미로 속에는 외로운 가고일 동상 하나가 우두커니 세워져있다. 비록 악의 무리들을 내쫓는 것이 동상의 임무일지라도, 때론 외롭다고 느껴질 때가 생기는 법이다",
+      "condition": "Ramparts에서 Gargoyle 이펙트를 획득하기 (이미 얻은 상태라면 Gargoyle을 얻었던 장소로 돌아가기)"
     },
     "wendigo_effect": {
-      "name": "Unwanted Memories",
-      "description": "Deep within a forest of scarlet trees was a tall monster. Its eyes glowed with a color similar to that of blood, unwanted memories arose in me.",
-      "condition": "Obtain the Wendigo effect. If you have already unlocked it, return where it can be found in Scarlet World."
+      "name": "원치 않았던 기억",
+      "description": "핏빛 나무가 가득한 숲의 깊숙한 곳에 키가 큰 생명체가 있었다. 그 두 눈동자는 마치 피와 같은 색깔로 번뜩였고 원치 않는 기억들이 내 머릿속에 떠오르기 시작했다",
+      "condition": "Scarlet World에서 Wendigo 이펙트를 획득하기 (이미 얻은 상태라면 Wendigo를 얻었던 장소로 돌아가기)"
     },
     "death_row_ventilation_passage": {
-      "name": "The Birth of the Ouroboros",
-      "description": "Deep within the vent, an embryonic creature pulsed inside living flesh. Its very sight tore at the soul.",
-      "condition": "Reach Death Row from Ventilation Passage"
+      "name": "우로보로스의 탄생",
+      "description": "환풍구 깊숙한 곳, 살아있는 살덩이 속엔 배아 상태인 한 생명체의 심장이 뛰고 있다. 그 광경은 영혼을 뒤흔들어 놓는 듯 했다",
+      "condition": "Ventilation Passage에서 시작하여 Death Row까지 도달하기"
     },
     "ov_dream_journal": {
-      "name": "Dream Journal",
-      "description": "A long journey, full of mysterious worlds and fantastic individuals, comes to an end.",
-      "condition": "Complete the Dream Journal and consult it"
+      "name": "꿈 일지",
+      "description": "신비로운 세계들과 환상적인 사람들로 가득찼던 긴 여정에 마침표를 찍다",
+      "condition": "꿈 일지(Dream Journal)를 완성하고 펼쳐보기"
     },
     "hazelnut_gloomy_wetlands": {
-      "name": "Going Nuts",
-      "description": "You are what you eat.",
-      "condition": "Buy a hazelnut from the vending machine in Gloomy Wetlands"
+      "name": "헤이즐나 미치다",
+      "description": "음식이 사람을 만든다",
+      "condition": "Gloomy Wetlands의 자판기에서 헤이즐넛을 구매하기"
     },
     "vile_tunnels": {
-      "name": "Strange Place Underground",
-      "description": "Home of the... cats?",
-      "condition": "Visit Vile Tunnels"
+      "name": "지하의 이상한 장소",
+      "description": "고양이들의...집인가?",
+      "condition": "Vile Tunnels에 입장하기"
     },
     "chaser_punishment": {
-      "name": "The Punishment of the World",
-      "description": "You can't escape the consequences of your actions.",
-      "condition": "After getting 25 HP or more in a single dream, suffer the Chaser Punishment in one of the Nexus worlds"
+      "name": "세상이 내리는 엄벌",
+      "description": "당신이 벌인 일에 대한 업보로부터 벗어날 수 없을 것이다",
+      "condition": "한 꿈 세션에서 25체력 이상을 얻은 후, Nexus에서 입장 가능한 세계에 들어가 Chaser Punishment 이벤트를 발생시키기"
     },
     "skeleton_key_pick_pro": {
-      "name": "Key to the Unknown",
-      "description": "I wonder what mysterious things I'll uncover with this...",
-      "condition": "Use the Skeleton Key effect to unlock locked doors in Weather Station, Outback Roads, Pool World, Rainy Village, Garden Centre",
+      "name": "미지로 향하는 열쇠",
+      "description": "이 열쇠로 얼마나 신비로운 것들을 찾아낼 지 궁금한걸...",
+      "condition": "Weather Station, Outback Roads, Pool World, Rainy Village, Garden Centre에서 Skeleton Key 이펙트를 사용하여 잠긴 문을 해제하기",
       "checkbox": {
         "skeleton_key_weather_station": "Weather Station",
         "skeleton_key_outback_roads": "Outback Roads",
@@ -11605,7 +11605,7 @@
       "condition": "City Building을 방문하고 먼 곳에 있는 도시를 보기"
     },
     "port_tsushin": {
-      "name": "S.S Tsushin",
+      "name": "사쿠라 통신",
       "condition": "Port에서 경치를 구경하기"
     },
     "frog_hat": {
@@ -11631,160 +11631,160 @@
       }
     },
     "tsh_gothic_dress_effect": {
-      "name": "Gothic Beauty",
-      "description": "You have great taste!",
-      "condition": "Obtain the Goth Dress effect. If you have already unlocked it, return to Body Part Exhibition."
+      "name": "고딕풍의 아름다움",
+      "description": "취향이 대단하시군요!",
+      "condition": "Body Part Exhibition에서 Goth Dress 이펙트를 획득하기 (이미 얻은 상태라면 Goth Dress를 얻었던 장소로 돌아가기)"
     },
     "bar_ancient_civilization": {
-      "name": "Cheers!",
-      "description": "It's orange juice!",
-      "condition": "Visit the bar in Ancient Civilization"
+      "name": "건배!",
+      "description": "오렌지 주스다!",
+      "condition": "Ancient Civilization의 Bar 서브 에리어에 입장하기"
     },
     "microwave_library": {
-      "name": "Microwave",
-      "description": "Oops! Looks like the pudding is kneaded.",
-      "condition": "Obtain the Microwave effect. If you have already unlocked it, return to the Library."
+      "name": "전자레인지",
+      "description": "이런! 푸딩이 반죽이 되어버렸잖아!",
+      "condition": "Library에서 Microwave 이펙트를 획득하기 (이미 얻은 상태라면 Microwave를 얻었던 장소로 돌아가기)"
     },
     "long_hair_wormiko": {
-      "name": "Rotiko",
-      "description": "This one doesn't have anything special at a- oh nevermind.",
-      "condition": "Sit while using the Long Hair effect for too long and see what happens"
+      "name": "로티코",
+      "description": "이게 뭐 별 일이 생겨나지는 않...아 보이는 게 아니네요",
+      "condition": "Long Hair 이펙트를 사용하여 머리가 매우 길어버린 상태를 만든 후 의자에 앉아 무슨 일이 일어나는지 확인해보기"
     },
     "egg_meat_world": {
-      "name": "Flaberggasted",
-      "description": "\"Did you just hit me?\"",
-      "condition": "Use the Fire Axe effect on the giant egg in Meat World"
+      "name": "충공깽",
+      "description": "\"너 지금 나 친거야?\"",
+      "condition": "Meat World의 거대한 알에서 Fire Axe 이펙트를 획득하기"
     },
     "penguin_land": {
-      "name": "Crystalline Land",
-      "description": "Little gems everywhere!",
-      "condition": "Visit Penguin Land"
+      "name": "수정체의 나라",
+      "description": "자그마한 보석들이 곳곳에 퍼져있어!",
+      "condition": "Penguin Land에 도달하기"
     },
     "old_apartment_building": {
-      "name": "Weathered Mosaic",
-      "description": "It's longing for times before abandonment, times recalled only from the remote past.",
-      "condition": "Visit Old Apartment Building"
+      "name": "풍화된 모자이크",
+      "description": "방치되기 전, 머나먼 과거에서만 떠올릴 수 있는 나날들을 그리워하고 있다",
+      "condition": "Old Apartment Building에 입장하기"
     },
     "tsushin_ending_2": {
-      "name": "On Hold",
-      "description": "The number you have called is unavailable...",
-      "condition": "See the Ending #2"
+      "name": "통화 대기",
+      "description": "지금 거신 번호는 없는 번호입니다...",
+      "condition": "엔딩 #2를 보기"
     },
     "classic_effect_wormiko": {
-      "name": "How Casual!",
-      "description": "Doesn't this dress looks cute?",
-      "condition": "Obtain the Classic Dress effect. If you have already unlocked it, return in Floating Triangle Attic."
+      "name": "정말 자유분방하네!",
+      "description": "이 드레스 귀엽지 않아?",
+      "condition": "Floating Triangle Attic에서 Classic Dress 이펙트를 획득하기 (이미 얻은 상태라면 Classic Dress를 얻었던 장소로 돌아가기)"
     },
     "detective_effect_wormiko": {
-      "name": "Detective Wormiko",
-      "description": "Detective Wormiko is on the move!",
-      "condition": "Obtain the Detective effect. If you have already unlocked it, return to Ancient Civilization."
+      "name": "명탐정 워미코",
+      "description": "내 이름은 워미코, 탐정이죠",
+      "condition": "Ancient Civilization에서 Detective 이펙트를 획득하기 (이미 얻은 상태라면 Detective를 얻었던 장소로 돌아가기)"
     },
     "monitor_realm": {
-      "name": "Wired",
-      "description": "And you don't seem to understand.",
-      "condition": "Visit Monitor Realm"
+      "name": "유선의",
+      "description": "이해가 가지 않는다는듯 해 보이는 걸",
+      "condition": "Monitor Realm에 도달하기"
     },
     "oceanfront_architecture": {
-      "name": "Estival Vista",
-      "description": "The summer breeze feels dreamlike, and the distant clouds are in full bloom.",
-      "condition": "Visit Oceanfront Architecture"
+      "name": "여름 축제",
+      "description": "여름 바람이 꿈결같이 느껴지고, 먼 곳엔 구름이 만발하였다",
+      "condition": "Oceanfront Architecture에 도달하기"
     },
     "lakeside_dock": {
-      "name": "Serene Night",
-      "condition": "Visit Lakeside Dock"
+      "name": "고요한 밤",
+      "condition": "Lakeside Dock에 도달하기"
     },
     "piggy_bank_effect": {
-      "name": "Wormibank",
-      "description": "Save them up!",
-      "condition": "Obtain the Piggy Bank effect. If you have already unlocked it, return to Spring World."
+      "name": "워미 은행",
+      "description": "돈을 모으자!",
+      "condition": "Spring World에서 Piggy Bank 이펙트를 획득하기 (이미 얻은 상태라면 Piggy Bank를 얻었던 장소로 돌아가기)"
     },
     "doll_effect_tsushin": {
-      "name": "Little Dollie",
-      "description": "How adorable...",
-      "condition": "Obtain the Doll effect. If you have already unlocked it, return to Plush Grave."
+      "name": "작은 인형씨",
+      "description": "사랑스러워라...",
+      "condition": "Plush Grave에서 Doll 이펙트를 획득하기 (이미 얻은 상태라면 Doll을 얻었던 장소로 돌아가기)"
     },
     "summer_outfit_effect": {
-      "name": "Summer Haircut",
-      "description": "A shorter hair is perfect for this season, don't you think?",
-      "condition": "Obtain the Summer Outfit effect. If you have already unlocked it, return to the hair salon in Oceanfront Architecture."
+      "name": "여름 헤어 커트",
+      "description": "이런 계절엔 짧은 머리가 최고지?",
+      "condition": "Oceanfront Architecture의 Hair Salon 서브 에리어에서 Summer Outfit 이펙트를 획득하기 (이미 얻은 상태라면 Hair Salon 서브 에리어에 입장하기)"
     },
     "magic_cube_effect": {
-      "name": "Low-poly Fitness",
-      "description": "In life there's Wormi-blocks",
-      "condition": "Obtain the Magic Cube effect. If you have already unlocked it, return to Low-poly Town."
+      "name": "로우폴리 피트니스",
+      "description": "삶에는 워미 블록이 존재한다",
+      "condition": "Low-poly Town에서 Magic Cube 이펙트를 획득하기 (이미 얻은 상태라면 Magic Cube를 얻었던 장소로 돌아가기)"
     },
     "light_bug_effect": {
-      "name": "Nightlight",
-      "description": "Toggle the dark away!",
-      "condition": "Obtain the Light Bug effect. If you have already unlocked it, return to Streetlight Wetlands."
+      "name": "야광",
+      "description": "어둠아 물럿거라!",
+      "condition": "Streetlight Wetlands에서 Light Bug 이펙트를 획득하기 (이미 얻은 상태라면 Light Bug를 얻었던 장소로 돌아가기)"
     },
     "vm_island_tropics": {
-      "name": "Midsummer Paradise",
-      "description": "A secret haven amidst the waves",
-      "condition": "See the day and night versions of the vending machine island in Tropics"
+      "name": "한여름의 파라다이스",
+      "description": "파도 속의 비밀 안식처",
+      "condition": "island in Tropics의 낮과 밤 버전 자판기를 모두 보기"
     },
     "ending_1_tsushin": {
-      "name": "Unanswered Call",
-      "description": "\"I'm unable to answer the phone right now. Please leave your name and number, I'll get back to you as soon as I can.\"",
-      "condition": "See the ending #1"
+      "name": "부재중 전화",
+      "description": "\"연결이 되지 않아 삐 소리 후 음성사서함으로 연결되며 통화료가 부과됩니다\"",
+      "condition": "엔딩 #1을 보기"
     },
     "carousel_amusement_park": {
-      "name": "Mouse Carousel",
-      "description": "Round and round we go!",
-      "condition": "Ride the carousel in the Amusement Park"
+      "name": "빙글찍글 회전목쥐",
+      "description": "돌고 돌아랏!",
+      "condition": "Amusement Park에서 회전목마에 탑승하기"
     },
     "photo_amusement_park": {
-      "name": "Photo Stickers",
-      "description": "Capture the moments!",
-      "condition": "Take a photo in the Amusement Park"
+      "name": "스티커 사진",
+      "description": "순간을 찍어 남기자!",
+      "condition": "Amusement Park에서 사진을 찍기"
     },
     "maid_effect_tsushin": {
-      "name": "Let's Play Maids!",
-      "description": "I won't bite... this time!",
-      "condition": "Obtain the Maid effect. If you have already unlocked it, return to Majestic Garden."
+      "name": "메이드 코스프레!",
+      "description": "이번엔 해치지... 않을테니까요!",
+      "condition": "Majestic Garden에서 Maid 이펙트를 획득하기 (이미 얻은 상태라면 Maid를 얻었던 장소로 돌아가기)"
     },
     "maid_effect_action_tsushin": {
-      "name": "Silly Maid",
-      "description": "Oh no, the cup is broken!",
-      "condition": "Trigger the Maid effect's action"
+      "name": "어리버리한 메이드",
+      "description": "안돼! 컵이 부서졌잖아!",
+      "condition": "Maid 이펙트를 사용하기"
     },
     "sushi_monitor_realm": {
-      "name": "Subaquatic Buffet",
-      "description": "This view is so nice, I may never want to wake up.",
-      "condition": "Reach the sushi aquarium in Monitor Realm"
+      "name": "반수생 뷔페",
+      "description": "전망이 아주 좋네, 꿈에서 깨고싶지 않을 정도야",
+      "condition": "Monitor Realm의 sushi aquarium 서브 에리어에 도달하기"
     },
     "mascot_costume_effect": {
-      "name": "Identity Crisis",
-      "condition": "Obtain the Mascot Costume effect. If you have already unlocked it, return where it can be found in the Amusement Park."
+      "name": "정체성 혼란",
+      "condition": "Amusement Park에서 Mascot Costume 이펙트를 획득하기 (이미 얻은 상태라면 Mascot Costume를 얻었던 장소로 돌아가기)"
     },
     "eyeball_foot_effect": {
-      "name": "Foot Blob",
-      "condition": "Obtain the Eyeball Foot effect. If you have already unlocked it, return where it can be found in the Residential Building."
+      "name": "티눈",
+      "condition": "Residential Building에서 Eyeball Foot 이펙트를 획득하기 (이미 얻은 상태라면 Eyeball Foot를 얻었던 장소로 돌아가기)"
     },
     "cow_office_building": {
-      "name": "Frozen Meat",
-      "description": "Is that a cow?",
-      "condition": "See the frozen cow in Office Building"
+      "name": "냉동육",
+      "description": "저거 소야?",
+      "condition": "Office Building에서 얼어붙은 소를 보기"
     },
     "lotus_marsh": {
-      "name": "Azure Bloom",
-      "description": "A peaceful place for fishing~",
-      "condition": "Visit Lotus Marsh"
+      "name": "푸른 꽃",
+      "description": "낚시하기 딱 좋은 조용한 곳이네~",
+      "condition": "Lotus Marsh에 도달하기"
     },
     "goth_doll_effects": {
-      "name": "Doll's Dress-Up",
-      "description": "Wearing pretty dresses is so fun, you might end up losing your head.",
-      "condition": "Combine the Goth Dress and Doll effects"
+      "name": "인형 옷 입히기",
+      "description": "예쁜 드레스를 입는 건 즐겁지. 너무 즐거워서 정신을 잃어버릴지도 몰라",
+      "condition": "Goth Dress와 Doll 이펙트를 동시에 장착하기"
     },
     "rainy_islands_nini_detective": {
-      "name": "Her Face",
-      "condition": "Use the Detective effect next to Nini in Rainy Islands' house"
+      "name": "그녀의 얼굴",
+      "condition": "Rainy Islands의 집에 위치한 니니(Nini) NPC 근처에서 Detective 이펙트를 장착하기"
     },
     "rainy_islands_nini": {
-      "name": "Nini!",
-      "description": "She's literally a cowgirl!",
-      "condition": "Reveal Nini's normal, secret and true versions in Rainy Islands' house",
+      "name": "니니!",
+      "description": "진짜 '소'녀 구나!",
+      "condition": "Rainy Islands의 집에 위치한 니니(Nini) NPC의 normal, secret, true 모습을 모두 보기",
       "checkbox": {
         "rainy_islands_nini_normal": "normal",
         "rainy_islands_nini_detective": "secret",
@@ -11792,54 +11792,54 @@
       }
     },
     "zombie_effect_tsushin": {
-      "name": "Rise From the Grave",
-      "description": "Cat scratch, cat scratch!",
-      "condition": "Obtain the Zombie effect. If you have already unlocked it, return where it can be found in Zombie Apartment."
+      "name": "예토전생",
+      "description": "냥냥펀치!",
+      "condition": "Zombie Apartment에서 Zombie 이펙트를 획득하기 (이미 얻은 상태라면 Zombie를 얻었던 장소로 돌아가기)"
     },
     "fire_axe_effect": {
-      "name": "Me & My Axe",
-      "description": "Chop chop chop!",
-      "condition": "Obtain the Fire Axe effect. If you have already unlocked it, return where it can be found in Stairs and Sundries."
+      "name": "나와 내 도끼",
+      "description": "슉.슈슉.슉.",
+      "condition": "Stairs and Sundries에서 Fire Axe 이펙트를 획득하기 (이미 얻은 상태라면 Fire Axe를 얻었던 장소로 돌아가기)"
     },
     "dollhouse_village": {
-      "name": "Play in the Dream House",
-      "description": "A room is a reflection of the mind.",
-      "condition": "See the two variants of Dollhouse Village"
+      "name": "꿈의 집에서 놀기",
+      "description": "이 방은 나의 의식을 반영하였다",
+      "condition": "Dollhouse Village 세계의 두가지 버전을 모두 보기"
     },
     "azure_park": {
-      "name": "Blue Orchard",
-      "description": "Deep in the garden, in a blue park, there you will find me, with my blue heart.",
-      "condition": "Visit Azure Park"
+      "name": "푸른 과수원",
+      "description": "정원 깊숙한 곳, 푸른 공원, 그 곳에서 나를 찾아내 주겠지, 내 푸른 심장과 함꼐",
+      "condition": "Azure Park에 도달하기"
     },
     "head_space": {
-      "name": "Headspin",
-      "description": "Aren't you dizzy?",
-      "condition": "Visit Head Space"
+      "name": "헤드스핀",
+      "description": "안 어지러워?",
+      "condition": "Head Space에 도달하기"
     },
     "urban_cityscape": {
-      "name": "Embraced by the Urban Night",
-      "description": "Azure night sky, vibrant city lights.",
-      "condition": "Visit Urban Cityscape"
+      "name": "도시 야경에 빠져들다",
+      "description": "푸르스름한 밤하늘, 빛나는 도시 불빛",
+      "condition": "Urban Cityscape에 도달하기"
     },
     "pajamas_effect_tsushin": {
-      "name": "Moon Pajama Party",
-      "description": "A fluffy, weightless world and cheerful vibes in my soft pajamas!",
-      "condition": "Obtain the Pajamas effect. If you have already unlocked it, return where it can be found in Moon."
+      "name": "달에서의 파자마 파티",
+      "description": "푹신푹신한 무중력 세계와 부드러운 잠옷 차림으로 느껴보는 경쾌한 분위기",
+      "condition": "Moon에서 Pajamas 이펙트를 획득하기 (이미 얻은 상태라면 Pajamas를 얻었던 장소로 돌아가기)"
     },
     "hand_puppet_effect": {
-      "name": "Fluffy Theater",
-      "description": "My little friend!",
-      "condition": "Obtain the Hand Puppet effect. If you have already unlocked it, return to Seaside."
+      "name": "솜뭉치 극장",
+      "description": "내 자그마한 친구!",
+      "condition": "Seaside에서 Hand Puppet 이펙트를 획득하기 (이미 얻은 상태라면 Hand Puppet를 얻었던 장소로 돌아가기)"
     },
     "convenience_snowy_avenue": {
-      "name": "Security Camera in Operation",
-      "description": "No blind spots!",
-      "condition": "Visit the convenience store of Snowy Avenue"
+      "name": "보안 카메라 작동 중",
+      "description": "사각지대 없음!",
+      "condition": "Snowy Avenue의 편의점에 방문하기"
     },
     "docks_lotus_marsh": {
-      "name": "You Took the Bait!",
-      "description": "... Are you on a break now? By the way, what are you fishing for?",
-      "condition": "Reach the Docks from Lotus Marsh"
+      "name": "미끼를 물어분것이여!",
+      "description": "... 지금 쉬고 계시는건가요? 그나저나, 뭘 낚고 계시는거에요?",
+      "condition": "Lotus Marsh에서 출발하여 Docks에 도달하기"
     }
   },
   "nostalgic": {
@@ -12088,107 +12088,107 @@
   },
   "oneshot": {
     "computer_starting_area": {
-      "name": "Sudden Encounter",
-      "description": "\"It seems I've finally been found.\"",
-      "condition": "Read the messages on the computer in the Starting Area"
+      "name": "갑작스런 조우",
+      "description": "\"날 찾았구나.\"",
+      "condition": "어두운 집에 있는 컴퓨터에서 출력되는 알림창을 읽기"
     },
     "lightbulb_starting_area": {
-      "name": "Fragile Sun",
-      "description": "The Last Hope of ever restoring this World's life...",
-      "condition": "Obtain the lightbulb in the Basement of the Starting Area"
+      "name": "깨지기 쉬운 태양",
+      "description": "이 망가진 세상을 구원할 마지막 희망...",
+      "condition": "어두운 집의 지하실에서 전구를 획득하기"
     },
     "niko_death_ending": {
-      "name": "Gone",
-      "description": "Have you tried reading the title of the game?",
-      "condition": "You killed Niko."
+      "name": "죽음",
+      "description": "게임 타이틀 읽어보기는 했지?",
+      "condition": "네가 니코를 죽였어"
     },
     "barrens": {
-      "name": "Lifelessness",
-      "description": "It hasn't always been like this...",
-      "condition": "Reach the Barrens"
+      "name": "활폐함",
+      "description": "원래부터 이랬던 건 아닌듯 하다...",
+      "condition": "불모지에 입장하기"
     },
     "gas_mask_barrens": {
-      "name": "Gas Mask",
-      "description": "Gas mask on, time to step on the gas!",
-      "condition": "Obtain the gas mask in the vault at the Cliffs of the Barrens"
+      "name": "가스 마스크",
+      "description": "이 방독면을 쓰면 괜찮을거에요.",
+      "condition": "불모지의 절벽 지대에 위치한 금고에서 방독면을 획득하기"
     },
     "silver_barrens": {
-      "name": "Queen of Silver",
-      "description": "\"Chess keeps my mind busy.\"",
-      "condition": "Play a game of chess against Silver in the Mining Facility of Barrens"
+      "name": "여왕 실버",
+      "description": "\"체스를 두면 머리를 바쁘게 돌릴 수 있거든.\"",
+      "condition": "불모지의 초소지역에서 실버와 체스를 두기"
     },
     "dream_barrens": {
-      "name": "A Familiar Area",
-      "description": "When I went to bed, I was in a really familiar yet strange place.",
-      "condition": "Dream at the Dock in the Barrens"
+      "name": "익숙한 장소",
+      "description": "잠자리에 들었을 때, 굉장히 익숙하지만 이상한 장소에 내가 서 있었다",
+      "condition": "불모지의 부두에 있는 침대에서 잠에 들기"
     },
     "glen": {
-      "name": "Luminescence",
-      "description": "I can't believe my eyes!",
-      "condition": "Get on the boat to Glen"
+      "name": "발광",
+      "description": "우와! 제 눈앞의 광경이 믿기지가 않아요!",
+      "condition": "협곡으로 가는 배에 탑승하기"
     },
     "calamus_glen": {
-      "name": "Calamus",
-      "description": "\"Have you seen my sister?\"",
-      "condition": "Meet Calamus in Glen"
+      "name": "칼라무스",
+      "description": "\"작은 여자아이를 봤어?\"",
+      "condition": "협곡에서 칼라무스를 만나기"
     },
     "alula_glen": {
-      "name": "Alula",
-      "description": "\"Thanks!\"",
-      "condition": "Rescue Alula in the Ruins of Glen"
+      "name": "알룰라",
+      "description": "\"고마워!\"",
+      "condition": "협곡의 폐허에서 알룰라를 구출하기"
     },
     "novelty_t_shirt_glen": {
-      "name": "Underwhelming Reward",
-      "description": "I herded rams and all I got was this lousy badge",
-      "condition": "Try to equip the novelty T-shirt"
+      "name": "엄청난 보상",
+      "description": "나는 양떼를 모는 목동. 가진거라곤 이 형편없는 배지뿐!",
+      "condition": "장난스러운 티셔츠를 입어보기"
     },
     "shepherd_glen": {
-      "name": "The Best Shepherd, EVER!",
-      "description": "Savior of the rams!",
-      "condition": "Help the shepherd to herd his rams in Glen's Village"
+      "name": "세상에서 제일 가는 양치기!",
+      "description": "양들의 구원자!",
+      "condition": "협곡의 마을에서 양치기의 양몰이를 도와주기"
     },
     "plant_girl_ruins_glen": {
-      "name": "Self-Contained Universe",
-      "description": "\"Thank you for granting my last wish, Savior...\"",
-      "condition": "Lend the lightbulb to the plant girl in the Ruins of Glen"
+      "name": "완전해진 세계",
+      "description": "\"나의 마지막 부탁을 들어줘서 고마워, 구원자야...\"",
+      "condition": "협곡의 폐허에 있는 메이즈에게 전구를 건네주기"
     },
     "dream_glen": {
-      "name": "Delicious Dream",
-      "description": "A cozy dream?",
-      "condition": "Dream at the South Ruins Exterior in Glen"
+      "name": "달콤한 꿈",
+      "description": "아늑한 꿈일까?",
+      "condition": "협곡의 남측 폐허의 바깥에서 꿈을 꾸기"
     },
     "refuge": {
-      "name": "On the Catwalks",
-      "description": "These might be your last steps in this world.",
-      "condition": "Reach Refuge"
+      "name": "고양이 걸음으로 부뚜막에 오르다",
+      "description": "이것이 이 세계에서의 마지막 단계가 될 것이다",
+      "condition": "난민 지구에 도달하기"
     },
     "george_refuge": {
-      "name": "Temp Badge Name (Do not translate)",
-      "condition": "Temp condition text (do not translate)"
+      "name": "Temp Badge Name (네~ 안하겠슴다)",
+      "condition": "Temp condition text (배지 예상: 제목 ㅡ 각양각색의 성격을 가진 주사위 조건 ㅡ 조지한테 말걸기)"
     },
     "pancakes_refuge": {
-      "name": "Tasty Retreat",
-      "description": "You've gone a long way brave Messiah, please take a rest and enjoy a nice treat!",
-      "condition": "Take a break to eat pancakes in the Refuge's Cafe"
+      "name": "맛난 휴식",
+      "description": "넌 강한 아이야, 이렇게 먼 곳까지 왔잖아, 그렇지?",
+      "condition": "난민 지구의 카페에서 팬케이크를 먹으며 휴식을 취하기"
     },
     "maze_end_refuge": {
-      "name": "Phosphor's Guidance",
-      "description": "There's always a way.",
-      "condition": "Return where everything started"
+      "name": "형광색 가이드라인",
+      "description": "항상 길은 존재한다",
+      "condition": "모든 일이 시작되었던 그 장소로 되돌아가기"
     },
     "world_saved_ending": {
-      "name": "ONESHOT?",
-      "description": "So that's how the story ends...",
-      "condition": "Niko saved the world."
+      "name": "기회는 한번뿐?",
+      "description": "그래서 이게 엔딩인거네...",
+      "condition": "니코는 세상을 구했다."
     },
     "niko_home_ending": {
-      "name": "Goodbye to a World",
-      "description": "Maybe it was inevitable...",
-      "condition": "The savior is gone. All hope for the world is lost."
+      "name": "세상에게 작별을",
+      "description": "어쩔 수 없었어...",
+      "condition": "치명적인 오류 : 구원자를 찾을 수 없습니다. 종료합니다."
     },
     "flower_ending": {
-      "name": "Rebirth",
-      "condition": "See the flower grow during the ending"
+      "name": "재탄생",
+      "condition": "엔딩에서 씨앗에 싹이 트는 장면을 보기"
     }
   },
   "unaccomplished": {
