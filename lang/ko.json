@@ -11844,246 +11844,246 @@
   },
   "nostalgic": {
     "painted_angel": {
-      "name": "Painted Angel",
-      "description": "Every color under the sky",
-      "condition": "Find the painted wings and halo near the bus stop"
+      "name": "채색된 천사",
+      "description": "하늘 아래 모든 색상",
+      "condition": "Peaceful Bus Stop에서 채색된 날개와 후광을 발견하기"
     },
     "beach_umbrella": {
-      "name": "A Day at the Beach",
-      "description": "A grain of sand for every memory",
-      "condition": "Find the umbrella in Full Moon Desert"
+      "name": "해변에서의 하루",
+      "description": "모든 추억들이 담긴 모래 알갱이",
+      "condition": "Full Moon Desert에서 우산을 발견하기"
     },
     "pink_dog_plush": {
-      "name": "Pink Dog Plush",
-      "description": "Hug me!",
-      "condition": "Give the pink stuffed dog in the Nursery Room a big hug"
+      "name": "핑크색 강아지 인형",
+      "description": "안아줘요!",
+      "condition": "Nursery Room에 있는 핑크색 강아지 봉제인형을 꼭 끌어안기"
     },
     "cloud_cafe": {
-      "name": "Cafe in the Clouds",
-      "description": "Enjoy a sweet treat under the stars.",
-      "condition": "Enter the top of the Clock Tower Restaurant"
+      "name": "구름 속의 카페",
+      "description": "별무리 아래에서 달콤한 간식을 즐겨보자",
+      "condition": "Clock Tower Restaurant의 최상층에 도달하기"
     },
     "duality_of_mom": {
-      "name": "Mom...",
-      "description": "I love you, please don't hurt me.",
-      "condition": "Find both the sweet and scary versions of A's mom"
+      "name": "엄마...",
+      "description": "사랑해요, 때리지 말아주세요",
+      "condition": "A의 어머니(A's mom) NPC의 상냥한 모습과 무서운 모습을 모두 보기"
     },
     "sacred_cats": {
-      "name": "Sacred Cats",
-      "description": "God bless you.",
-      "condition": "Enter Four Cats Path"
+      "name": "신성한 고양이들",
+      "description": "신의 가호가 있기를",
+      "condition": "Four Cats Path에 도달하기"
     },
     "graffiti_girl": {
-      "name": "Graffiti Girl",
-      "description": "We'll never know what she was drawing...",
-      "condition": "Enter the room of the green graffiti girl in Paper Plane World"
+      "name": "낙서하는 소녀",
+      "description": "저 소녀가 대체 무엇을 그리고 있는지 짐작도 가지 않는다...",
+      "condition": "Paper Plane World에서 낙서하는 초록 옷 소녀(green graffiti girl) NPC가 있는 방에 들어가기"
     },
     "sugar_rush": {
-      "name": "Sugar Rush",
-      "description": "You have quite the sweet tooth!",
-      "condition": "Eat all the sweets and unlock the jelly jar in Confection World"
+      "name": "당 충전",
+      "description": "너 정말 달달한 것들을 좋아하는구나!",
+      "condition": "Confection World에서 모든 종류의 간식을 먹고 젤리 병의 뚜껑을 열기"
     },
     "radio_cow_house": {
-      "name": "Musicow",
-      "description": "Cow beats to chill to",
-      "condition": "Interact with the radio of the Cow House in Breakfast World"
+      "name": "음소",
+      "description": "소는 즐기는 듯 몸을 들썩이고 있다",
+      "condition": "Breakfast World의 Cow House 서브 에리어에 있는 라디오와 상호작용하기"
     },
     "book_star_dome": {
-      "name": "Make a Wish!",
-      "condition": "Read the book in Star Dome"
+      "name": "소원을 말해봐!",
+      "condition": "Star Dome에서 책을 읽기"
     },
     "snake_full_moon_desert": {
-      "name": "Serpent Sorbet",
-      "description": "Lero Lero Lero Lero Lero Lero Lero",
-      "condition": "Interact with the snake in the Full Moon Desert"
+      "name": "뱀쿄인 샤베트",
+      "description": "레로 레로 레로 레로 레로 레로 레로 레로",
+      "condition": "Full Moon Desert에서 뱀과 상호작용하기"
     },
     "sprout_sleeping_flowers": {
-      "name": "Growth via Moonbeams",
-      "description": "New life awakens among sleeping beds",
-      "condition": "See the sprout in Sleeping Flowers"
+      "name": "달빛을 받아 자라나다",
+      "description": "침대에 잠이 든 사이 태어난 새 생명",
+      "condition": "Sleeping Flowers에서 새싹을 보기"
     },
     "clock_giant_house": {
-      "name": "Oh! Hello There!",
-      "description": "Time can make one feel small... but maybe this is taking it a little too literally now.",
-      "condition": "See the giant clock in Clock Giant's House"
+      "name": "어머! 안녕!",
+      "description": "시간은 사람을 한낱 작은 존재처럼 느끼게 만들곤 하지... 근데 이건 너무 작은데",
+      "condition": "Clock Giant's House에서 거대한 시계를 만나기"
     },
     "bunny_confection_world": {
-      "name": "In Bunderland",
-      "description": "More tea, Sir Bunsalot?",
-      "condition": "See the tea party with the rabbit plush in Confection World"
+      "name": "묘경 지대에서",
+      "description": "차 더 드시겠습니까, 토중위님?",
+      "condition": "Confection World에서 차를 마시고 있는 토끼 봉제 인형들을 보기"
     },
     "man_peaceful_bus_stop": {
-      "name": "Waiting for Heaven's Stop",
-      "description": "You may not remember his face, but you remember that he loved you dearly.",
-      "condition": "Find the man at the Peaceful Bus Stop"
+      "name": "천국행 버스를 기다리며",
+      "description": "그의 얼굴은 기억이 나지 않았지만, 그가 당신을 매우 사랑했다는 사실만큼은 기억하고 있다",
+      "condition": "Peaceful Bus Stop에서 한 남자를 발견하기"
     },
     "carnation_scr_mirror_w": {
-      "name": "Mother's Bouquet",
-      "description": "Mother loves me. Mother loves me. Mother loves me.",
-      "condition": "Avoid Mother and find the Carnation in Scarred Mirror World"
+      "name": "어머니께 드리는 꽃",
+      "description": "엄마는 날 사랑한다. 엄마는 날 사랑한다. 엄마는 날 사랑한다.",
+      "condition": "Scarred Mirror World에서 엄마(Mother) 추격자 NPC를 피해 카네이션(Carnation)이 있는 곳에 도달하기"
     },
     "dog_nursery_room": {
-      "name": "Baby Dog",
-      "description": "A lovely friend",
-      "condition": "See the toy dog in Nursery Room"
+      "name": "아기 강아지",
+      "description": "사랑스런 친구",
+      "condition": "Nursery Room에서 장난감 개를 보기"
     },
     "bloody_straw_juice_sea": {
-      "name": "Overdose, You and Me Dearly~",
-      "description": "I wanna see clearly...",
-      "condition": "Interact with the bloody straw in Juice Sea"
+      "name": "Overdose, 너와 둘이서~",
+      "description": "알고 싶은데...",
+      "condition": "Juice Sea에서 피가 튄 빨대와 상호작용하기"
     },
     "nostalgic_ending": {
-      "name": "I'm Sorry, Mom",
-      "description": "Yet I still love you, after all you've done to me.",
-      "condition": "See the ending"
+      "name": "미안해요, 엄마",
+      "description": "엄마가 저한테 무슨 짓을 했더라도, 저는 엄마를 여전히 사랑해요",
+      "condition": "엔딩을 보기"
     },
     "eggs_breakfast_world": {
-      "name": "Noisy Eggs",
-      "description": "I wonder if there's an entire egg zoo.",
-      "condition": "Interact with the two noisy eggs in Breakfast World"
+      "name": "시끄러운 계란들",
+      "description": "계란이 가득한 동물원이 있는지 참으로 궁금한 걸",
+      "condition": "Breakfast World에서 두 개의 시끄러운 계란들과 상호작용하기"
     },
     "tree_sleeping_flowers": {
-      "name": "Good Night.",
-      "description": "You'll be there soon.",
-      "condition": "See the dream tree in Sleeping Flowers"
+      "name": "잘자요",
+      "description": "곧 당신도 그 곳으로 갈테니",
+      "condition": "Sleeping Flowers에서 꿈나무를 발견하기"
     },
     "orgel_house_tricolor_park": {
-      "name": "Where Sun and Moon Watch Over",
-      "description": "Welcome in my room!",
-      "condition": "Turn off the lights in the Orgel House of the Tricolor Park"
+      "name": "해와 달이 지켜보는 곳",
+      "description": "내 방에 온 걸 환영해!",
+      "condition": "Tricolor Park의 Orgel House 서브 에리어에서 전등 스위치를 끄기"
     }
   },
   "if": {
     "osoro_isolated_house": {
-      "name": "Matching Silver",
-      "description": "Just like me!",
-      "condition": "Equip the Matching effect in the Isolated House and see Osoro's interaction"
+      "name": "은빛 깔맞춤",
+      "description": "나랑 똑같네!",
+      "condition": "Isolated House에서 Matching 이펙트를 장착하고 오소로(Osoro) NPC와 상호작용 하기"
     },
     "naginata_digital_brain_maze": {
-      "name": "Digital Headache",
-      "description": "Or maybe it isn't just the head that hurts...",
-      "condition": "Interact with the crucified human in the middle of the Digital Brain Maze with the Naginata effect"
+      "name": "전자적인 두통",
+      "description": "어쩌면 머리만 아픈게 아닐지도...",
+      "condition": "Naginata 이펙트를 장착하고 Digital Brain Maze의 중심부에 위치한 십자가형에 처한 사람(crucified human) NPC와 상호작용 하기"
     },
     "starry_sky_japanese_castle": {
-      "name": "Moonlit Castle",
-      "condition": "Reach the starry sky area in the Japanese Castle"
+      "name": "달빛이 비치는 성",
+      "condition": "Japanese Castle의 starry sky 서브 에리어에 도달하기"
     },
     "sixteen_zerothree": {
       "name": "16:03",
       "description": "16:03 16:03 16:03 16:03 16:03 16:03 16:03 16:03 16:03",
-      "condition": "Trigger the 16:03 event in Flashing Waveform Maze"
+      "condition": "Flashing Waveform Maze에서 16:03 이벤트를 감상하기"
     },
     "mechanical_animal_world": {
-      "name": "Do Androids Dream of Electric Sheep?",
-      "description": "Or they're just counting electric sheep to fall asleep.",
-      "condition": "Visit Mechanical Animal World"
+      "name": "안드로이드는 전기양의 꿈을 꾸는가?",
+      "description": "어쩌면 잠들기 위해서 전기양을 세고 있는건지도 모른다",
+      "condition": "Mechanical Animal World에 도달하기"
     },
     "if_twins_effect": {
-      "name": "Interactive Fiction",
-      "description": "Through a maze of twisty little passages, you find a lookalike.",
-      "condition": "Obtain the Twins effect. If you have already unlocked it, return in front of the twins mural in Digital Brain Maze."
+      "name": "인터렉티브 픽션",
+      "description": "꼬불꼬불하고 좁은 통로로 이루어진 미로를 헤쳐나와, 당신은 자신과 똑 닮은 사람을 만났다",
+      "condition": "Digital Brain Maze에서 Twins 이펙틀를 획득하기 (이미 얻은 상태라면 Digital Brain Maze의 쌍둥이 벽화가 있는 공간으로 돌아가기)"
     },
     "candy_shoal": {
-      "name": "Resonant Cube",
-      "description": "Tune the cube",
-      "condition": "Visit all of the Magicant versions"
+      "name": "공명하는 큐브",
+      "description": "큐브를 조율하다",
+      "condition": "모든 버전의 Magicant 맵을 보기"
     },
     "if_ending_1": {
-      "name": "What is this?",
-      "description": "And again, and again, and again...",
-      "condition": "See the Ending #1"
+      "name": "이게 뭐야?",
+      "description": "또 반복하고, 또 반복하고, 또...",
+      "condition": "엔딩 #1을 보기"
     },
     "shimitsuki_nexus_doors": {
-      "name": "Error-stained Notebook",
-      "description": "Your head also has a few stray errors",
-      "condition": "Unlock all of the doors in Shimitsuki's Nexus"
+      "name": "오류로 가득찬 노트북",
+      "description": "당신의 머릿속에도 몇가지 stray 오류가 뜬 듯하다",
+      "condition": "Nexus에서 입장할 수 있는 모든 세계를 잠금 해제하기"
     },
     "rakugaki_hologram_space": {
-      "name": "Rakugaki",
-      "description": "Blink and you will miss him",
-      "condition": "Encounter Rakugaki in the Back Alley of Hologram Space"
+      "name": "낙서군",
+      "description": "눈깜짝할 새에 놓쳐버리고 말았다",
+      "condition": "Hologram Space의 Back Alley 서브 에리어에서 낙서군(Rakugaki) NPC와 조우하기"
     },
     "heart_magenta_roads": {
-      "name": "Greedy Heart",
-      "description": "Not enough.",
-      "condition": "Interact with the Heart Sculpture in Magenta Roads"
+      "name": "이기적인 심장",
+      "description": "아직 모자라",
+      "condition": "Magenta Roads에서 심장 조각상(Heart Sculpture) NPC와 상호작용 하기"
     },
     "doppelganger_train_station": {
-      "name": "Pensive Doppelgänger",
-      "description": "10st 0n the rai1ways 0f 1**e",
-      "condition": "See your other self at the Train Station"
+      "name": "고뇌하는 또 다른 나",
+      "description": "*생이라는 선로 위에서 길을 잃다",
+      "condition": "Train Station에서 또 다른 주인공이 서 있는 장소에 도달하기"
     },
     "eclipse_lycoris_world": {
-      "name": "Black Hole Sun",
-      "condition": "See the Eclipse in Lycoris World"
+      "name": "블랙홀 썬",
+      "condition": "Lycoris World에서 Eclipse 이벤트를 보기"
     },
     "squirrel_iffect": {
-      "name": "Adorable Squirrel!",
-      "description": "Look at me, I'm a squirrel!",
-      "condition": "Obtain the Squirrel effect. If you have already unlocked it, return in the main area of Magenta Roads."
+      "name": "귀여운 다람쥐!",
+      "description": "여길 봐, 내가 다람쥐가 됐어!",
+      "condition": "Magenta Roads에서 Squirrel 이펙트를 획득하기 (이미 얻은 상태라면 Magenta Roads의 메인 구역에 입장하기)"
     },
     "emperor_japanese_castle": {
-      "name": "Counterattack!!",
-      "description": "Acts of treason are punishable even in dreams.",
-      "condition": "Attempt to attack the emperor with the Naginata effect in the Japanese Castle"
+      "name": "반격이다!!",
+      "description": "역모 행위는 꿈 속에서도 처벌받을 수 있습니다",
+      "condition": "Naginata 이펙트를 장착하고 Japanese Castle에 있는 황제(emperor) NPC를 공격해보기"
     },
     "shimitsuki_magicant": {
-      "name": "Worlds Collide",
-      "description": "I really stand out here.",
-      "condition": "Visit all of the rooms filled with little Shimitsuki in Magicant"
+      "name": "세계의 충돌",
+      "description": "난 여기서 정말 두드러진 것 같아",
+      "condition": "Magicant에서 조그만 Shimitsuki로 가득찬 방을 모두 방문하기"
     },
     "staring_giant_human_figure_w": {
-      "name": "Monochrome Monster",
-      "description": "It might need some eyedrops...",
-      "condition": "Reach the Staring Giant Area of Human Figure World"
+      "name": "흑백의 괴물",
+      "description": "안약이 좀 필요하겠는데...",
+      "condition": "Human Figure World의 Staring Giant Area 서브 에리어에 도달하기"
     },
     "flight_ice_temple": {
-      "name": "Chilly Flight",
-      "description": "It’s getting a little bit chilly up here...",
-      "condition": "Trigger the Flight event in Ice Temple"
+      "name": "으슬으슬한 비행",
+      "description": "올라가니 좀 추워지는 것 같은데...",
+      "condition": "Ice Temple에서 Flight 이벤트를 감상하기"
     },
     "ink_wash__iffect": {
-      "name": "Monochromatic Cutie",
-      "description": "Blink and you'll miss her",
-      "condition": "Obtain the Ink Wash effect. If you have already unlocked it, return in the room where it can be found in Steel Wilds."
+      "name": "무채색의 귀염둥이",
+      "description": "소녀는 눈 깜짝할 새에 사라져버릴 것이다",
+      "condition": "Steel Wilds에서 Ink Wash 이펙트를 획득하기 (이미 얻은 상태라면 Ink Wash를 얻었던 방으로 돌아가기)"
     },
     "name_isolated_house": {
-      "name": "Your Name Is...",
-      "condition": "Receive your name in the Isolated House"
+      "name": "너의 이름은...",
+      "condition": "Isolated House에서 이름을 부여받기"
     },
     "lycoris_world": {
-      "name": "Tranquil Tracheophytes",
-      "condition": "Visit Lycoris World"
+      "name": "침묵하는 피안화",
+      "condition": "Lycoris World에 도달하기"
     },
     "colors_paint_world": {
-      "name": "Little Artist",
-      "description": "Bring colors to my world!",
-      "condition": "Use all of the colors in Paint World"
+      "name": "어린 예술가",
+      "description": "나의 세계를 색으로 물들이자!",
+      "condition": "Paint World에서 모든 색상을 사용하기"
     },
     "prisoner_prison_chambers": {
-      "name": "Just Visiting!",
-      "description": "It's actually not so bad in here! Just don't stand in the bottom-right corner.",
-      "condition": "Interact with the lone prisoner in Prison Chambers"
+      "name": "그냥 들러봤어!",
+      "description": "여기 있는 것도 사실상 나쁘지 않아! 오른쪽 아래 구석에만 서있지 않으면 될거야",
+      "condition": "Prison Chambers에 있는 외로운 죄수(lone prisoner) NPC와 상호작용하기"
     },
     "curse_ice_temple": {
-      "name": "Break",
-      "description": "You are already dead.",
-      "condition": "Trigger the Ice Voodoo Curse event in Ice Temple"
+      "name": "부서지다",
+      "description": "너는 이미 죽어 있다",
+      "condition": "Ice Temple에서 Ice Voodoo Curse 이벤트를 감상하기"
     },
     "anchor_effect": {
-      "name": "Beyond the Horizon",
-      "description": "Captain Shimitsuki is here!",
-      "condition": "Obtain the Anchor effect. If you have already unlocked it, return where it can be found in Streetlamp World."
+      "name": "수평선 너머",
+      "description": "캡틴 시미츠키가 여기에 당도했노라!",
+      "condition": "Streetlamp World에서 Anchor 이펙트를 획득하기 (이미 얻은 상태라면 Anchor 이펙트를 얻었던 장소로 돌아가기)"
     },
     "parasol_effect_if": {
-      "name": "Oracle Dawn",
-      "description": "This sunlight is too bright for me...",
-      "condition": "Obtain the Parasol effect. If you have already unlocked it, return where it can be found in Colored Block World."
+      "name": "신탁의 새벽",
+      "description": "햇빛이 너무 강해...",
+      "condition": "Colored Block World에서 Parasol 이펙트를 획득하기 (이미 얻은 상태라면 Parasol 이펙트를 얻었던 장소로 돌아가기)"
     },
     "bass_effect": {
-      "name": "A girl I Recognize",
-      "description": "We had the same hobbies, matching things... We were close friends, right? Or...?",
-      "condition": "See the variant of the Bass effect"
+      "name": "알고 지내는 소녀",
+      "description": "우린 취미도 같고, 닮은 구석도 있고... 우리 절친, 맞지? 아닌가...?",
+      "condition": "Bass 이펙트를 장착했을 때 볼 수 있는 모든 스프라이트를 보기"
     }
   },
   "oneshot": {
@@ -12193,155 +12193,155 @@
   },
   "unaccomplished": {
     "cat_deep_forest": {
-      "name": "Deep Sleep",
-      "description": "Just a cat...",
-      "condition": "Find the cat in Deep Forest"
+      "name": "숙면",
+      "description": "고양이처럼...",
+      "condition": "Deep Forest에서 고양이를 발견하기"
     },
     "luxurious_hotel_room": {
-      "name": "Hotel Silhouettes",
-      "description": "Relaxing in company.",
-      "condition": "Visit the day version and the night version of the Luxurious Hotel Room",
+      "name": "호텔의 그림자들",
+      "description": "사람들과 함께 휴식을 취하자",
+      "condition": "Luxurious Hotel Room의 낮의 모습과 밤의 모습을 모두 보기",
       "checkbox": {
-        "luxurious_hotel_room_d": "day version",
-        "luxurious_hotel_room_n": "night version"
+        "luxurious_hotel_room_d": "낮의 모습",
+        "luxurious_hotel_room_n": "밤의 모습"
       }
     },
     "rave_rainy_moss": {
-      "name": "Mosses House Party?!",
-      "description": "Wow what's that? Oh, okay then...",
-      "condition": "Trigger the Mossy Room Rave event in Rainy Moss"
+      "name": "이끼가 창궐한 집?!",
+      "description": "와 저게 뭐람? 아, 그래 뭐...",
+      "condition": "Rainy Moss에서 Mossy Room Rave 이벤트를 감상하기"
     },
     "maou_golden_statue": {
-      "name": "sinister_bestowal.gif",
-      "description": "You deserve it, my boi~",
-      "condition": "Complete the difficult level in the PC Game, then return to Maou's Bedchamber to see the Golden statue"
+      "name": "불길한_보상.gif",
+      "description": "친구야, 넌 받을만하다구~",
+      "condition": "PC Game에서 어려움 난이도를 클리어하고, Maou's Bedchamber로 돌아와 금빛 조각상을 발견하기"
     },
     "qiu_qin_zabu_un": {
-      "name": "Unpredictable Connection",
-      "description": "How did she get here?! No, the right question is why am I here?!",
-      "condition": "Find Qiu Qin and Zabu"
+      "name": "예측 불가능한 연결",
+      "description": "저 여자 어떻게 이리로 온거야?! 아니다, 내가 왜 여기 있는지를 물어봐야겠는데?!",
+      "condition": "퀸퀸(Qiu Qin)과 자부(Zabu) NPC를 발견하기"
     },
     "light_invisible_ink": {
-      "name": "No More Light",
-      "description": "It's better for some things to stay hidden",
-      "condition": "Turn off the light in Invisible Ink"
+      "name": "불 켜지마",
+      "description": "어떤 것은 안보이는 상태로 두는 편이 더 나을거야",
+      "condition": "Invisible Ink에서 전등 스위치를 끄기"
     },
     "dark_cave_end": {
-      "name": "The Edge of Infinity",
-      "description": "Where are you going?",
-      "condition": "Chase the mysterious silhouette until its last destination in the Dark Cave"
+      "name": "무한의 끝",
+      "description": "어디가?",
+      "condition": "Dark Cave의 마지막 맵에서 신비로운 그림자(mysterious silhouette) NPC를 붙잡기"
     },
     "two_dots_l": {
-      "name": "Your Best Friend",
-      "description": "It looks a little different",
-      "condition": "Become friend with :l"
+      "name": "너의 최고의 친구",
+      "description": "조금 달라보이기는 하는데",
+      "condition": ":l와 친구가 되기"
     },
     "kite_grassland": {
-      "name": "The Breeze and the Kite",
-      "description": "Feel comfortable wind and the nature.",
-      "condition": "Sit under the tree with the kite in Grassland"
+      "name": "산들바람과 연",
+      "description": "기분좋게 불어오는 바람과 자연을 느껴보자",
+      "condition": "Grassland에서 연이 걸려있는 나무 아래에 앉기"
     },
     "moon_light_sands": {
-      "name": "Luminescent Sands",
-      "description": "The moon shines the sandy surface with its luminescence.",
-      "condition": "Visit Moonlit Sands"
+      "name": "빛을 내는 모래",
+      "description": "달은 달빛으로 모래표면이 빛나도록 비추었다",
+      "condition": "Moonlit Sands에 도달하기"
     },
     "rose_girl_c_plate_world": {
-      "name": "Rosemind Enigma",
-      "description": "The stone whispers, the rose blooms.",
-      "condition": "Use the Emptiness property to make the pigtails girl turn into a red rose in Character Plate"
+      "name": "장밋빛 모순",
+      "description": "돌이 속삭이고, 장미가 피어오른다",
+      "condition": "Character Plate에서 Emptiness 특징을 사용하여 돼지꼬리 소녀를 붉은 장미로 바꾸기"
     },
     "plastic_bottle_evil": {
-      "name": "Something Unforgettable...?",
-      "description": "Aah, you were at my side. All along...",
-      "condition": "Make a pose after getting the Plastic Bottle property"
+      "name": "잊혀져서는 안되는 것...?",
+      "description": "아아, 계속, 계속 곁에 있어줬는가...?",
+      "condition": "Plastic Bottle 특성을 획득하고 포즈를 취하기"
     },
     "fisherman_sunset_grassland": {
-      "name": "Fisherman by the River",
-      "condition": "Find the fisherman in Sunset Grassland"
+      "name": "강가의 낚시꾼",
+      "condition": "Sunset Grassland에서 낚시꾼을 발견하기"
     },
     "classic_property": {
-      "name": "Silly Boi of the Past",
-      "description": "Psst, go check your computer.",
-      "condition": "Obtain the Classic property. If you have already unlocked it, return where it can be found in the PC Game."
+      "name": "철없던 옛 시절",
+      "description": "쉬잇, 가서 컴퓨터 확인해 봐",
+      "condition": "PC Game에서 Classic 특성을 획득하기 (이미 얻은 상태라면 Classic를 얻었던 장소로 돌아가기)"
     },
     "yun_yin_moonlit_sands": {
-      "name": "A Following Gaze",
-      "description": "Eyes speak more eloquently than lips.",
-      "condition": "See Yun and Yin's reactions to the Emptiness and Plastic Bottle properties in Moonlit Sands"
+      "name": "따라오는 시선",
+      "description": "눈은 입보다 더 또렷이 말할 수 있다",
+      "condition": "Moonlit Sands에 있는 구름이(Yun)와 등불이(Yin) NPC 앞에서 Emptiness와 Plastic Bottle 이펙트를 장착하고 두 사람의 반응을 살펴보기"
     },
     "eye_rvifj3mgymfy": {
-      "name": "Monochrome Bar",
-      "description": "Welcome to the useless store ruins...",
-      "condition": "Interact with EYE in RVlFJ3MgYmFy"
+      "name": "흑백의 주점",
+      "description": "인스타 감성 가게에 오신걸 환영합니다...",
+      "condition": "RVlFJ3MgYmFy에서 눈(EYE) NPC와 상호작용하기"
     }
   },
   "fog": {
     "leon_laptop_perk": {
       "name": "N=1",
-      "description": "Check it out! It's brand spankin' new!",
-      "condition": "As Leon, obtain the Laptop perk. If you have already unlocked it, return to Leon's Dream Bedroom."
+      "description": "한번 살펴보고 가세요! 반질반질한 새 상품이랍니다!",
+      "condition": "Leon으로 플레이하여 Leon's Dream Bedroom에서 Laptop 강화를 획득하기 (이미 얻은 상태라면 Laptop을 얻었던 곳으로 돌아가기)"
     },
     "fedora_office_complex": {
-      "name": "Ghost of Leon",
-      "condition": "Find the Fedora disguised as Leon in the West Wing of the Office Complex"
+      "name": "레온의 유령",
+      "condition": "Office Complex의 서쪽 구역에서 Leon인 상태로 변장한 Fedora를 찾아내기"
     },
     "martha_perks": {
-      "name": "Unbearable Reminiscence",
-      "description": "What have you done?",
-      "condition": "As Tegan, obtain the Martha’s Voice perk, and obtain the Bloody Knife perk. As Leon, obtain the Martha’s Beanie perk. If you have already obtained them, return where they can be found, respectively in the Dreamer Lab, in the Corpse Cabin of Nature World, and in EGA Dead End.",
+      "name": "견딜 수 없는 기억",
+      "description": "뭔 짓거리를 한거야?",
+      "condition": "Tegan으로 플레이하여 Dreamer Lab에서 Martha’s Voice, Nature World의 Corpse Cabin 서브 에리어에서 Bloody Knife 강화를 획득하고, Leon으로 플레이하여 EGA Dead End에서 Martha’s Beanie 강화를 획득하기 (이미 얻은 상태라면 각 강화를 얻었던 장소로 돌아가기)",
       "checkbox": {
-        "martha_voice_perk": "obtain the Martha’s Voice perk",
-        "bloody_knife_perk": "obtain the Bloody Knife perk",
-        "martha_beanie_perk": "obtain the Martha’s Beanie perk"
+        "martha_voice_perk": "Dreamer Lab에서 Martha’s Voice",
+        "bloody_knife_perk": "Nature World의 Corpse Cabin 서브 에리어에서 Bloody Knife",
+        "martha_beanie_perk": "EGA Dead End에서 Martha’s Beanie"
       }
     },
     "blue_creep_side_world": {
-      "name": "Creature that Doesn't Look at Redheads",
-      "description": "\"I'm telling you, they aren't natural!\"",
-      "condition": "As either Tegan or Emory, see the Blue Creep in the Side World"
+      "name": "적발에는 관심이 없는 생물체",
+      "description": "\"정말이라니까, 쟤네 머리가 이상하다고!\"",
+      "condition": "Tegan이나 Emory로 플레이하여 Side World에서 Blue Creep 이벤트를 보기"
     },
     "main_room_office_complex": {
-      "name": "Stop Looking at Me!",
-      "condition": "Reach the main room of Office Complex"
+      "name": "쳐다보지 좀 마!",
+      "condition": "Office Complex의 메인 구역에 도달하기"
     },
     "tegan_grayscale_effect": {
-      "name": "Desaturate",
-      "description": "Not alone, yet lonely...",
-      "condition": "As Tegan, obtain the Grayscale effect. If you have already unlocked it, return to Nothingness."
+      "name": "채도 줄이기",
+      "description": "혼자는 아닌데, 외롭네...",
+      "condition": "Tegan으로 플레이하여 Nothingness에서 Grayscale 이펙트를 획득하기 (이미 얻은 상태라면 Grayscale을 얻었던 장소로 돌아가기)"
     },
     "glitch_world_error": {
-      "name": "Subscript Out of Range",
-      "description": "The event you're trying to access doesn't exist",
-      "condition": "As either Leon or Tegan, attempt to kill the face creature in Glitch World and trigger the event"
+      "name": "서브스크립트 초과",
+      "description": "주인공이 엑세스하려는 이벤트가 존재하지 않습니다",
+      "condition": "Leon이나 Tegan으로 플레이하여 Glitch World에 있는 얼굴 모양 생물체를 죽이고 이벤트를 감상하기"
     },
     "tegan_leon_bedroom": {
-      "name": "Into the Backdoor",
-      "description": "You're not supposed to go there...",
-      "condition": "Try to access Tegan's Dream Bedroom as Leon, and try to access Leon's Dream Bedroom as Tegan",
+      "name": "뒷세계로 들어가다",
+      "description": "그 쪽으로 가시면 안돼요...",
+      "condition": "Leon으로 플레이하여 Tegan's Dream Bedroom, Tegan으로 플레이하여 Leon's Dream Bedroom에 입장을 시도해보기",
       "checkbox": {
-        "tegan_bedroom_leon": "Try to access Tegan's Dream Bedroom as Leon",
-        "leon_bedroom_tegan": "try to access Leon's Dream Bedroom as Tegan"
+        "tegan_bedroom_leon": "Leon으로 플레이하여 Tegan's Dream Bedroom",
+        "leon_bedroom_tegan": "Tegan으로 플레이하여 Leon's Dream Bedroom"
       }
     },
     "tegan_clown_effect": {
-      "name": "Just Clowning Around",
-      "description": "Honk honk!",
-      "condition": "As Tegan, obtain the Clown effect. If you have already unlocked it, return to the Power Room of Color World."
+      "name": "광대짓",
+      "description": "뿌우 뿌우!",
+      "condition": "Tegan으로 플레이하여 Color World의 Power Room 서브 에리어에서 Clown 이펙트를 획득하기 (이미 얻은 상태라면 Clown을 얻었던 장소로 돌아가기)"
     },
     "bed_spacey_area": {
-      "name": "Solitary Space",
-      "description": "... Remember? I'm the only one left.",
-      "condition": "Sleep in the bed of the Captain's Quarters in the Space Station and in Lindsey's Bedroom",
+      "name": "혼자만의 공간",
+      "description": "... 기억해? 내가 남아있는 유일한 사람이란걸",
+      "condition": "Space Station의 Captain's Quarters 서브 에리어, Lindsey's Bedroom에 있는 침대에 들어가 잠들기",
       "checkbox": {
-        "captain_quarters_space_station": "Captain's Quarters in the Space Station",
+        "captain_quarters_space_station": "Space Station의 Captain's Quarters 서브 에리어",
         "bed_lindsey_bedroom": "Lindsey's Bedroom"
       }
     },
     "good_bye_stranger": {
-      "name": "NO WAY OUT",
-      "description": "How can I get out of THIS?",
-      "condition": "Get caught in the last level of Good-bye Stranger"
+      "name": "독안에 들다",
+      "description": "여길 나보고 어떻게 빠져나가라고?",
+      "condition": "Good-bye Stranger의 마지막 단계에서 붙잡히기"
     }
   }
 }
