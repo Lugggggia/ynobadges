@@ -11746,7 +11746,7 @@
     },
     "maid_effect_action_tsushin": {
       "name": "어리버리한 메이드",
-      "description": "안돼! 컵이 부서졌잖아!",
+      "description": "안돼! 컵이 깨져버렸잖아!",
       "condition": "Maid 이펙트를 사용하기"
     },
     "sushi_monitor_realm": {
@@ -12247,12 +12247,12 @@
       "condition": "Moonlit Sands에 도달하기"
     },
     "rose_girl_c_plate_world": {
-      "name": "장밋빛 모순",
+      "name": "장미 같은 마음의 수수께끼",
       "description": "돌이 속삭이고, 장미가 피어오른다",
       "condition": "Character Plate에서 Emptiness 특징을 사용하여 돼지꼬리 소녀를 붉은 장미로 바꾸기"
     },
     "plastic_bottle_evil": {
-      "name": "잊혀져서는 안되는 것...?",
+      "name": "잊을 수 없는 무언가...?",
       "description": "아아, 계속, 계속 곁에 있어줬는가...?",
       "condition": "Plastic Bottle 특성을 획득하고 포즈를 취하기"
     },
@@ -12297,16 +12297,16 @@
       }
     },
     "blue_creep_side_world": {
-      "name": "적발에는 관심이 없는 생물체",
-      "description": "\"정말이라니까, 쟤네 머리가 이상하다고!\"",
-      "condition": "Tegan이나 Emory로 플레이하여 Side World에서 Blue Creep 이벤트를 보기"
+      "name": "빨간머리에는 관심이 없는 생물체",
+      "description": "\"정말이라니깐, 쟤네들 머리색깔은 자연스럽지가 않다고!\"",
+      "condition": "Tegan이나 Emory로 플레이하여 Side World에서 창문에 얼굴을 내밀고 있는 파란 생명체(Blue Creep) NPC를 바라보기"
     },
     "main_room_office_complex": {
       "name": "쳐다보지 좀 마!",
       "condition": "Office Complex의 메인 구역에 도달하기"
     },
     "tegan_grayscale_effect": {
-      "name": "채도 줄이기",
+      "name": "채도 낮추기",
       "description": "혼자는 아닌데, 외롭네...",
       "condition": "Tegan으로 플레이하여 Nothingness에서 Grayscale 이펙트를 획득하기 (이미 얻은 상태라면 Grayscale을 얻었던 장소로 돌아가기)"
     },
