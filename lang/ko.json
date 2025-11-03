@@ -3056,7 +3056,7 @@
     "shimako_adabana": {
       "name": "어느날의 기억들",
       "description": "낯익어 보이는 소녀...?",
-      "condition": "Adabana Gardens 에서 줄무늬 옷을 입은 소녀(Shimako) NPC를 보기"
+      "condition": "Adabana Gardens 에서 줄무늬 소녀(Shimako) NPC를 보기"
     },
     "shimako_deluge": {
       "name": "불가사의한 미녀",
@@ -4824,7 +4824,7 @@
     },
     "deep_cold_path_event": {
       "name": "냉랭한 운명",
-      "description": "좀 더 깊은 꿈 세계로 나아가야 하느은ㄷ...",
+      "description": "좀 더 옷을 두껍게 입고 꿈 꿨어야 했느은ㄷ...",
       "condition": "Deep Cold Path에서 Cold and Stranded 이벤트를 보기"
     },
     "flower_undersea_temple": {
@@ -4967,7 +4967,7 @@
       "condition": "Infinite Pools에서 빨간색 괴생명체 NPC가 있는 방에 입장하기"
     },
     "2kki_menu_73_74": {
-      "name": "외딴 곳의 세계들",
+      "name": "적막한 방들",
       "description": "이곳저곳을 돌아다니며 경치를 감상해보자!",
       "condition": "Megalith Grove, English Thundershower에서 메뉴타입 73, 74를 획득하기 (이미 얻은 상태라면 각 메뉴타입을 얻었던 장소로 돌아가기)",
       "checkbox": {
@@ -4977,7 +4977,7 @@
     },
     "rainy_sundial": {
       "name": "이끼낀 해시계",
-      "description": "비오는 날에 해시계가 뭔 소용이람?",
+      "description": "비오는 날에 낡아빠진 석재 해시계가 뭔 소용이람?",
       "condition": "Rainy Sundial에 도달하기"
     },
     "cookie_haven": {
@@ -4998,7 +4998,7 @@
     "comet_infinite_library": {
       "name": "우주의 밀물과 썰물",
       "description": "우주라는 밀물과 썰물에 맞서며 여전히 이 곳에 남아있어요. 그에 비해 당신이라는 존재는... 한없이 작군요.",
-      "condition": "Infinite Library의 망완경을 통해서 혜성을 찾아내기"
+      "condition": "Infinite Library의 망원경을 통해서 혜성을 찾아내기"
     },
     "arcade_travel_hotel": {
       "name": "선형 방정식 게임방",
@@ -5008,10 +5008,10 @@
     "challenge_chromalimbo": {
       "name": "색으로 가득찬 연옥",
       "description": "아 광기여, 너무나도 다채롭고, 너무나도 생생하구나...",
-      "condition": "Chromatic Limbo에서 숫자 8 모양의 NPC와 상호작용하여 고립 구역으로 텔레포트하고 전기톱 이펙트를 사용하여 NPC를 죽이기"
+      "condition": "Chromatic Limbo에서 숫자 8 모양의 워프 물체와 상호작용하여 고립 구역으로 텔레포트하고 전기톱 이펙트를 사용하여 해당 워프 물체를 죽이기"
     },
     "eggs_blue_restaurant": {
-      "name": "이펙트를 한 바구니에 담지 마라",
+      "name": "이펙트를 한 바구니에 담지 말라",
       "description": "이 계란들 다 깨봤자 별거 없어",
       "condition": "Blue Restaurant의 13번 방에서 모든 이펙트 형태의 계란을 깨부순 후 침대에서 잠을 자기"
     },
@@ -5032,12 +5032,12 @@
     },
     "fishy_friends": {
       "name": "해파리 친구들",
-      "description": "숲이 우거지고 오래전에 재개발되었던 숨겨진 도시 속, 평온함을 안겨다 주는 외딴 곳의 수족관 하나...",
+      "description": "긴 세월 자연 속에 방치되어 녹음으로 울창해진 도시 깊은 곳에 숨겨진, 평온함을 안겨다 주는 외딴 곳의 수족관 하나...",
       "condition": "Overgrown City의 Aquarium 서브 에리어에 도달하기"
     },
     "windswept_souls": {
       "name": "풍화된 황야",
-      "description": "과거 문명의 공허한 껍데기는 진홍빛 모래와 쪽빛 하늘 아래에 파묻혔다",
+      "description": "과거 문명의 공허한 껍데기는 진홍빛 모래와 청록빛 하늘 아래에 파묻혔다",
       "condition": "Windswept Scarlet Sands에서 건물 중 한 곳에 올라가 황량한 땅을 바라보기"
     },
     "2kki_wolf_effect": {
@@ -5087,88 +5087,88 @@
       "condition": "Alto에 도달하기"
     },
     "flower_lily_path": {
-      "name": "Polychrome Morph",
-      "description": "The soft and peaceful reality of the body.",
-      "condition": "Make the flower in the White Lily Path A of the Glitched Butterfly Sector react to the Child, Tissue, Teru Teru Bōzu, Grave and Rainbow effects, and to the use of the Fairy, Glasses, Eyeball Bomb, Invisible, Cake, Polygon, Railroad Crossing and Dice effects",
+      "name": "다채로운 변천",
+      "description": "육체가 뿜어내는 유약하고도 고요한 실재",
+      "condition": "Glitched Butterfly Sector의 White Lily Path A 서브 에리어에서 특정 TV 모니터로 모양을 바꿀 수 있는 꽃을 찾아내어 그 근처에서 어린이, 화장지, 테루테루보즈, 무덤, 무지개 이펙트를 각각 모두 장착하고, 요정, 안경, 눈알 폭탄, 투명, 케이크, 폴리곤, 건널목, 주사위 이펙트를 각각 모두 사용하기",
       "checkbox": {
-        "flower_lily_path_child": "Child",
-        "flower_lily_path_tissue": "Tissue",
-        "flower_lily_path_teru": "Teru Teru Bōzu",
-        "flower_lily_path_grave": "Grave",
-        "flower_lily_path_rainbow": "Rainbow",
-        "flower_lily_path_fairy": "Fairy",
-        "flower_lily_path_glasses": "Glasses",
-        "flower_lily_path_eye_bomb": "Eyeball Bomb",
-        "flower_lily_path_invisible": "Invisible",
-        "flower_lily_path_cake": "Cake",
-        "flower_lily_path_polygon": "Polygon",
-        "flower_lily_path_crossing": "Railroad Crossing",
-        "flower_lily_path_dice": "Dice"
+        "flower_lily_path_child": "어린이",
+        "flower_lily_path_tissue": "화장지",
+        "flower_lily_path_teru": "테루테루보즈",
+        "flower_lily_path_grave": "무덤",
+        "flower_lily_path_rainbow": "무지개",
+        "flower_lily_path_fairy": "요정",
+        "flower_lily_path_glasses": "안경",
+        "flower_lily_path_eye_bomb": "눈알 폭탄",
+        "flower_lily_path_invisible": "투명",
+        "flower_lily_path_cake": "케이크",
+        "flower_lily_path_polygon": "폴리곤",
+        "flower_lily_path_crossing": "건널목",
+        "flower_lily_path_dice": "주사위"
       }
     },
     "bracken_plains_rave": {
-      "name": "Bracken Dance",
-      "description": "Gotta get green guys groovin'",
-      "condition": "See the Rave event in the Bracken Plains"
+      "name": "고사리꺾기",
+      "description": "고사리 대사리 꺾자~",
+      "condition": "Bracken Plains에서 고사리의 춤(Rave) 이벤트를 감상하기"
     },
     "monster_jaw_cake": {
-      "name": "Lonely Cake Girl",
-      "description": "She does sure feel lonely.",
-      "condition": "Use the Cake effect on the Monster's Jaw and view the short cutscene"
+      "name": "외로운 케이크 소녀",
+      "description": "그녀는 정말로 외로워 보인다",
+      "condition": "Monster's Jaw에서 케이크 이펙트를 장착한 뒤 바깥 경치를 내다보며 짧은 컷신을 감상하기"
     },
     "cake_fridge_virtual_city": {
-      "name": "Cake Robber",
-      "description": "Let her eat cake!",
-      "condition": "Take a slice of cake from the fridge of Virtual City's arcade"
+      "name": "케이크 절도범",
+      "description": "쟤 그냥 케이크 먹게 놔둬!",
+      "condition": "Virtual City의 Arcade 서브 에리어의 특정 방에 위치한 냉장고에서 조각 케이크를 빼먹기"
     },
     "umbrella_critter_village": {
-      "name": "A Stray Child",
-      "description": "Yes, it's \"a girl who looks familiar\" but she looks more lost",
-      "condition": "Collide with the red umbrella in Critter Village's Wooded Lakeside section"
+      "name": "길 잃은 아이",
+      "description": "맞아, 저 아이 어딘가 \"낯익어 보이는 소녀\"인데... 좀 더 방황하고 있는 듯한 모습이야",
+      "condition": "Critter Village의 Reservoir 서브 에리어에서 빨간 우산을 쓰고 있는 줄무늬 소녀(Shimako) NPC와 부딪히기"
     },
     "picture_virtual_city": {
-      "name": "Say Cheese!!",
-      "description": "Fantastic! Cooler! Peace!",
-      "condition": "Use the photobooth and receive your picture in the Virtual City's arcade"
+      "name": "김치!!",
+      "description": "인생한컷",
+      "condition": "Virtual City의 Arcade 서브 에리어에 있는 즉석사진관에서 사진 한장을 찍고 인쇄되어 나오는 사진을 가져가기"
     },
     "arcade_virtual_city": {
-      "name": "Bunny Girl Paradise",
-      "description": "This game is addicting...",
-      "condition": "Visit the arcade in Virtual City"
+      "name": "바니걸 천국",
+      "description": "게임이 빠져드는 맛이 있네...",
+      "condition": "Virtual City의 Arcade 서브 에리어에 도달하기"
     },
     "workshop_cipher_kbd": {
-      "name": "Keyboard Maintenance Team",
-      "description": "Especially the arrows need more repair",
-      "condition": "Visit the workshop in Cipher Keyboard"
+      "name": "키보드 유지보수팀",
+      "description": "화살표 키 쪽을 특히 더 손봐야겠는걸",
+      "condition": "Cipher Keyboard의 Workshop 서브 에리어에 도달하기"
     },
     "mistaken_call_parking_grg": {
-      "name": "Fraudulent Call",
-      "description": "I think it's a pyramid scheme involving red lampposts",
-      "condition": "Visit the Mistaken Call Room in Parking Garage"
+      "name": "스팸 전화",
+      "description": "내 생각에 빨간 가로등 팔아치워먹으려는 사악한 피라미드 다단계 조직의 음모가 아닐까 싶은데",
+      "condition": "Parking Garage의 Mistaken Call Room 서브 에리어에 도달하기"
     },
     "blackjack_manor": {
-      "name": "Blackjack 21",
-      "description": "Why don't we sit down and play a game?",
-      "condition": "Visit Blackjack Manor"
+      "name": "블랙잭 21",
+      "description": "앉아서 블랙잭 한판이나 두지 그래?",
+      "condition": "Blackjack Manor에 도달하기"
     },
     "tt_rose_church": {
-      "name": "The Holy Egg",
-      "condition": "Obtain the menu type 12 in Rose Church in {TIME} or less in Time Trial Mode"
+      "name": "신성한 달걀",
+      "condition": "Time Trial Mode를 켜고 Rose Church에서 메뉴타입 12를 {TIME} 이내로 획득하기"
     },
     "dragon_paradise": {
-      "name": "Cetus",
-      "description": "The Serpent that soars the golden skies",
-      "condition": "Approach the dragon in Paradise"
+      "name": "고래자리",
+      "description": "황금빛 하늘 속을 날아다니는 뱀",
+      "condition": "Paradise에서 푸른 용을 발견하기"
     },
     "rose_church_pianist": {
-      "name": "Rose Concert",
-      "description": "This piano is still working...",
-      "condition": "Watch the pianist play the piano at Rose Church"
+      "name": "장미 콘서트",
+      "description": "이 피아노 아직도 작동하는구나...",
+      "condition": "Rose Church에서 피아노 연주자가 피아노를 치는 것을 지켜보기"
     },
     "yume_paradise": {
-      "name": "Dream Heaven",
-      "description": "Dreaming is like being in the clouds.",
-      "condition": "Visit the following heaven related worlds: Animal Heaven, Cinder Statue Heaven, Cookie Haven, Cotton Candy Haven, Indigo Pyramid Heaven, Litter Heaven, Paradise, Pink Heaven (sub-area of Humanity World), Whale Heaven (sub-area of Miso Soup Dungeon), and Witch Heaven",
+      "name": "꿈결같은 천국",
+      "description": "꿈을 꾼다는 것은 구름 속에 들어와 있는 것과 같다",
+      "condition": "천국과 관련된 Animal Heaven, Cinder Statue Heaven, Cookie Haven, Cotton Candy Haven, Indigo Pyramid Heaven, Litter Heaven, Paradise, Pink Heaven (Humanity World 서브 에리어), Whale Heaven (Miso Soup Dungeon 서브 에리어), Witch Heaven를 모두 방문하기",
       "checkbox": {
         "animal_heaven": "Animal Heaven",
         "cinder_heaven": "Cinder Statue Heaven",
@@ -5177,19 +5177,19 @@
         "indigo_pyramid_heaven": "Indigo Pyramid Heaven",
         "litter_heaven": "Litter Heaven",
         "paradise": "Paradise",
-        "pink_heaven_humanity_w": "Pink Heaven (sub-area of Humanity World)",
-        "whale_heaven_misoup": "Whale Heaven (sub-area of Miso Soup Dungeon)",
+        "pink_heaven_humanity_w": "Pink Heaven (Humanity World 서브 에리어)",
+        "whale_heaven_misoup": "Whale Heaven Whale Heaven (Miso Soup Dungeon 서브 에리어)",
         "witch_heaven": "Witch Heaven"
       }
     },
     "yume_hell": {
-      "name": "Nightmare Hell",
-      "description": "Abandon all hope, ye who enter here.",
-      "condition": "Visit the following hell related worlds: Dark Cheese Hell, Glitch Hell, Hell Caverns (sub-area of Flamelit Wasteland), Holiday Hell, Oblique Hell, Rainbow Hell, Spear Hell Maze, and Static Noise Hell",
+      "name": "악몽같은 지옥",
+      "description": "이 곳에 들어오는 자들이여, 희망을 버려라",
+      "condition": "지옥과 관련된 Dark Cheese Hell, Glitch Hell, Hell Caverns (Flamelit Wasteland 서브 에리어), Holiday Hell, Oblique Hell, Rainbow Hell, Spear Hell Maze, Static Noise Hell를 모두 방문하기",
       "checkbox": {
         "dark_cheese_hell": "Dark Cheese Hell",
         "glitch_hell": "Glitch Hell",
-        "hell_caverns_flamelit_w": "Hell Caverns (sub-area of Flamelit Wasteland)",
+        "hell_caverns_flamelit_w": "Hell Caverns (Flamelit Wasteland 서브 에리어)",
         "holiday_hell": "Holiday Hell",
         "oblique_hell": "Oblique Hell",
         "rainbow_hell": "Rainbow Hell",
@@ -5198,49 +5198,49 @@
       }
     },
     "screaming_bright_forest": {
-      "name": "Scream of Despair",
-      "description": "MAKE IT STOP",
-      "condition": "Trigger the Screaming Forest event in Bright Forest"
+      "name": "절망에 찬 비명",
+      "description": "가서 좀 말려봐!!!",
+      "condition": "Bright Forest에서 Screaming Forest 이벤트를 감상하기"
     },
     "dessert_fields_sweet": {
-      "name": "Sweet Fields",
-      "description": "Talk about having sweet dreams!",
-      "condition": "Indulge in a treat in the Dessert Fields"
+      "name": "달콤한 들판",
+      "description": "달콤한 꿈을 꾸는 것에 대한 이야기를 나눠보자!",
+      "condition": "Dessert Fields 맵에 널려있는 간식들을 마구 먹어치우기"
     },
     "shrimp_city_of_revival": {
-      "name": "Shrimp",
-      "description": "YAAAAAAAAAAAAAAAAYY!!!",
-      "condition": "Trigger the Shrimp event in City of Revival"
+      "name": "새우",
+      "description": "이예에에에에에에이!!!",
+      "condition": "City of Revival의 Rooftop 서브 에리어의 가운데에 떨어져 있는 새우와 상호작용하기"
     },
     "hozo": {
-      "name": "HyperNet Magic Cube \"System Collapse\"",
-      "description": "Artifact that decodes the network.",
+      "name": "하이퍼넷 매직 큐브 \"시스템 붕괴\"",
+      "description": "네트워크를 해독해내는 공예품",
       "condition": "HOZO 미니게임에서 2000점 달성하기"
     },
     "hozo_silver": {
-      "name": "Eater of Worlds Magic Cube \"Planetary Core\"",
-      "description": "Artifact that devours and multiplies pathology.",
+      "name": "만물을 먹어치우는 매직 큐브 \"행성 코어\"",
+      "description": "질병을 먹어치우고 증식시키는 공예품",
       "condition": "HOZO 미니게임에서 4000점 달성하기"
     },
     "hozo_gold": {
-      "name": "Whispering Magic Cube \"A Thousand Wings\"",
-      "description": "Artifact that sharpens the \"spasms\" and turns them into \"whispers\".",
+      "name": "속삭이는 매직 큐브 \"천 개의 날개\"",
+      "description": "\"근경련\"이라는 고통의 극치를 경험한 자가 지르는 비명들을 \"속삭임\"으로 바꾸어내는 공예품",
       "condition": "HOZO 미니게임에서 8000점 달성하기"
     },
     "fisherman_victorian_drains": {
-      "name": "Lonely Fisherman",
-      "description": "Fishing forever in your life, alone in your thoughts",
-      "condition": "Interact with the fisherman in Victorian Drains"
+      "name": "고독한 낚시꾼",
+      "description": "사색 속에 사로잡혀 고독하게, 인생이라는 물을 향해 끝없이 낚싯대를 던졌다",
+      "condition": "Victorian Drains에서 낚시를 하고 있는 NPC와 상호작용하기"
     },
     "chaser_cof": {
-      "name": "Weird Looking Dog",
-      "description": "They just want to be loved. Is that so hard to do?",
-      "condition": "Interact with one of the chasers in City of Revival's tower while using the Railroad Crossing effect"
+      "name": "해괴망측한 강아지",
+      "description": "쟤네들도 그저 사랑받고 싶었을 뿐일텐데... 정 주는게 그리도 어렵더니?",
+      "condition": "City of Revival의 The Tower 서브 에리어에서 건널목 이펙트를 사용하고 왕눈알 강아지(Blob Dogs) 추격자 NPC와 상호작용하기"
     },
     "graveyard_master": {
-      "name": "Called by the Grave",
-      "description": "Choose 1 dreamer from your opponent's Graveyard; banish it and, if this happens, until the end of the next turn, its effects are negated.",
-      "condition": "Visit Graveyard World, Dim Graveyard, and Parallel Graveyard",
+      "name": "무덤의 지명자",
+      "description": "상대 무덤의 몽상가 1명을 대상으로 하고 발동할 수 있다. 그 몽상가를 제외한다. 다음 턴의 종료시까지, 이 이펙트로 제외한 몽상가 및 그 몽상가와 원래의 파일명이 같은 몽상가의 이펙트는 무효화된다.",
+      "condition": "Graveyard World, Dim Graveyard, Parallel Graveyard에 모두 방문하기",
       "checkbox": {
         "graveyard_world": "Graveyard World",
         "dim_graveyard": "Dim Graveyard",
@@ -5248,61 +5248,61 @@
       }
     },
     "serpent_sewers_e_d": {
-      "name": "Secret Serpent",
-      "description": "Best quality: his wiggles",
-      "condition": "See the green serpent pop out of one of the bins in the Gray Sewers of Epsilon District"
+      "name": "은밀한 뱀",
+      "description": "필살! 몸흔들기!",
+      "condition": "Epsilon District의 Gray Sewers 서브 에리어 안에 있는 쓰레기통 중 하나에서 튀어나오는 초록색 뱀을 발견하기"
     },
     "goldfish_pond": {
-      "name": "Tranquil Fishbowl",
-      "condition": "Reach Goldfish Pond"
+      "name": "잔잔한 수반",
+      "condition": "Goldfish Pond에 도달하기"
     },
     "scarlet_corridors": {
-      "name": "Scarlet Corridors",
-      "condition": "Visit Scarlet Corridors"
+      "name": "황혼빛 마을",
+      "condition": "Scarlet Corridors에 도달하기"
     },
     "drink_bench": {
-      "name": "Refreshing Pause",
-      "description": "The view becomes more pleasant when you combine it with the sweet taste of soda",
-      "condition": "Buy a soda from the vending machine and drink it on the bench in Forest Pier and on Travel Hotel's balcony",
+      "name": "상쾌한 휴식",
+      "description": "탄산 한 모금의 상쾌함을 즐기며 경치를 바라보면 그 경치마저 상쾌하게 와닿는다",
+      "condition": "Forest Pier, Travel Hotel의 호텔방 베란다에서 각각 자판기 음료수를 구매하고 벤치에 앉아 음료를 마시기",
       "checkbox": {
         "drink_forest_pier": "Forest Pier",
-        "drink_travel_hotel": "Travel Hotel's balcony"
+        "drink_travel_hotel": "Travel Hotel의 호텔방 베란다"
       }
     },
     "antiquated_h_v_promenade": {
-      "name": "Abandoned Resthouse",
-      "description": "Memories of a now forgotten love",
-      "condition": "Reach the Antiquated Resthouse in Verdant Promenade"
+      "name": "버려진 숙소",
+      "description": "이제는 잊어버린 사랑에 대한 추억이 담긴 장소",
+      "condition": "Verdant Promenade의 Antiquated Resthouse 서브 에리어에 도달하기"
     },
     "grayscale_books": {
-      "name": "Magic Pages",
-      "description": "The literature of dreams",
-      "condition": "Read all of the books in Grayscale Bookshelves"
+      "name": "마법이 깃든 페이지",
+      "description": "꿈들이 담긴 문학",
+      "condition": "Grayscale Bookshelves에 있는 모든 책들을 읽기"
     },
     "arc_de_pillar_world": {
-      "name": "Arc de Pilier",
-      "description": "The symbol of triumph",
-      "condition": "Visit Arc de Pillar World"
+      "name": "개선문",
+      "description": "승리의 상징",
+      "condition": "Arc de Pillar World에 도달하기"
     },
     "boss_dream_tropics": {
-      "name": "Dungeons and Dreamers",
-      "description": "Let's go on an adventure!",
-      "condition": "Defeat the boss in the dungeon in Dream Tropics"
+      "name": "던전 앤 드리머즈",
+      "description": "모험을 떠나자!",
+      "condition": "Dream Tropics의 Dungeon 서브 에리어에 있는 보스를 격파하기"
     },
     "green_pattern_w_deity": {
-      "name": "Stare from Somewhere",
-      "description": "Gazing upon the gods at this very moment",
-      "condition": "Enter a certain hidden area in the Green Pattern World"
+      "name": "저 너머에서의 시선",
+      "description": "지금 이 순간, 신들을 마주하다",
+      "condition": "Green Pattern World의 Covert Ladder Zone 서브 에리어에서 The Pyramid Gods 이벤트를 감상하기"
     },
     "mono_marsh_shallows": {
-      "name": "Mind Vacuum",
-      "description": "Empty with pieces of memories",
-      "condition": "Reach the Monochrome Shallows in Marshmallow Shallows"
+      "name": "정신적 공허",
+      "description": "기억의 파편이 남아있는 빈 공간",
+      "condition": "Marshmallow Shallows의 Monochrome 서브 에리어에 도달하기"
     },
     "rock_abstract_corrosions": {
-      "name": "Geologist",
-      "description": "In the middle of the way there was a rock, there was a rock in the middle of the way. There was a rock in the middle of the way. There was a rock. I will never forget that in the middle of the way there was a rock.",
-      "condition": "Break a rock in Abstract Corrosions"
+      "name": "지질학자",
+      "description": "길 한가운데에 돌이 있었고 돌은 길 한가운데에 있었다. 돌은 길 한가운데에 있었다. 돌이 있었다. 길 한가운데에 돌이 있었다는 것을 나는 결코 잊지 않으리라.",
+      "condition": "Abstract Corrosions에서 돌을 깨부수기"
     },
     "tradition_sea_slug_house": {
       "name": "Nudibranch Emblem",
