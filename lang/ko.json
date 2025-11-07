@@ -1652,7 +1652,7 @@
     "deluxe_mask_shop_purchase": {
       "name": "실크 리본",
       "description": "감초의 냄새가 난다.",
-      "condition": "Deluxe Mask Shop 에서 가면을 구매하기"
+      "condition": "Deluxe Mask Shop 에서 마스크를 구매하기"
     },
     "japan_town_bath": {
       "name": "괴물들은 밤에 출몰한다",
@@ -1828,7 +1828,7 @@
     "mask_shop_ring": {
       "name": "그만!",
       "description": "참을성 없는 쓰레기가 되어보자",
-      "condition": "종을 끊임없이 울려서 가면 가게 주인을 화나게 만들기"
+      "condition": "종을 끊임없이 울려서 Mask Shop의 주인을 화나게 만들기"
     },
     "urotsuki_pendant": {
       "name": "추억의 펜던트",
@@ -2834,7 +2834,7 @@
     },
     "appururi_mask": {
       "name": "대형 사과와 소형 과일박쥐",
-      "condition": "Mask Shops 에서 Appururi(과일박쥐) NPC의 가면을 구매하기"
+      "condition": "Mask Shops 에서 Appururi(과일박쥐) NPC의 마스크를 구매하기"
     },
     "celestial_moth": {
       "name": "천상의 나방",
@@ -3768,7 +3768,7 @@
     },
     "haniwa_lonely_home": {
       "name": "하니와 그리고 소녀",
-      "condition": "Lonely Home에서 하니와 이펙트를 장착하고 주황색 머리의 소녀와 상호작용하기"
+      "condition": "Lonely Home에서 하니와 이펙트를 장착하고 주황 머리 소녀(Haniwa-musume)와 상호작용하기"
     },
     "legacy_nexus": {
       "name": "숨겨진 유산",
@@ -4293,7 +4293,7 @@
     },
     "diary_graveyard_repent": {
       "name": "누군가의 일기",
-      "description": "서운해...",
+      "description": "외로워...",
       "condition": "Graveyard of Repentance의 Prologue 서브 에리어에서 첫번째 일기를 읽기"
     },
     "cake_slime_village": {
@@ -4420,7 +4420,7 @@
     "telephone_virtual_city": {
       "name": "예상치 못한 전화",
       "description": "안치실에 위치한 소들은 버추얼 시티 속의 거주민들이 왜 숫자로 가득한 세상 속에 살고 있는지 이해하지 못하는 듯 해 보인다",
-      "condition": "Virtual City에 있는 공중전화를 사용하여 River Complex로 이동하기"
+      "condition": "Virtual City에 있는 공중 전화를 사용하여 River Complex로 이동하기"
     },
     "red_haired_girl_thumbtack": {
       "name": "부서진 고독",
@@ -4809,7 +4809,7 @@
     "2kki_menu_67_70": {
       "name": "추상적인 프리즘",
       "description": "다채로운 빛을 분산시키는 보석들",
-      "condition": "Rainy Sundial, Paraffin Embedding Ruins, Fragmented Station B, Snow Black에서 메뉴타입 67, 68, 69, 70을 획득하기 (이미 얻은 상태라면 각 메뉴타입을 얻었던 장소로 돌아가기)",
+      "condition": "Rainy Sundial, Paraffin Embedding Ruins, Fragmented Station B, Snow Black에서 메뉴 타입 67, 68, 69, 70을 획득하기 (이미 얻은 상태라면 각 메뉴 타입을 얻었던 장소로 돌아가기)",
       "checkbox": {
         "2kki_menu_67": "Rainy Sundial",
         "2kki_menu_68": "Paraffin Embedding Ruins",
@@ -4840,7 +4840,7 @@
     "2kki_menu_53": {
       "name": "행복한 태끼",
       "description": "토끼 모아 행복한 태끼가 된다",
-      "condition": "Sakura Forest에서 메뉴타입 53을 획득하기 (이미 얻은 상태라면 Sakura Forest에 입장하기)"
+      "condition": "Sakura Forest에서 메뉴 타입 53을 획득하기 (이미 얻은 상태라면 Sakura Forest에 입장하기)"
     },
     "tea_technicolor_towers": {
       "name": "종이 향이 나는 차",
@@ -4897,7 +4897,7 @@
     "puzzle_scattered_sky_fld": {
       "name": "'산'만한 풍경",
       "description": "이리저리 산만하게 돌아다니고 나서야 볼 수 있는 경치",
-      "condition": "Scattered Sky Fields에서 워프 미로의 퍼즐을 해결하여 쌍둥이 산의 경치가 펼쳐진 방(메뉴타입 72를 얻을 수 있는 곳)에 도달하기"
+      "condition": "Scattered Sky Fields에서 워프 미로의 퍼즐을 해결하여 쌍둥이 산의 경치가 펼쳐진 방(메뉴 타입 72를 얻을 수 있는 곳)에 도달하기"
     },
     "penseur_crimson_chair": {
       "name": "고독한 사색가",
@@ -4969,7 +4969,7 @@
     "2kki_menu_73_74": {
       "name": "적막한 방들",
       "description": "이곳저곳을 돌아다니며 경치를 감상해보자!",
-      "condition": "Megalith Grove, English Thundershower에서 메뉴타입 73, 74를 획득하기 (이미 얻은 상태라면 각 메뉴타입을 얻었던 장소로 돌아가기)",
+      "condition": "Megalith Grove, English Thundershower에서 메뉴 타입 73, 74를 획득하기 (이미 얻은 상태라면 각 메뉴 타입을 얻었던 장소로 돌아가기)",
       "checkbox": {
         "2kki_menu_73": "Megalith Grove",
         "2kki_menu_74": "English Thundershower"
@@ -5057,7 +5057,7 @@
     },
     "turtle_pond": {
       "name": "조이스틱 세계",
-      "description": "레트로 게임 조작키로 가득찬 연못",
+      "description": "게임 패드가 둥둥 떠다니는 연못",
       "condition": "Handheld Game Pond에 도달하기"
     },
     "chaos_exhibition_complete": {
@@ -5153,7 +5153,7 @@
     },
     "tt_rose_church": {
       "name": "신성한 달걀",
-      "condition": "Time Trial Mode를 켜고 Rose Church에서 메뉴타입 12를 {TIME} 이내로 획득하기"
+      "condition": "Time Trial Mode를 켜고 Rose Church에서 메뉴 타입 12를 {TIME} 이내로 획득하기"
     },
     "dragon_paradise": {
       "name": "고래자리",
@@ -5257,7 +5257,7 @@
       "condition": "Goldfish Pond에 도달하기"
     },
     "scarlet_corridors": {
-      "name": "황혼빛 마을",
+      "name": "석양이 지는 마을",
       "condition": "Scarlet Corridors에 도달하기"
     },
     "drink_bench": {
@@ -5305,111 +5305,111 @@
       "condition": "Abstract Corrosions에서 돌을 깨부수기"
     },
     "tradition_sea_slug_house": {
-      "name": "Nudibranch Emblem",
-      "description": "An emblem of the Sea Slug House presented to its esteemed guests",
-      "condition": "Use the School Boy or Maiko effect in one of the rooms in Sea Slug House"
+      "name": "갯민숭달팽이 엠블럼",
+      "description": "귀빈들에게 수여되는 바다달팽이 가문의 엠블럼",
+      "condition": "Sea Slug House에서 바다 달팽이(Sea slug) NPC가 있는 방에 들어가 가쿠란이나 마이코 이펙트를 사용하기"
     },
     "crystal_bottom_garden": {
-      "name": "Heart of the Garden",
-      "description": "After endlessly wandering through the lifeless corridors above, it feels enchanting to see a fantasy world of greenery, glowing as if the night sky could reach such an isolated place...",
-      "condition": "Stand near the crystal suspended by vines in Bottom Garden"
+      "name": "월야관의 심장",
+      "description": "상부 구역의 생명의 기척조차 느껴지지 않는 복도를 끝없이 헤맨 끝에... 마치 밤하늘이 이토록 외딴 장소에까지 맞닿은 것처럼 반짝이는, 초목이 무성한 하부 구역의 환상적인 세계를 마주하니 마법에 매혹된 듯이 황홀해진다...",
+      "condition": "Bottom Garden의 최하부 정원 구역에서 하트 모양의 덩굴 중심에 박혀있는 수정을 발견하기"
     },
     "orange_forest_headdy": {
-      "name": "What? There is Nothing Strange Here!",
-      "description": "I'm just a face, what's wrong with that?",
-      "condition": "Interact with any of the floating heads in the Orange Forest"
+      "name": "머임마? 이상할 거 없잖아?!",
+      "description": "그냥 머리가 땅에 박혀있는 건데 뭐가 그리 문제인 건데?",
+      "condition": "Orange Forest에서 땅에 박힌 거대한 머리들 중 하나와 상호작용하여 머리를 뽑아내기"
     },
     "drink_stone_world": {
-      "name": "Expired",
-      "description": "Should have checked the date first",
-      "condition": "Purchase a drink from the vending machine in Stone World"
+      "name": "상한 음료",
+      "description": "마시기 전, 소비기한은 확인하셨나요?",
+      "condition": "Stone World에 위치한 자판기에서 음료수를 사먹기"
     },
     "infinite_pools": {
-      "name": "Sublimity",
-      "condition": "Visit Infinite Pools"
+      "name": "백룸 수영장",
+      "condition": "Infinite Pools에 도달하기"
     },
     "hydrangea_waters": {
-      "name": "Hydrangea Dreaming",
-      "description": "Stop and smell the flowers.",
-      "condition": "Visit Hydrangea Waters"
+      "name": "수국이 핀 꿈",
+      "description": "발길을 멈추고 꽃내음을 맡아보자",
+      "condition": "Hydrangea Waters에 도달하기"
     },
     "b_h_p_faraway_forest": {
-      "name": "Trapped Souls",
-      "description": "Wonder if they might need a hand or two",
-      "condition": "Enter the Blue Hand Passage in Faraway Forest"
+      "name": "갇혀버린 영혼들",
+      "description": "그들에게 당신의 한손, 아니 양손을 빌려줘야 될지도 모르겠다",
+      "condition": "Faraway Forest의 Blue Hand Passage 서브 에리어에 도달하기"
     },
     "faucet_marsh_shallows": {
-      "name": "Squeezed to a Pulp",
-      "condition": "Get pressed in the faucet of Marshmallow Shallows"
+      "name": "우로즙키",
+      "condition": "Marshmallow Shallows에서 수도꼭지의 끝까지 기어들어가 쥐어짜여지기"
     },
     "shimakorpse_r_apartments": {
       "name": "Body in the Stairwell",
       "condition": "Find the corpse in the Rainy Apartments stairway"
     },
     "nurie_library": {
-      "name": "N̓͌̈U͊ͮͪR̈́̏ͤI̾̉ͩ҉҉̸͟͠E͌ͥ͊",
-      "description": "YNAWPA SEPD IA",
-      "condition": "Witness the Nurie event in the Library"
+      "name": "색҉͙͖̣̦̦̭͎̤̜̠̜̫̒̄͐̀̇̅̀͛̎ͅ칠҈͖̝̘̖̠̩̳̫̗͔̠̙͌̀͒͒̋̃̏̄͋̚ͅ공҉̟̭̳͖͍̠̯̜̥̱̳͍̞̘͓̗͂̽̊̾͊́͐̍̐̈́́̍͛͂̍̾̒̀̎부҈̱̳͎͓͇̩͈̓̇̒͋̒͑̃͛̓",
+      "description": "HZVP XSRO SZV YL Z BL",
+      "condition": "Library에서 색칠공부(Nurie) 이벤트를 보기"
     },
     "giant_cat_port_city": {
-      "name": "Feline Appeasement",
-      "description": "Don't wake the kitty from its endless catnap.",
-      "condition": "Find the giant cat in Port City"
+      "name": "방해금지다냥",
+      "description": "끝없는 선잠에 푹 빠져버린 야옹이를 방해하지는 말자...",
+      "condition": "Port City의 특정 방에서 특정 확률로 등장하는 거대한 고양이를 만나기"
     },
     "menu_19_2kki_choco": {
-      "name": "Exquisite Reward",
-      "description": "Surrender to the endless waves of chocolate.",
-      "condition": "Obtain the menu type 19. If you have already unlocked it, return in Chocolate World."
+      "name": "미(美)미(味)",
+      "description": "끝없이 밀려오는 초콜릿의 향연에 굴복하다",
+      "condition": "Chocolate World에서 메뉴 타입 19를 획득하기 (이미 얻은 상태라면 Chocolate World에 입장하기)"
     },
     "midenwa_binding_site": {
-      "name": "Become One with the Phone... Again",
-      "description": "Is one Telephone effect not enough for you?",
-      "condition": "Equip the green telephone mask in Binding Site"
+      "name": "공중 전화지요?",
+      "description": "아뇨 우로츠킨데요?",
+      "condition": "Binding Site에서 초록색 공중 전화 마스크를 장착하기"
     },
     "race_unfamiliar_city": {
-      "name": "Urotsuki Bike Championship",
-      "description": "Dreamers don't build their own houses and bridges, do they?",
-      "condition": "Attempt and finish the race in Unfamiliar City"
+      "name": "2키 배 모터사이클 경주 챔피언십",
+      "description": "꿈만 꾸려 들지 말고, 뭔가를 이뤄내보려는 시도를 해보는 건 어때?",
+      "condition": "Unfamiliar City에서 경주에 도전하고 완주하기"
     },
     "creature_s_p_2_world": {
-      "name": "Lost in the Bole",
-      "description": "Admit it, you missed me.",
-      "condition": "Find the creature in the Sepia Passage of Strange Plants World"
+      "name": "줄기 속에서 잊혀진 존재",
+      "description": "솔직히 말해봐, 내가 그리웠지?",
+      "condition": "Strange Plants World의 세피아 톤 비밀 통로(Sepia tone Passage) 서브 에리어에서 검은 전화기를 장착하거나 투명 이펙트를 사용하여 숨겨진 NPC를 찾아내기"
     },
     "witch_c_aureate_clock": {
-      "name": "Aureate Witch",
-      "description": "Glimmering festival of sketches",
-      "condition": "Visit the Witch's Carnevale in Aureate Clockworks"
+      "name": "금빛의 마녀",
+      "description": "반짝이는 선들이 휘갈겨진 축제",
+      "condition": "Aureate Clockworks의 Witch's Carnevale 서브 에리어에 도달하기"
     },
     "hamster_h_game_pond": {
-      "name": "Pet Mummy",
-      "description": "It is recommended to have at least one roll of toilet paper per hamster!",
-      "condition": "Visit the Hamster Wheel House in Handheld Game Pond"
+      "name": "애완 미라",
+      "description": "햄스터 한 마리 당 최소 두루마리 휴지 하나 정도는 구비해 두시는 걸 추천드립니다!",
+      "condition": "Handheld Game Pond의 Hamster Wheel House 서브 에리어에 도달하기"
     },
     "inhabitant_snowy_apartments": {
-      "name": "Little Twin Flakes",
+      "name": "리틀트윈스노우",
       "description": "119 119 121 121",
-      "condition": "Interact with any snowy inhabitant in Snowy Apartments"
+      "condition": "Snowy Apartments 맵에 돌아다니는 NPC와 상호작용하기"
     },
     "snowy_apartments": {
-      "name": "Snow Home",
-      "description": "The island is a windmill, taking your dreams through the air.",
-      "condition": "Visit Snowy Apartments"
+      "name": "눈덮인 주택가",
+      "description": "이 섬에는 당신의 꿈들을 하늘너머로 보내는 커다란 풍차가 돌아가고 있다고 한다",
+      "condition": "Snowy Apartments에 도달하기"
     },
     "haniwa_m_burgundy_flats": {
-      "name": "Sorrowful Night",
-      "description": "Under moon's soft gaze, I call your name to the stars, but only night hears.",
-      "condition": "Interact with Haniwa-musume in Burgundy Flats"
+      "name": "비탄에 잠긴 밤",
+      "description": "달빛이 은은하게 비치는 곳 아래서 나는 별들을 향해 너의 이름을 외쳐 보았지만, 오직 이를 듣는 것은 밤하늘 뿐이었다",
+      "condition": "Burgundy Flats에서 주황 머리 소녀(Haniwa-musume) NPC와 상호작용 하기"
     },
     "corrupted_nexus_nexus": {
-      "name": "Corrupted Nexus",
-      "description": "Can you call this luck?",
-      "condition": "Complete the Corrupted Nexus event. If you have already seen it, return in The Nexus."
+      "name": "난장판이 된 넥서스",
+      "description": "운...이 좋은거지?",
+      "condition": "Nexus에서 Corrupted Nexus 이벤트를 완료하기 (이미 완료한 상태라면 Nexus에 입장하기)"
     },
     "hat_nexus_c_v_complete": {
-      "name": "Hat Collection",
-      "description": "Try them on and remember the time we've spent together",
-      "condition": "Complete the Hat-Nexus of the Critter Village by collecting all of the hats and equipping them all there"
+      "name": "모자 컬렉션",
+      "description": "모자들을 하나씩 써보며 우리가 함께 보냈던 시간들을 되새겨보자",
+      "condition": "Critter Village의 Hat-Nexus 서브 에리어에서 수집 가능한 모든 모자들을 해금하고, 모자들을 전부 한번씩 써보기"
     },
     "aurora_lake": {
       "name": "Fluorite Lake",
@@ -5417,37 +5417,37 @@
       "condition": "Visit Aurora Lake"
     },
     "cheese_c_candy_haven": {
-      "name": "2CCheese",
-      "description": "The meaning of life is to eat cheese",
-      "condition": "Find the two cheeses in Cotton Candy Haven"
+      "name": "유메2치즈",
+      "description": "인생은 생(Birth)과 사(Death) 사이에 놓인 두 개의 치즈(Cheese)다",
+      "condition": "Cotton Candy Haven에서 치즈 두 조각을 발견하기"
     },
     "qxy_vm_challenge": {
-      "name": "Mathematician",
-      "description": "Here it is said to be from a manufacturer in a snowy mountain range",
-      "condition": "Find and buy a snack from vending machines in the following locations: Snowy Forest, Snowy Forest (Winter Path), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Polycube Ruins (Wood vending machine), Polycube Ruins (Ice vending machine), Flooded Dungeon, Vending Machine Factory (Entrance), Travel Hotel (Balcony), Aurora Lake, Streetlight Docks (Angler's Depths), Kaleidoscope World, Critter Village (Hexagonal Tile Factory), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Bar Entrance)",
+      "name": "수학자",
+      "description": "눈덮인 산 중턱에 있는 공장에서 제작된 듯하다",
+      "condition": "Snowy Forest, Snowy Forest (Winter Path 서브 에리어), Erratic Pillar Lands, Cotton Candy Haven, Neon Caves, Surgical Scissors World, Aquatic Cube City, Static Noise Hell, Wooden Polycube Ruins, Wooden Polycube Ruins (Icy Garden 서브 에리어), Flooded Dungeon, Vending Machine Factory (1층 엘레베이터 옆), Travel Hotel (호텔방 베란다), Aurora Lake, Streetlight Docks (Angler's Depths 서브 에리어), Kaleidoscope World, Critter Village (Hexagonal Tile Factory 서브 에리어), Adabana Gardens, Red Sewers, Wooded Lakeside B, Oblique Hell, Virtual City (Underground Bar 서브 에리어의 입구 구역) 맵에서 각각 자판기를 사용하여 음식을 구매하기",
       "checkbox": {
         "qxy_vm_snowy_forest": "Snowy Forest",
-        "qxy_vm_winter_path": "Snowy Forest (Winter Path)",
+        "qxy_vm_winter_path": "Snowy Forest (Winter Path 서브 에리어)",
         "qxy_vm_erratic_pillands": "Erratic Pillar Lands",
         "qxy_vm_c_c_haven": "Cotton Candy Haven",
         "qxy_vm_neon_caves": "Neon Caves",
         "qxy_vm_surgical_scissors": "Surgical Scissors World",
         "qxy_vm_aquatic_cube_city": "Aquatic Cube City",
         "qxy_vm_static_noise_hell": "Static Noise Hell",
-        "qxy_vm_pl_ruins_wood": "Polycube Ruins (Wood vending machine)",
-        "qxy_vm_pl_ruins_ice": "Polycube Ruins (Ice vending machine)",
+        "qxy_vm_pl_ruins_wood": "Wooden Polycube Ruins",
+        "qxy_vm_pl_ruins_ice": "Wooden Polycube Ruins (Icy Garden 서브 에리어)",
         "qxy_vm_flooded_dungeon": "Flooded Dungeon",
-        "qxy_vm_vm_factory_ent": "Vending Machine Factory (Entrance)",
-        "qxy_vm_travel_hotel_balcony": "Travel Hotel (Balcony)",
+        "qxy_vm_vm_factory_ent": "Vending Machine Factory (1층 엘레베이터 옆)",
+        "qxy_vm_travel_hotel_balcony": "Travel Hotel (호텔방 베란다)",
         "qxy_vm_aurora_lake": "Aurora Lake",
-        "qxy_vm_anglers_depths": "Streetlight Docks (Angler's Depths)",
+        "qxy_vm_anglers_depths": "Streetlight Docks (Angler's Depths 서브 에리어)",
         "qxy_vm_kaleidoscope_world": "Kaleidoscope World",
-        "qxy_vm_h_tile_factory": "Critter Village (Hexagonal Tile Factory)",
+        "qxy_vm_h_tile_factory": "Critter Village (Hexagonal Tile Factory 서브 에리어)",
         "qxy_vm_adabana_gardens": "Adabana Gardens",
         "qxy_vm_red_sewers": "Red Sewers",
         "qxy_vm_wooded_lakeside_b": "Wooded Lakeside B",
         "qxy_vm_oblique_hell": "Oblique Hell",
-        "qxy_vm_virtual_city_bar": "Virtual City (Bar Entrance)"
+        "qxy_vm_virtual_city_bar": "Virtual City (Underground Bar 서브 에리어의 입구 구역)"
       }
     },
     "tentacle_lamplit_stones": {
