@@ -2222,7 +2222,7 @@
       "condition": "Overgrown City에서 이상한 새 모양 석상을 찾아내기"
     },
     "sierpinski_roots": {
-      "name": "시핀스키의 뿌리",
+      "name": "시에르핀스키의 뿌리",
       "condition": "Sierpinski Maze에서 파란 꽃이 핀 식물이 있는 곳에 도달하기"
     },
     "2kki_chainsaw500": {
@@ -5343,8 +5343,8 @@
       "condition": "Marshmallow Shallows에서 수도꼭지의 끝까지 기어들어가 쥐어짜여지기"
     },
     "shimakorpse_r_apartments": {
-      "name": "Body in the Stairwell",
-      "condition": "Find the corpse in the Rainy Apartments stairway"
+      "name": "계단통 안의 몸체",
+      "condition": "Rainy Apartments의 계단 속에서 시신을 발견하기"
     },
     "nurie_library": {
       "name": "색҉͙͖̣̦̦̭͎̤̜̠̜̫̒̄͐̀̇̅̀͛̎ͅ칠҈͖̝̘̖̠̩̳̫̗͔̠̙͌̀͒͒̋̃̏̄͋̚ͅ공҉̟̭̳͖͍̠̯̜̥̱̳͍̞̘͓̗͂̽̊̾͊́͐̍̐̈́́̍͛͂̍̾̒̀̎부҈̱̳͎͓͇̩͈̓̇̒͋̒͑̃͛̓",
@@ -5412,9 +5412,9 @@
       "condition": "Critter Village의 Hat-Nexus 서브 에리어에서 수집 가능한 모든 모자들을 해금하고, 모자들을 전부 한번씩 써보기"
     },
     "aurora_lake": {
-      "name": "Fluorite Lake",
-      "description": "There's so much shine that the game got confusing",
-      "condition": "Visit Aurora Lake"
+      "name": "형석호",
+      "description": "너무 빛이 나서 그런지 게임도 렉이 걸리네",
+      "condition": "Aurora Lake에 도달하기"
     },
     "cheese_c_candy_haven": {
       "name": "유메2치즈",
@@ -5451,52 +5451,52 @@
       }
     },
     "tentacle_lamplit_stones": {
-      "name": "Always Near You",
-      "description": "Something familiar that always watches you.",
-      "condition": "Trigger the event that makes the Sierpinski Maze tentacle appears in Lamplit Stones"
+      "name": "항상 네 곁에",
+      "description": "익숙한 무언가가 항상 당신을 지켜보고 있었다",
+      "condition": "Lamplit Stones에서 특정 이벤트를 발생시켜 Sierpinski Maze에 있었던 촉수가 이곳에 나타나게 만들기"
     },
     "kite_adabana_gardens": {
-      "name": "Lost Kite",
-      "description": "Noo! My kite is stuck in the tree!",
-      "condition": "Find the kite stuck in a tree in Adabana Gardens"
+      "name": "놓쳐버린 연",
+      "description": "안대애! 내 연이 나무에 걸려버려써어!",
+      "condition": "Adabana Gardens에서 나무에 걸려버린 연을 발견하기"
     },
     "blood_river_kaleidscope_w": {
-      "name": "Crazy Kaleidoscopic Psychedelic Party",
-      "description": "It's time for fun!! Why is there a vending machine here???",
-      "condition": "Reach the lounge with the blood river in Kaleidoscope World"
+      "name": "광란의 만화경 환각 파티",
+      "description": "한바탕 놀아보자고!! 그런데 이런 곳에 왜 자판기가???",
+      "condition": "Kaleidoscope World에서 자판기가 위치한 붉은 강변 휴게실(Lounge Room)에 입장하기"
     },
     "ocean_subsurface": {
-      "name": "Darkness Cutters",
-      "description": "Over a hidden antarctic ocean are creatures that cut through the darkness",
-      "condition": "Visit the Ocean Subsurface"
+      "name": "어둠을 가르는 자들",
+      "description": "숨겨진 남극의 바다 속에는 어둠을 가르는 생명체들이 살고 있다",
+      "condition": "Ocean Subsurface에 도달하기"
     },
     "sierpinski_magic": {
-      "name": "Triangulated Skeleton",
-      "description": "The paradigm is whether this is a warning or a delayed consequence",
-      "condition": "Find sierpinski triangles in the following locations: Hot Air Balloon World, Streetlight Docks (Angler's Depths), Kaleidoscope World, Critter Village (Sandy Land), Wooded Lakeside A, Sierpinski Maze",
+      "name": "삼각형의 뼈대",
+      "description": "이것을 일종의 경고로 삼을 것인지, 아니면 뒤늦게 찾아온 결과로 여길 것인지에 대해 해석의 여지가 있을 것이다",
+      "condition": "Hot Air Balloon World, Streetlight Docks (Angler's Depths 서브 에리어), Kaleidoscope World, Critter Village (Sandy Land 서브 에리어), Wooded Lakeside A, Sierpinski Maze 맵에서 시에르핀스키 삼각형 구조물을 발견하기",
       "checkbox": {
         "hot_air_balloon_world": "Hot Air Balloon World",
-        "sierpinski_angler_depths": "Streetlight Docks (Angler's Depths)",
+        "sierpinski_angler_depths": "Streetlight Docks (Angler's Depths 서브 에리어)",
         "sierpinski_kaleidoscope_world": "Kaleidoscope World",
-        "sierpinski_sandy_land": "Critter Village (Sandy Land)",
+        "sierpinski_sandy_land": "Critter Village (Sandy Land 서브 에리어)",
         "sierpinski_wooded_lakeside_a": "Wooded Lakeside A",
         "sierpinski_sierpinski_maze": "Sierpinski Maze"
       }
     },
     "winter_path_snowy_forest": {
-      "name": "Linear Winter",
-      "description": "On the way to the winter fairy",
-      "condition": "Visit the Winter Path in Snowy Forest"
+      "name": "눈덮인 직선도로",
+      "description": "겨울 요정을 만나러 가는 길목에서의 휴식처",
+      "condition": "Snowy Forest의 Winter Path 서브 에리어에 도달하기"
     },
     "tv_room_glitched_butterfly": {
-      "name": "Triangulated Eye",
-      "description": "The eye of infinity",
-      "condition": "Visit the TV Eye Room of Glitched Butterfly Sector"
+      "name": "삼각분할된 눈",
+      "description": "무한대의 눈",
+      "condition": "Glitched Butterfly Sector의 TV Eye Room 서브 에리어에 도달하기"
     },
     "coffee_deserted_town": {
-      "name": "Coffee Time",
-      "description": "Want some coffee?",
-      "condition": "Enter the coffee man's house in Deserted Town and have some coffee with him"
+      "name": "커피 타임",
+      "description": "커피 한잔 할래?",
+      "condition": "Deserted Town의 Coffee man Room 서브 에리어에서 머그잔 머리(Coffee man) NPC가 내려주는 커피 한잔을 마시기"
     },
     "figure_deserted_town": {
       "name": "Hooded Figure",
